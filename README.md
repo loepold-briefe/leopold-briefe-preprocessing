@@ -21,3 +21,11 @@ This folder holds the XML/TEI data from the manually created Transkribus export
 * click **Start export**
 * You'll get an email when the export is completed.
 * Download and unzip the export-zip. Copy the folders in the zip into `transkribus-out`
+
+## upconvert
+
+To combine metadata about the letters curated in a dedicated Baserow-Database and the data fetched from Transkribus run
+
+```bash
+uv run uv run src/make_teis.py
+```
