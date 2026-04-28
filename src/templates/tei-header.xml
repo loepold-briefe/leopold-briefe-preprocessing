@@ -35,7 +35,7 @@
                             <collection>{{ collection }}</collection>
                             <idno>{{ signatur }}</idno>
                         </msIdentifier>
-                        <history>
+                        <history>   
                             <origin>
                                 <origDate when-iso="{{ not_before }}" />
                             </origin>
@@ -47,7 +47,7 @@
     </fileDesc>
     <profileDesc>
         <langUsage>
-            <language ident="{{ language_ident }}"/>
+            <language ident="{{ main_language }}"/>
         </langUsage>
         <correspDesc>
             <correspAction type="sent">{% for x in sender %}

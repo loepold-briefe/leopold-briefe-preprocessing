@@ -7,6 +7,8 @@ from acdh_tei_pyutils.tei import TeiReader
 from jinja2 import Environment, FileSystemLoader
 from tqdm import tqdm
 
+from utils import wrap_pb_sections_in_divs
+
 env = Environment(loader=FileSystemLoader("src/templates"))
 template = env.get_template("tei-header.xml")
 
@@ -14,6 +16,7 @@ LETTERS_SOURCE = "letters.json"
 OUT_DIR = os.path.join("data", "editions")
 
 os.makedirs(OUT_DIR, exist_ok=True)
+
 
 files = sorted(glob.glob("transkribus-out/*/*lb-*.xml"))
 try:
@@ -43,4 +46,5 @@ for x in tqdm(files, total=len(files)):
     for bad in doc.any_xpath(".//tei:teiHeader"):
         bad.getparent().remove(bad)
     doc.tree.getroot().insert(0, header_node)
+    wrap_pb_sections_in_divs(doc)
     doc.tree_to_file(save_path)
