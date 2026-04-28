@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader >
+    <fileDesc>
+        <titleStmt>
+            <title type="main">{{ title }}</title>
+            <title type="sub">Korrespondenz von Kaiser Leopold I</title>
+            {% for x in sender %}
+            <author key="#lp-lb-person-{{x.id}}">{{ x.value }}</author>
+            {% endfor %}
+            <editor key="https://d-nb.info/gnd/132150654">
+                <forename>Petr</forename>
+                <surname>Maťa</surname>
+            </editor>
+        </titleStmt>
+        <editionStmt>
+            <edition>EMT</edition>
+            <respStmt>
+                <resp>Transkription und Annotation</resp>
+                <name>N. N.</name>
+            </respStmt>
+        </editionStmt>
+        <publicationStmt>
+            <publisher key="https://d-nb.info/gnd/1001454-8">Österreichische Akademie der Wissenschaften</publisher>
+            <date when="2028"/>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">Lizenziert unter CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/deed.de)</licence>
+            </availability>
+        </publicationStmt>
+        <sourceDesc>
+            <listWit>
+                <witness>
+                    <msDesc>
+                        <msIdentifier>{% for x in archiv %}
+                            <repository>{{ x.value }}</repository>{% endfor %}
+                            <collection>{{ collection }}</collection>
+                            <idno>{{ signatur }}</idno>
+                        </msIdentifier>
+                        <history>
+                            <origin>
+                                <origDate when-iso="{{ not_before }}" />
+                            </origin>
+                        </history>
+                    </msDesc>
+                </witness>
+            </listWit>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <langUsage>
+            <language ident="{{ language_ident }}"/>
+        </langUsage>
+        <correspDesc>
+            <correspAction type="sent">{% for x in sender %}
+                <persName ref="#lp-lb-person-{{x.id}}">{{ x.value }}</persName>{% endfor %}
+                <date notBefore-iso="{{ not_before }}" notAfter-iso="{{ not_after }}">{{ written_date }}</date>
+            </correspAction>
+            <correspAction type="received">{% for x in receiver %}
+                <persName ref="#lp-lb-person-{{x.id}}">{{ x.value }}</persName>{% endfor %}
+            </correspAction>
+        </correspDesc>
+    </profileDesc>
+</teiHeader>
+</TEI>

@@ -1,0 +1,258 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title type="main"/>
+            <title type="sub">Korrespondenz von Kaiser Leopold I</title>
+            
+            <author key="#lp-lb-person-1">Leopold I.</author>
+            
+            <editor key="https://d-nb.info/gnd/132150654">
+                <forename>Petr</forename>
+                <surname>Maťa</surname>
+            </editor>
+        </titleStmt>
+        <editionStmt>
+            <edition>EMT</edition>
+            <respStmt>
+                <resp>Transkription und Annotation</resp>
+                <name>N. N.</name>
+            </respStmt>
+        </editionStmt>
+        <publicationStmt>
+            <publisher key="https://d-nb.info/gnd/1001454-8">Österreichische Akademie der Wissenschaften</publisher>
+            <date when="2028"/>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">Lizenziert unter CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/deed.de)</licence>
+            </availability>
+        </publicationStmt>
+        <sourceDesc>
+            <listWit>
+                <witness>
+                    <msDesc>
+                        <msIdentifier>
+                            <repository>OÖLA</repository>
+                            <collection>HA Steyr</collection>
+                            <idno>Sch. 1228, Fasz. 17, Nr. 269/1</idno>
+                        </msIdentifier>
+                        <history>
+                            <origin>
+                                <origDate when-iso="1653-11-19"/>
+                            </origin>
+                        </history>
+                    </msDesc>
+                </witness>
+            </listWit>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <langUsage>
+            <language ident=""/>
+        </langUsage>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName ref="#lp-lb-person-1">Leopold I.</persName>
+                <date notBefore-iso="1653-11-19" notAfter-iso="1653-11-19">19. November 1653</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="#lp-lb-person-3">Lamberg, Johann Maximilian von</persName>
+            </correspAction>
+        </correspDesc>
+    </profileDesc>
+</teiHeader>
+<facsimile xml:id="facs_1">
+		<surface ulx="0" uly="0" lrx="2472" lry="3600">
+			<graphic url="ANM, SM_k197_Leopold_ 0065.jpg" width="2472px" height="3600px"/>
+			<zone points="143,76 143,3557 2420,3557 2420,76" rendition="TextRegion" xml:id="facs_1_tr_1">
+				<zone points="2002,168 2027,179 2044,165 2050,173 2080,162 2094,168 2106,157 2145,168 2192,162 2231,185 2248,0 2156,8 2134,0 2092,14 2069,0 2019,0" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
+				<zone points="1236,176 1283,199 1295,193 1351,210 1387,196 1423,207 1437,193 1454,193 1460,34 1395,22 1379,31 1328,17 1309,0 1239,0" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
+				<zone points="268,204 313,221 391,182 587,204 638,179 791,213 836,185 942,182 942,0 828,36 487,50 355,20 268,48" rendition="Line" xml:id="facs_1_tr_1_tl_3"/>
+				<zone points="1272,299 1325,288 1404,324 1474,288 1541,291 1541,201 1490,204 1448,187 1412,204 1373,193 1339,210 1323,201 1272,207" rendition="Line" xml:id="facs_1_tr_1_tl_4"/>
+				<zone points="145,425 1130,470 2343,405 2259,285 1795,347 1309,288 856,369 419,210 145,274" rendition="Line" xml:id="facs_1_tr_1_tl_5"/>
+				<zone points="187,573 1641,573 2055,512 2338,562 2340,433 707,495 607,436 358,495 187,433" rendition="Line" xml:id="facs_1_tr_1_tl_6"/>
+				<zone points="190,727 1012,666 1496,724 1736,643 1932,702 2072,646 2201,721 2405,674 2408,559 193,604" rendition="Line" xml:id="facs_1_tr_1_tl_7"/>
+				<zone points="148,828 2399,777 2399,674 151,733" rendition="Line" xml:id="facs_1_tr_1_tl_8"/>
+				<zone points="190,940 1969,872 2354,951 2357,780 2209,755 1957,839 878,803 559,864 193,800" rendition="Line" xml:id="facs_1_tr_1_tl_9"/>
+				<zone points="182,1043 2290,1023 2329,898 182,962" rendition="Line" xml:id="facs_1_tr_1_tl_10"/>
+				<zone points="185,1177 1812,1127 2366,1174 2338,1001 1230,1091 187,1046" rendition="Line" xml:id="facs_1_tr_1_tl_11"/>
+				<zone points="193,1303 347,1353 1451,1250 2394,1295 2396,1186 196,1205" rendition="Line" xml:id="facs_1_tr_1_tl_12"/>
+				<zone points="187,1454 1166,1398 1328,1446 1736,1367 2346,1415 2396,1320 2055,1267 621,1365 190,1306" rendition="Line" xml:id="facs_1_tr_1_tl_13"/>
+				<zone points="173,1574 1541,1496 2223,1532 2299,1510 2304,1376 1186,1468 1110,1409 176,1462" rendition="Line" xml:id="facs_1_tr_1_tl_14"/>
+				<zone points="171,1653 2354,1641 2354,1538 2024,1527 173,1580" rendition="Line" xml:id="facs_1_tr_1_tl_15"/>
+				<zone points="157,1806 2357,1784 2357,1681 2189,1664 157,1667" rendition="Line" xml:id="facs_1_tr_1_tl_16"/>
+				<zone points="165,1904 2301,1899 2301,1784 165,1809" rendition="Line" xml:id="facs_1_tr_1_tl_17"/>
+				<zone points="171,2033 2357,2058 2357,1918 171,1955" rendition="Line" xml:id="facs_1_tr_1_tl_18"/>
+				<zone points="159,2162 1037,2192 1306,2134 1381,2189 2083,2125 2394,2178 2360,2069 2069,2041 1457,2097 570,2083 464,2019 162,2061" rendition="Line" xml:id="facs_1_tr_1_tl_19"/>
+				<zone points="151,2301 2092,2234 2366,2287 2368,2178 2271,2139 1938,2192 1832,2136 1541,2212 154,2173" rendition="Line" xml:id="facs_1_tr_1_tl_20"/>
+				<zone points="157,2416 2301,2424 2301,2287 679,2279 157,2354" rendition="Line" xml:id="facs_1_tr_1_tl_21"/>
+				<zone points="159,2545 590,2589 1205,2517 2296,2533 2299,2419 1762,2405 1499,2469 881,2419 730,2491 162,2450" rendition="Line" xml:id="facs_1_tr_1_tl_22"/>
+				<zone points="143,2696 2394,2651 2394,2564 2301,2533 145,2575" rendition="Line" xml:id="facs_1_tr_1_tl_23"/>
+				<zone points="140,2827 1622,2768 1787,2816 1907,2757 2346,2768 2349,2707 1820,2668 1683,2732 1404,2679 1054,2729 917,2662 688,2757 143,2690" rendition="Line" xml:id="facs_1_tr_1_tl_24"/>
+				<zone points="129,2953 870,2911 1144,2967 1563,2894 2335,2936 2338,2793 1524,2805 1446,2863 713,2819 528,2883 129,2841" rendition="Line" xml:id="facs_1_tr_1_tl_25"/>
+				<zone points="207,3115 523,3045 1032,3107 1230,3034 2352,3042 2352,2956 2016,2900 1384,2995 951,2944 702,2998 604,2942 210,3003" rendition="Line" xml:id="facs_1_tr_1_tl_26"/>
+				<zone points="176,3199 2357,3168 2357,3081 2240,3107 2139,3031 2013,3098 1913,3051 179,3090" rendition="Line" xml:id="facs_1_tr_1_tl_27"/>
+				<zone points="173,3333 570,3274 1191,3330 1630,3260 2357,3314 2416,3205 2005,3143 1661,3216 1398,3154 1043,3238 173,3238" rendition="Line" xml:id="facs_1_tr_1_tl_28"/>
+				<zone points="168,3451 1264,3442 1359,3381 1683,3428 1798,3372 2282,3411 2377,3392 2380,3305 171,3361" rendition="Line" xml:id="facs_1_tr_1_tl_29"/>
+				<zone points="148,3582 937,3593 940,3439 811,3462 612,3411 498,3462 294,3434 151,3459" rendition="Line" xml:id="facs_1_tr_1_tl_30"/>
+				<zone points="1004,3588 2363,3579 2366,3414 2201,3389 1846,3453 1734,3397 1258,3459 1007,3423" rendition="Line" xml:id="facs_1_tr_1_tl_31"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_2">
+		<surface ulx="0" uly="0" lrx="2435" lry="3593">
+			<graphic url="ANM, SM_k197_Leopold_ 0066.jpg" width="2435px" height="3593px"/>
+			<zone points="155,73 155,1919 2387,1919 2387,73" rendition="TextRegion" xml:id="facs_2_tr_1">
+				<zone points="1164,147 1183,150 1188,145 1226,153 1231,147 1250,142 1244,24 1231,27 1215,11 1207,11 1199,19 1159,11" rendition="Line" xml:id="facs_2_tr_1_tl_1"/>
+				<zone points="262,337 1512,305 1748,364 2379,302 2360,214 1153,249 262,190" rendition="Line" xml:id="facs_2_tr_1_tl_2"/>
+				<zone points="227,442 838,436 966,492 2374,452 2374,369 2189,316 1742,367 765,310 605,393 383,316 227,351" rendition="Line" xml:id="facs_2_tr_1_tl_3"/>
+				<zone points="257,608 1062,546 2363,578 2366,442 1710,498 1544,444 637,463 506,514 260,442" rendition="Line" xml:id="facs_2_tr_1_tl_4"/>
+				<zone points="214,752 498,685 1426,744 2304,685 2304,581 1823,557 1309,658 993,583 822,648 214,618" rendition="Line" xml:id="facs_2_tr_1_tl_5"/>
+				<zone points="147,872 305,814 1445,798 2031,824 2272,905 2272,757 2146,696 147,763" rendition="Line" xml:id="facs_2_tr_1_tl_6"/>
+				<zone points="260,1033 559,939 2157,966 2157,872 2050,822 1542,830 1368,907 1212,827 260,824" rendition="Line" xml:id="facs_2_tr_1_tl_7"/>
+				<zone points="139,1081 227,1124 276,1103 450,1164 538,1127 613,1132 672,1092 814,1089 822,990 669,1012 562,939 332,1030 145,1006" rendition="Line" xml:id="facs_2_tr_1_tl_8"/>
+				<zone points="179,1247 198,1250 206,1261 236,1252 262,1274 302,1263 343,1271 369,1121 343,1121 318,1135 313,1124 302,1127 284,1113 265,1119 254,1113 233,1127 203,1116" rendition="Line" xml:id="facs_2_tr_1_tl_9"/>
+				<zone points="1004,1905 1033,1905 1038,1911 1065,1895 1081,1895 1081,1849 1062,1847 1052,1855 1044,1852 1033,1863 1022,1868 1020,1865 1017,1868 1004,1868" rendition="Line" xml:id="facs_2_tr_1_tl_10"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_3">
+		<surface ulx="0" uly="0" lrx="2464" lry="3613">
+			<graphic url="ANM, SM_k197_Leopold_ 0067.jpg" width="2464px" height="3613px"/>
+			<zone points="200,2796 200,2959 328,2959 328,2796" rendition="TextRegion" xml:id="facs_3_tr_1">
+				<zone points="192,2922 248,2934 270,2934 282,2926 300,2942 308,2936 326,2938 316,2832 292,2826 262,2848 214,2848 186,2858" rendition="Line" xml:id="facs_3_tr_1_tl_1"/>
+			</zone>
+			<zone points="544,2469 544,3185 810,3185 810,2469" rendition="TextRegion" xml:id="facs_3_tr_2">
+				<zone points="536,2582 586,2592 634,2568 670,2582 696,2570 744,2570 766,2556 804,2558 800,2470 722,2472 680,2460 644,2484 614,2472 582,2488 532,2474" rendition="Line" xml:id="facs_3_tr_2_tl_1"/>
+				<zone points="556,2660 580,2670 602,2660 636,2678 676,2650 702,2668 766,2664 766,2612 722,2626 710,2620 698,2626 686,2614 638,2618 628,2610 556,2620" rendition="Line" xml:id="facs_3_tr_2_tl_2"/>
+				<zone points="646,3188 662,3192 678,3216 740,3222 764,3236 866,2950 846,2942 776,2960 728,2960" rendition="Line" xml:id="facs_3_tr_2_tl_3"/>
+			</zone>
+			<zone points="1770,2906 1770,3062 1919,3062 1919,2906" rendition="TextRegion" xml:id="facs_3_tr_4">
+				<zone points="1762,3040 1778,3036 1796,3046 1814,3040 1844,3054 1882,3036 1916,3038 1912,2942 1872,2948 1858,2934 1834,2950 1788,2934 1758,2942" rendition="Line" xml:id="facs_3_tr_4_tl_1"/>
+			</zone>
+			<zone points="549,3306 549,3456 627,3456 627,3306" rendition="TextRegion" xml:id="facs_3_tr_3">
+				<zone points="538,3446 552,3450 566,3446 584,3448 600,3434 622,3436 622,3330 610,3330 594,3322 588,3328 584,3324 576,3326 556,3342 538,3342" rendition="Line" xml:id="facs_3_tr_3_tl_1"/>
+			</zone>
+			<zone points="2143,774 2143,1103 2308,1103 2308,774" rendition="TextRegion" xml:id="facs_3_tr_5">
+				<zone points="2132,828 2148,830 2156,820 2176,828 2182,820 2204,816 2242,832 2248,824 2262,826 2276,814 2286,814 2282,760 2266,770 2252,764 2244,772 2196,744 2128,760" rendition="Line" xml:id="facs_3_tr_5_tl_1"/>
+				<zone points="2188,910 2206,906 2216,910 2228,902 2250,902 2260,894 2272,894 2284,902 2292,896 2304,898 2306,848 2290,852 2270,838 2252,836 2248,840 2242,834 2224,832 2210,818 2192,816" rendition="Line" xml:id="facs_3_tr_5_tl_2"/>
+				<zone points="2164,1110 2182,1106 2186,1112 2206,1096 2242,1086 2254,1076 2270,1078 2272,1022 2258,1022 2256,1018 2242,1024 2238,1020 2228,1028 2220,1024 2184,1056 2168,1056" rendition="Line" xml:id="facs_3_tr_5_tl_3"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_4">
+		<surface ulx="0" uly="0" lrx="2452" lry="3597">
+			<graphic url="ANM, SM_k197_Leopold_ 0068.jpg" width="2452px" height="3597px"/>
+			<zone points="62,3455 62,3596 370,3596 370,3455" rendition="TextRegion" xml:id="facs_4_tr_1">
+				<zone points="56,3576 165,3585 209,3570 367,3571 369,3441 342,3441 249,3502 204,3486 160,3440 58,3439" rendition="Line" xml:id="facs_4_tr_1_tl_1"/>
+			</zone>
+			<zone points="474,3356 474,3515 689,3515 689,3356" rendition="TextRegion" xml:id="facs_4_tr_2">
+				<zone points="466,3481 555,3504 586,3525 628,3508 637,3513 651,3500 682,3511 686,3375 621,3369 608,3382 577,3380 555,3391 523,3377 471,3385" rendition="Line" xml:id="facs_4_tr_2_tl_1"/>
+			</zone>
+			<zone points="797,3341 797,3503 943,3503 943,3341" rendition="TextRegion" xml:id="facs_4_tr_3">
+				<zone points="785,3515 805,3515 857,3490 865,3496 886,3488 935,3496 944,3380 926,3375 904,3386 885,3378 846,3390 796,3389" rendition="Line" xml:id="facs_4_tr_3_tl_1"/>
+			</zone>
+			<zone points="1286,1010 1286,3174 2256,3174 2256,1010" rendition="TextRegion" xml:id="facs_4_tr_4">
+				<zone points="1288,1058 1409,1106 1739,1050 1896,1128 2153,1107 2152,999 1993,967 1842,1012 1288,1001" rendition="Line" xml:id="facs_4_tr_4_tl_1"/>
+				<zone points="1333,1148 1363,1148 1391,1155 1398,1148 1419,1145 1396,1058 1390,1061 1370,1056 1363,1068 1351,1073 1346,1069 1339,1077 1316,1086" rendition="Line" xml:id="facs_4_tr_4_tl_2"/>
+				<zone points="1278,1507 1420,1452 1524,1488 1737,1453 1833,1511 1959,1452 2134,1506 2252,1454 2241,1350 2042,1379 1847,1352 1720,1396 1612,1370 1486,1414 1339,1347 1281,1367" rendition="Line" xml:id="facs_4_tr_4_tl_3"/>
+				<zone points="1387,1567 1441,1585 1558,1549 1616,1599 1697,1603 1883,1539 1975,1566 2032,1543 2100,1589 2211,1578 2211,1484 2080,1509 1967,1452 1835,1511 1784,1477 1696,1503 1625,1471 1515,1517 1387,1520" rendition="Line" xml:id="facs_4_tr_4_tl_4"/>
+				<zone points="1312,1716 1440,1670 1652,1709 1839,1647 2179,1688 2180,1580 2000,1616 1903,1555 1631,1606 1504,1551 1402,1623 1313,1618" rendition="Line" xml:id="facs_4_tr_4_tl_5"/>
+				<zone points="1754,1779 1764,1783 1767,1789 1788,1791 1805,1783 1812,1789 1827,1788 1839,1691 1830,1690 1812,1703 1810,1700 1804,1703 1794,1702 1778,1691 1765,1690" rendition="Line" xml:id="facs_4_tr_4_tl_6"/>
+				<zone points="1533,3182 1562,3193 1588,3179 1606,3181 1618,3090 1605,3087 1594,3073 1575,3065 1565,3053 1549,3055" rendition="Line" xml:id="facs_4_tr_4_tl_7"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<div>
+				<pb facs="#facs_1" n="1"/>
+				<p facs="#facs_1_tr_1">
+					<lb facs="#facs_1_tr_1_tl_1" n="N001"/>No. 56.
+					<lb facs="#facs_1_tr_1_tl_2" n="N002"/>IRCH
+					<lb facs="#facs_1_tr_1_tl_3" n="N003"/>11a) 1683 d. 1. Marcii
+					<lb facs="#facs_1_tr_1_tl_4" n="N004"/>MUSIA
+					<lb facs="#facs_1_tr_1_tl_5" n="N005"/>Lieber Chl. Bürger. Ew. Iphokke. Nd. 15:18. Vid 26. pagato subo
+					<lb facs="#facs_1_tr_1_tl_6" n="N006"/>Ich viel entfangen. Der hatt sie gar zu regen. mit bey lezteren der Brautys
+					<lb facs="#facs_1_tr_1_tl_7" n="N007"/>Schriffs früher pfilsen. In dem bei. Verfals Er amts H. Consulat. zur thun geschlagen
+					<lb facs="#facs_1_tr_1_tl_8" n="N008"/>feitt. Vnnd parti polamam diciet, demitt ist besser schwerdige van es Ver¬
+					<lb facs="#facs_1_tr_1_tl_9" n="N009"/>der Semhlen im Vugebrecht hat. Mein Humbt. bey heutiger Obriges Herrath
+					<lb facs="#facs_1_tr_1_tl_10" n="N010"/>Wirdl. der Respectiven offenbarig Verzuschrei auf. Woche ich noch zwischen
+					<lb facs="#facs_1_tr_1_tl_11" n="N011"/>laziehe In den Enchahnsis von Intenben schon betwil. als schweliger daß
+					<lb facs="#facs_1_tr_1_tl_12" n="N012"/>diese scärtig. Der der Vorge gevollgeänder. Als die Unterstaltung erlgst. Leibe.
+					<lb facs="#facs_1_tr_1_tl_13" n="N013"/>Ihr Sehr ist man hier mich von überlassen den meden seiner Heilen tägensche
+					<lb facs="#facs_1_tr_1_tl_14" n="N014"/>Nur sehen ist Sache nicht werden er das Geistel, zu entilig, als der
+					<lb facs="#facs_1_tr_1_tl_15" n="N015"/>vettenstehe, des To schll ausserheylich seyn. Vielvorthäs der Clers del polis estis
+					<lb facs="#facs_1_tr_1_tl_16" n="N016"/>prince not to beos vesegsela as Ino mede. It gue ach to beleffung
+					<lb facs="#facs_1_tr_1_tl_17" n="N017"/>In binn desbetten der gutter mannei. eß Ihr allwol disponiren wolte.
+					<lb facs="#facs_1_tr_1_tl_18" n="N018"/>demit mein mr vider Insendl hemb. der Macavie ist Eben
+					<lb facs="#facs_1_tr_1_tl_19" n="N019"/>Inso also v. hatt dasabe verke nur augures art sub fin Recemeerulen
+					<lb facs="#facs_1_tr_1_tl_20" n="N020"/>G. Carren. Joanne Nepomueni ToJisssor ang intt Veneyew hom in
+					<lb facs="#facs_1_tr_1_tl_21" n="N021"/>den schon absondetur denoten Ime Chur tels. Is cupra aber de une
+					<lb facs="#facs_1_tr_1_tl_22" n="N022"/>den Contract prov. aß den Oofen von mir geschloßen. Deceren Zw.
+					<lb facs="#facs_1_tr_1_tl_23" n="N023"/>Münsezkang vermocht, wolte daß Seite auff Ihne Junsteln Ihre
+					<lb facs="#facs_1_tr_1_tl_24" n="N024"/>In coven fodem alles nahm. seygegen dHn vatter. et contes vader eens
+					<lb facs="#facs_1_tr_1_tl_25" n="N025"/>sion pergia odia negatur. Visiteur avec un versoke. est viser Hendl. Cet¬
+					<lb facs="#facs_1_tr_1_tl_26" n="N026"/>schon den Vorgasse handel mocht vor meß aber Nachts- welcher mitt
+					<lb facs="#facs_1_tr_1_tl_27" n="N027"/>angehen zuvlassen der entrephte Oratien sie sich ger asiten heitwe
+					<lb facs="#facs_1_tr_1_tl_28" n="N028"/>sich der oder censuljus plese. obrate The buch ondreffer. Ihr veralleeste
+					<lb facs="#facs_1_tr_1_tl_29" n="N029"/>getorfflet. ob &amp; 6 -1 - Wolf-Maturks Mertrin sey vorherweder. Der
+					<lb facs="#facs_1_tr_1_tl_30" n="N030"/>Volmiger als zu schneiden
+					<lb facs="#facs_1_tr_1_tl_31" n="N031"/>copewelh eerste fenler vd luffrye helge
+				</p>
+				<pb facs="#facs_2" n="2"/>
+				<p facs="#facs_2_tr_1">
+					<lb facs="#facs_2_tr_1_tl_1" n="N001"/>4
+					<lb facs="#facs_2_tr_1_tl_2" n="N002"/>Stunden dasselben sehr der Stadt Vises, alsersche habenstens Kunnen¬
+					<lb facs="#facs_2_tr_1_tl_3" n="N003"/>Erbe. Ich solchen besserige wol Zalenberei Meister rechte Verkeren,
+					<lb facs="#facs_2_tr_1_tl_4" n="N004"/>Aepresul Jupal. &amp; nd the roy will Inprat behanden, vnd
+					<lb facs="#facs_2_tr_1_tl_5" n="N005"/>velle sert hin ouperte seulen tag sch. Reschoben so bin
+					<lb facs="#facs_2_tr_1_tl_6" n="N006"/>Ehees gehen Salle Wirhe die Canote Kerkern ob aß schon be¬
+					<lb facs="#facs_2_tr_1_tl_7" n="N007"/>Verbeutenden der Werthe H. der Erster Mertzelg
+					<lb facs="#facs_2_tr_1_tl_8" n="N008"/>Tresulitz
+					<lb facs="#facs_2_tr_1_tl_9" n="N009"/>me
+					<lb facs="#facs_2_tr_1_tl_10" n="N010"/>i
+				</p>
+				<pb facs="#facs_3" n="3"/>
+				<p facs="#facs_3_tr_1">
+					<lb facs="#facs_3_tr_1_tl_1" n="N001"/>r
+				</p>
+				<p facs="#facs_3_tr_2">
+					<lb facs="#facs_3_tr_2_tl_1" n="N001"/>G.C.F.P.
+					<lb facs="#facs_3_tr_2_tl_2" n="N002"/>G.C.H.F.P.
+					<lb facs="#facs_3_tr_2_tl_3" n="N003"/>u
+				</p>
+				<p facs="#facs_3_tr_4">
+					<lb facs="#facs_3_tr_4_tl_1" n="N001"/>e
+				</p>
+				<p facs="#facs_3_tr_3">
+					<lb facs="#facs_3_tr_3_tl_1" n="N001"/>de
+				</p>
+				<p facs="#facs_3_tr_5">
+					<lb facs="#facs_3_tr_5_tl_1" n="N001"/>:
+					<lb facs="#facs_3_tr_5_tl_2" n="N002"/>an
+					<lb facs="#facs_3_tr_5_tl_3" n="N003"/>g
+				</p>
+				<pb facs="#facs_4" n="4"/>
+				<p facs="#facs_4_tr_1">
+					<lb facs="#facs_4_tr_1_tl_1" n="N001"/>in
+				</p>
+				<p facs="#facs_4_tr_2">
+					<lb facs="#facs_4_tr_2_tl_1" n="N001"/>589
+				</p>
+				<p facs="#facs_4_tr_3">
+					<lb facs="#facs_4_tr_3_tl_1" n="N001"/>7t
+				</p>
+				<p facs="#facs_4_tr_4">
+					<lb facs="#facs_4_tr_4_tl_1" n="N001"/>Sr
+					<lb facs="#facs_4_tr_4_tl_2" n="N002"/>le reste de
+					<lb facs="#facs_4_tr_4_tl_3" n="N003"/>Cumpeytheit gepraegen
+					<lb facs="#facs_4_tr_4_tl_4" n="N004"/>gewisse periocherte Ihr
+					<lb facs="#facs_4_tr_4_tl_5" n="N005"/>Sist ging geswehrt wurde
+					<lb facs="#facs_4_tr_4_tl_6" n="N006"/>+
+					<lb facs="#facs_4_tr_4_tl_7" n="N007"/>2e
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>
