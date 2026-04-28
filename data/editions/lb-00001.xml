@@ -5,21 +5,12 @@
         <titleStmt>
             <title type="main">Leopold I. an Lamberg, Johann Maximilian von, 19. November 1653</title>
             <title type="sub">Korrespondenz von Kaiser Leopold I</title>
-            
             <author key="#lp-lb-person-1">Leopold I.</author>
-            
             <editor key="https://d-nb.info/gnd/132150654">
                 <forename>Petr</forename>
                 <surname>Maťa</surname>
             </editor>
         </titleStmt>
-        <editionStmt>
-            <edition>EMT</edition>
-            <respStmt>
-                <resp>Transkription und Annotation</resp>
-                <name>N. N.</name>
-            </respStmt>
-        </editionStmt>
         <publicationStmt>
             <publisher key="https://d-nb.info/gnd/1001454-8">Österreichische Akademie der Wissenschaften</publisher>
             <date when="2028"/>
@@ -36,7 +27,7 @@
                             <collection>HA Steyr</collection>
                             <idno>Sch. 1228, Fasz. 17, Nr. 269/1</idno>
                         </msIdentifier>
-                        <history>
+                        <history>   
                             <origin>
                                 <origDate when-iso="1653-11-19"/>
                             </origin>

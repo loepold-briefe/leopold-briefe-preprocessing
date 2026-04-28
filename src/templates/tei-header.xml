@@ -3,22 +3,13 @@
     <fileDesc>
         <titleStmt>
             <title type="main">{{ title }}</title>
-            <title type="sub">Korrespondenz von Kaiser Leopold I</title>
-            {% for x in sender %}
-            <author key="#lp-lb-person-{{x.id}}">{{ x.value }}</author>
-            {% endfor %}
+            <title type="sub">Korrespondenz von Kaiser Leopold I</title>{% for x in sender %}
+            <author key="#lp-lb-person-{{x.id}}">{{ x.value }}</author>{% endfor %}
             <editor key="https://d-nb.info/gnd/132150654">
                 <forename>Petr</forename>
                 <surname>Maťa</surname>
             </editor>
         </titleStmt>
-        <editionStmt>
-            <edition>EMT</edition>
-            <respStmt>
-                <resp>Transkription und Annotation</resp>
-                <name>N. N.</name>
-            </respStmt>
-        </editionStmt>
         <publicationStmt>
             <publisher key="https://d-nb.info/gnd/1001454-8">Österreichische Akademie der Wissenschaften</publisher>
             <date when="2028"/>

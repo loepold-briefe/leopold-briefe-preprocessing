@@ -5,21 +5,12 @@
         <titleStmt>
             <title type="main">Leopold I. an Kinsky, Franz Ulrich, 1600</title>
             <title type="sub">Korrespondenz von Kaiser Leopold I</title>
-            
             <author key="#lp-lb-person-1">Leopold I.</author>
-            
             <editor key="https://d-nb.info/gnd/132150654">
                 <forename>Petr</forename>
                 <surname>Maťa</surname>
             </editor>
         </titleStmt>
-        <editionStmt>
-            <edition>EMT</edition>
-            <respStmt>
-                <resp>Transkription und Annotation</resp>
-                <name>N. N.</name>
-            </respStmt>
-        </editionStmt>
         <publicationStmt>
             <publisher key="https://d-nb.info/gnd/1001454-8">Österreichische Akademie der Wissenschaften</publisher>
             <date when="2028"/>
@@ -36,7 +27,7 @@
                             <collection>Große Korrespondenz</collection>
                             <idno>K. 63.2, M. '1683-1691', fol. 201r.</idno>
                         </msIdentifier>
-                        <history>
+                        <history>   
                             <origin>
                                 <origDate when-iso="1600-01-01"/>
                             </origin>
