@@ -52,8 +52,8 @@
         </correspDesc>
     </profileDesc>
     <revisionDesc>
-        <change xml:id="metadaten-status">Metadaten angelegt</change>
-        <change xml:id="transkription-status">Transkription angelegt</change>
+        <change xml:id="metadaten-status">angelegt</change>
+        <change xml:id="transkription-status">angelegt</change>
     </revisionDesc>
 </teiHeader>
 <facsimile xml:id="facs_1">
