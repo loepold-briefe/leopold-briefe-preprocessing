@@ -1,10 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader >
+  <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title type="main">{{ title }}</title>
-            <title type="sub">Korrespondenz von Kaiser Leopold I</title>{% for x in sender %}
-            <author key="#lp-lb-person-{{x.id}}">{{ x.value }}</author>{% endfor %}
+            <title type="main">Leopold I. an Kinsky, Franz Ulrich, 1600</title>
+            <title type="sub">Korrespondenz von Kaiser Leopold I</title>
+            <author key="#lp-lb-person-1">Leopold I.</author>
             <editor key="https://d-nb.info/gnd/132150654">
                 <forename>Petr</forename>
                 <surname>Maťa</surname>
@@ -21,14 +22,14 @@
             <listWit>
                 <witness>
                     <msDesc>
-                        <msIdentifier>{% for x in archiv %}
-                            <repository>{{ x.value }}</repository>{% endfor %}
-                            <collection>{{ collection }}</collection>
-                            <idno>{{ signatur }}</idno>
+                        <msIdentifier>
+                            <repository>HHStA</repository>
+                            <collection>Große Korrespondenz</collection>
+                            <idno>K. 63.2, M. '1683-1691', fol. 205r.</idno>
                         </msIdentifier>
                         <history>   
                             <origin>
-                                <origDate when-iso="{{ not_before }}" />
+                                <origDate when-iso="1600-01-01"/>
                             </origin>
                         </history>
                     </msDesc>
@@ -38,17 +39,22 @@
     </fileDesc>
     <profileDesc>
         <langUsage>
-            <language ident="{{ main_language.value }}"/>
+            <language ident="deu"/>
         </langUsage>
         <correspDesc>
-            <correspAction type="sent">{% for x in sender %}
-                <persName ref="#lp-lb-person-{{x.id}}">{{ x.value }}</persName>{% endfor %}
-                <date notBefore-iso="{{ not_before }}" notAfter-iso="{{ not_after }}">{{ written_date }}</date>
+            <correspAction type="sent">
+                <persName ref="#lp-lb-person-1">Leopold I.</persName>
+                <date notBefore-iso="1600-01-01" notAfter-iso="1600-12-31">1600</date>
             </correspAction>
-            <correspAction type="received">{% for x in receiver %}
-                <persName ref="#lp-lb-person-{{x.id}}">{{ x.value }}</persName>{% endfor %}
+            <correspAction type="received">
+                <persName ref="#lp-lb-person-4">Kinsky, Franz Ulrich</persName>
             </correspAction>
         </correspDesc>
     </profileDesc>
 </teiHeader>
+<text>
+      <body>
+         <p>Noch keine Transkription erstellt.</p>
+      </body>
+  </text>
 </TEI>
