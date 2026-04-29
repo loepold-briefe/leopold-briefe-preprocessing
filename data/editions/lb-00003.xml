@@ -51,6 +51,10 @@
             </correspAction>
         </correspDesc>
     </profileDesc>
+    <revisionDesc>
+        <change xml:id="metadaten-status">Metadaten überprüft</change>
+        <change xml:id="transkription-status">Transkription nicht vorhanden</change>
+    </revisionDesc>
 </teiHeader>
 <text>
       <body>

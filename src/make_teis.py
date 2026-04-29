@@ -30,7 +30,6 @@ except FileNotFoundError:
     ).json()
     with open(LETTERS_SOURCE, "w", encoding="utf-8") as fp:
         json.dump(metadata, fp, ensure_ascii=False)
-print(files)
 
 for key, value in tqdm(metadata.items()):
     file_name = f"{value['lb_id']}.xml"

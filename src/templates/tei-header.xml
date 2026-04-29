@@ -50,5 +50,9 @@
             </correspAction>
         </correspDesc>
     </profileDesc>
+    <revisionDesc>
+        <change xml:id="metadaten-status">{{ status_metadaten.value }}</change>
+        <change xml:id="transkription-status">{{ status_transkription.value }}</change>
+    </revisionDesc>
 </teiHeader>
 </TEI>

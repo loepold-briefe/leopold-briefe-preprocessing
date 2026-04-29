@@ -51,6 +51,10 @@
             </correspAction>
         </correspDesc>
     </profileDesc>
+    <revisionDesc>
+        <change xml:id="metadaten-status">Metadaten angelegt</change>
+        <change xml:id="transkription-status">Transkription angelegt</change>
+    </revisionDesc>
 </teiHeader>
 <facsimile xml:id="facs_1">
 		<surface ulx="0" uly="0" lrx="2523" lry="3679">
