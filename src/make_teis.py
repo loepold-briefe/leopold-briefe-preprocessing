@@ -38,7 +38,7 @@ for key, value in tqdm(metadata.items()):
     tei_file_path = next((path for path in files if path.endswith(file_name)), None)
     context = value
     senders = ", ".join([x["value"] for x in context["sender"]])
-    receivers = ", ".join([x["value"] for x in context["receiver"]])
+    receivers = ", ".join([x["label"] for x in context["receiver"]])
     context["title"] = f"{senders} an {receivers}, {context['written_date']}"
     output = template.render(context)
     header_doc = TeiReader(output)

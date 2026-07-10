@@ -22,7 +22,7 @@
                 <witness>
                     <msDesc>
                         <msIdentifier>{% for x in archiv %}
-                            <repository>{{ x.value }}</repository>{% endfor %}
+                            <repository {% if x.gnd_url %}ref="{{ x.gnd_url }}"{% endif %}>{{ x.label }}</repository>{% endfor %}
                             <collection>{{ collection }}</collection>
                             <idno>{{ signatur }}</idno>
                         </msIdentifier>
@@ -49,12 +49,14 @@
         </langUsage>
         <correspDesc>
             <correspAction type="sent">{% for x in sender %}
-                <persName ref="#lp-lb-person-{{x.id}}">{{ x.value }}</persName>{% endfor %}
-                <date notBefore-iso="{{ not_before }}" notAfter-iso="{{ not_after }}">{{ written_date }}</date>
+                <persName ref="#lb-person-{{x.id}}">{{ x.value }}</persName>{% endfor %}
+                <date notBefore-iso="{{ not_before }}" notAfter-iso="{{ not_after }}">{{ written_date }}</date>{% for x in place_of_writing %}
+                <placeName ref="#{{ x.id }}">{{ x.label }}</placeName>{% endfor %}
             </correspAction>
             <correspAction type="received">{% for x in receiver %}
-                <persName ref="#lb-person-{{x.id}}">{{ x.value }}</persName>{% endfor %}{% for x in place_of_writing %}
-                <placeName ref="#lb-place-{{x.id}}">{{ x.value }}</placeName>{% endfor %}
+                <persName ref="#{{ x.lb_id }}">{{ x.label }}</persName>{% endfor %}{% for x in received_place %}
+                <placeName ref="#{{ x.lb_id }}">{{ x.label }}</placeName>{% endfor %}{% if received_date %}
+                <date when="{{ received_date }}"/>{% endif %}
             </correspAction>
         </correspDesc>
     </profileDesc>
