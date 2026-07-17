@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title type="main">Leopold I. an Lamberg, Johann Maximilian von, 23. April 1659</title>
+            <title type="sub">Korrespondenz von Kaiser Leopold I</title>
+            <author key="#lb-person-1">Leopold I.</author>
+            <editor key="https://d-nb.info/gnd/132150654">
+                <forename>Petr</forename>
+                <surname>Maťa</surname>
+            </editor>
+        </titleStmt>
+        <publicationStmt>
+            <publisher key="https://d-nb.info/gnd/1001454-8">Österreichische Akademie der Wissenschaften</publisher>
+            <date when="2028"/>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">Lizenziert unter CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/deed.de)</licence>
+            </availability>
+        </publicationStmt>
+        <sourceDesc>
+            <listWit>
+                <witness>
+                    <msDesc>
+                        <msIdentifier>
+                            <repository ref="https://d-nb.info/gnd/2020619-7">Oberösterreichisches Landesarchiv</repository>
+                            <collection>HA Steyr</collection>
+                            <idno>K. 1233, Fasz. 22, Nr. 366/58, fol. 120r‒v</idno>
+                        </msIdentifier>
+                        <history>   
+                            <origin>
+                                <term>Original</term>
+                                <origDate when-iso="1659-04-23"/>
+                            </origin>
+                        </history>
+                    </msDesc>
+                </witness>
+            </listWit>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <langUsage>
+            <language ident="deu"/>
+        </langUsage>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName ref="#lb-person-1">Leopold I.</persName>
+                <date notBefore-iso="1659-04-23" notAfter-iso="1659-04-23">23. April 1659</date>
+                <placeName ref="#1">Wien</placeName>
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="#lb-person-3">Lamberg, Johann Maximilian von</persName>
+                <placeName ref="#lb-place-72">Madrid</placeName>
+                <date when="1659-05-30"/>
+            </correspAction>
+        </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+        <change xml:id="metadaten-status">angelegt</change>
+        <change xml:id="transkription-status">nicht vorhanden</change>
+    </revisionDesc>
+</teiHeader>
+<text>
+      <body>
+         <p>Noch keine Transkription erstellt.</p>
+      </body>
+  </text>
+</TEI>

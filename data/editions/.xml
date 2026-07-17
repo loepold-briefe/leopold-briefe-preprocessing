@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title type="main"> an , </title>
+            <title type="sub">Korrespondenz von Kaiser Leopold I</title>
+            <editor key="https://d-nb.info/gnd/132150654">
+                <forename>Petr</forename>
+                <surname>Maťa</surname>
+            </editor>
+        </titleStmt>
+        <publicationStmt>
+            <publisher key="https://d-nb.info/gnd/1001454-8">Österreichische Akademie der Wissenschaften</publisher>
+            <date when="2028"/>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">Lizenziert unter CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/deed.de)</licence>
+            </availability>
+        </publicationStmt>
+        <sourceDesc>
+            <listWit>
+                <witness>
+                    <msDesc>
+                        <msIdentifier>
+                            <collection/>
+                            <idno/>
+                        </msIdentifier>
+                        <history>   
+                            <origin>
+                                <origDate when-iso="None"/>
+                            </origin>
+                        </history>
+                    </msDesc>
+                </witness>
+            </listWit>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <langUsage>
+            <language ident=""/>
+        </langUsage>
+        <correspDesc>
+            <correspAction type="sent">
+                <date notBefore-iso="None" notAfter-iso="None"/>
+            </correspAction>
+            <correspAction type="received">
+            </correspAction>
+        </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+        <change xml:id="metadaten-status">angelegt</change>
+        <change xml:id="transkription-status">nicht vorhanden</change>
+    </revisionDesc>
+</teiHeader>
+<facsimile xml:id="facs_1">
+		<surface ulx="0" uly="0" lrx="2472" lry="3671">
+			<graphic url="16005043_0001_119127980.jpg" width="2472px" height="3671px"/>
+			<zone points="45,71 79,2140 2424,2136 2411,63" rendition="TextRegion" xml:id="facs_1_tr_1">
+				<zone points="322,425 794,390 996,401 1120,435 1236,427 1391,423 1436,433 1602,382 1987,404 2272,406 2272,268 2036,224 1947,270 1551,234 1325,293 1163,251 981,320 460,236 325,261" rendition="Line" xml:id="facs_1_tr_1_tl_3"/>
+				<zone points="315,516 684,558 818,528 851,573 979,507 1169,521 1455,528 1500,507 1547,548 1784,490 2067,509 2101,574 2174,515 2260,479 2262,391 1935,400 1874,373 1224,434 1144,436 971,406 758,389 315,465" rendition="Line" xml:id="facs_1_tr_1_tl_4"/>
+				<zone points="334,691 493,674 760,688 897,673 993,680 1077,656 1130,641 1163,661 1363,641 1441,652 1603,605 1714,647 1933,621 2132,637 2181,629 2246,502 2164,514 2101,572 2070,511 1950,489 1861,534 1763,497 1635,558 1549,544 1502,504 1463,534 1208,525 937,521 851,573 819,536 779,526 632,593 438,514 339,556" rendition="Line" xml:id="facs_1_tr_1_tl_5"/>
+				<zone points="378,817 417,801 449,807 548,797 566,821 871,784 1009,816 1125,844 1190,794 1353,816 1537,777 1704,796 1859,777 1962,834 2149,760 2247,777 2305,713 2254,658 2058,622 1849,691 1768,634 1662,667 1352,661 1227,703 1128,640 1100,662 1067,648 1045,664 976,691 494,676 354,728" rendition="Line" xml:id="facs_1_tr_1_tl_6"/>
+				<zone points="342,878 328,831 414,795 443,789 457,826 555,791 582,821 881,792 915,784 1003,815 1129,829 1198,785 1325,821 1368,802 1795,789 1956,837 2045,796 2228,806 2287,821 2299,909 1760,944 1542,952 1495,913 1399,943 826,957 638,938 502,954 433,1012 442,936 342,944" rendition="Line" xml:id="facs_1_l"/>
+				<zone points="346,1066 563,1099 798,1073 848,1099 1052,1050 1261,1099 1539,1038 1775,1102 2023,1058 2311,1060 2348,1052 2368,990 2224,921 1940,979 1822,932 1748,951 1692,915 1554,954 1492,917 1379,959 1158,939 1018,986 628,930 500,956 436,1016 448,929 371,937" rendition="Line" xml:id="facs_1_tr_1_tl_9"/>
+				<zone points="369,1210 618,1222 706,1237 905,1202 1158,1178 1220,1212 1306,1190 1439,1211 1488,1202 1610,1232 2051,1170 2127,1197 2200,1117 2129,1052 2087,1045 1773,1104 1527,1072 1362,1129 1237,1089 1082,1129 905,1055 852,1110 796,1063 653,1111 371,1126" rendition="Line" xml:id="facs_1_tr_1_tl_10"/>
+				<zone points="271,1348 299,1423 454,1348 655,1384 1185,1330 1426,1340 1596,1308 1640,1342 2014,1370 2232,1334 2205,1239 2139,1215 1806,1224 1470,1212 1372,1264 1323,1227 1060,1183 924,1259 703,1269 558,1200 361,1212" rendition="Line" xml:id="facs_1_tr_1_tl_11"/>
+				<zone points="320,1436 811,1492 930,1470 1661,1453 1944,1501 1975,1472 2174,1515 2250,1463 2353,1401 2257,1367 2149,1367 1970,1382 1517,1347 1286,1401 1011,1338 917,1384 784,1352 701,1387 447,1338 320,1404" rendition="Line" xml:id="facs_1_tr_1_tl_12"/>
+				<zone points="266,1510 305,1603 732,1596 838,1652 971,1598 1276,1618 1344,1644 1430,1604 1667,1615 1819,1583 1840,1617 2161,1607 2137,1532 1985,1467 1933,1508 1851,1488 1709,1457 1271,1458 988,1500 305,1448" rendition="Line" xml:id="facs_1_tr_1_tl_13"/>
+				<zone points="1315,1716 1015,1810 788,1712 553,1801 521,1794 542,1734 505,1708 388,1738 390,1607 627,1598 860,1648 955,1614 1072,1598 1306,1623 1348,1643" rendition="Line" xml:id="facs_1_l_3"/>
+				<zone points="773,1851 632,1856 610,1878 521,1977 447,1891 275,1920 288,1783 516,1702 531,1722 519,1800 569,1794 610,1746 806,1716 822,1726" rendition="Line" xml:id="facs_1_l_1"/>
+				<zone points="1348,1643 1350,1644 1422,1611 1667,1633 1822,1579 1846,1628 1966,1611 2092,1608 2144,1675 2092,1758 1842,1706 1677,1756 1596,1699 1374,1735 1348,1740" rendition="Line" xml:id="facs_1_l_2"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_2">
+		<surface ulx="0" uly="0" lrx="2400" lry="3631">
+			<graphic url="16005043_0002_122576756.jpg" width="2400px" height="3631px"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_3">
+		<surface ulx="0" uly="0" lrx="2408" lry="3637">
+			<graphic url="16005043_0003_119128002.jpg" width="2408px" height="3637px"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_4">
+		<surface ulx="0" uly="0" lrx="2472" lry="3671">
+			<graphic url="16005043_0004_119127988.jpg" width="2472px" height="3671px"/>
+			<zone points="808,1866 807,2210 1556,2212 1558,1864" rendition="TextRegion" xml:id="facs_4_tr_1">
+				<zone points="839,2007 862,2028 894,2002 1037,2036 1082,2009 1398,2030 1529,2035 1529,1943 1414,1907 1324,1916 1213,1977 1058,1892 915,1874 860,1914 839,1986" rendition="Line" xml:id="facs_4_tr_1_tl_1"/>
+				<zone points="822,2138 967,2200 1071,2128 1145,2123 1290,2185 1409,2177 1447,2065 1306,2026 1196,2069 1084,2022 1029,2010 975,2052 899,1997 859,2022 819,2019" rendition="Line" xml:id="facs_4_tr_1_tl_2"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<div>
+				<div type="page"><pb facs="#facs_1" n="1"/>
+				<p facs="#facs_1_tr_1">
+					<lb facs="#facs_1_tr_1_tl_3" n="N001"/>Lieber Vratl. Aus beylag ersehet ihr die vrsachen, <w type="start">wa</w>
+					<lb facs="#facs_1_tr_1_tl_4" n="N002"/><w type="end">rvmb</w> der <choice><expan>graf</expan><abbr>g.</abbr></choice> Steffan von Wurmb sich von der <w type="start">lantag</w>
+					<lb facs="#facs_1_tr_1_tl_5" n="N003"/><w type="end">comission</w> <corr>z</corr>ue endtschüetten vermaindt. Waillen ich
+					<lb facs="#facs_1_tr_1_tl_6" n="N004"/>aber selbe nitt vor genuegsamb erhöblich finde,
+					<lb facs="#facs_1_l" n="N005"/>also wollet ihr ihne alßo straxs mundtlich andeütten,
+					<lb facs="#facs_1_tr_1_tl_9" n="N006"/>das er sich alsobaldt nach Brun verfuegen vnd seiner
+					<lb facs="#facs_1_tr_1_tl_10" n="N007"/>comission in termino den anfang geben solle.
+					<lb facs="#facs_1_tr_1_tl_11" n="N008"/>In sain processen vnd causis wirdt müessen vorgesehen
+					<lb facs="#facs_1_tr_1_tl_12" n="N009"/>werden, ne reipublicae causae absens dannum patiat<choice><expan/><abbr>ur</abbr></choice>.
+					<lb facs="#facs_1_tr_1_tl_13" n="N010"/>Vnd verbleibe euch mitt beharlichen <choice><expan>kayserlichen</expan><abbr>kay.</abbr></choice> hulden
+					<lb facs="#facs_1_l_3" n="N011"/>vnd genaden wolgwogen
+					<lb facs="#facs_1_l_1" n="N012"/>Leopoldt
+					<lb facs="#facs_1_l_2" n="N013"/>Den 28. <choice><expan>Januarii</expan><abbr>Jan.</abbr></choice> 1668
+				</p>
+				</div><div type="page"><pb facs="#facs_2" n="2"/>
+				</div><div type="page"><pb facs="#facs_3" n="3"/>
+				</div><div type="page"><pb facs="#facs_4" n="4"/>
+				<p facs="#facs_4_tr_1">
+					<lb facs="#facs_4_tr_1_tl_1" n="N001"/>An graven Vratel
+					<lb facs="#facs_4_tr_1_tl_2" n="N002"/>von Stherenberg
+				</p>
+			</div></div>
+		</body>
+	</text>
+</TEI>

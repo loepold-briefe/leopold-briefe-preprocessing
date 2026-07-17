@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title type="main">Leopold I. an Lamberg, Johann Maximilian von, 19. November 1653</title>
+            <title type="sub">Korrespondenz von Kaiser Leopold I</title>
+            <author key="#lb-person-1">Leopold I.</author>
+            <editor key="https://d-nb.info/gnd/132150654">
+                <forename>Petr</forename>
+                <surname>Maťa</surname>
+            </editor>
+        </titleStmt>
+        <publicationStmt>
+            <publisher key="https://d-nb.info/gnd/1001454-8">Österreichische Akademie der Wissenschaften</publisher>
+            <date when="2028"/>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">Lizenziert unter CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/deed.de)</licence>
+            </availability>
+        </publicationStmt>
+        <sourceDesc>
+            <listWit>
+                <witness>
+                    <msDesc>
+                        <msIdentifier>
+                            <repository ref="https://d-nb.info/gnd/2020619-7">Oberösterreichisches Landesarchiv</repository>
+                            <collection>HA Steyr</collection>
+                            <idno>K. 1228, Fasz. 17, Nr. 269/1</idno>
+                        </msIdentifier>
+                        <history>   
+                            <origin>
+                                <term>Original</term>
+                                <origDate when-iso="1653-11-19"/>
+                            </origin>
+                        </history>
+                    </msDesc>
+                </witness>
+            </listWit>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <langUsage>
+            <language ident="deu"/>
+        </langUsage>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName ref="#lb-person-1">Leopold I.</persName>
+                <date notBefore-iso="1653-11-19" notAfter-iso="1653-11-19">19. November 1653</date>
+                <placeName ref="#1">Wien</placeName>
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="#lb-person-3">Lamberg, Johann Maximilian von</persName>
+                <placeName ref="#lb-place-72">Madrid</placeName>
+                <date when="1654-02-09"/>
+            </correspAction>
+        </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+        <change xml:id="metadaten-status">angelegt</change>
+        <change xml:id="transkription-status">nicht vorhanden</change>
+    </revisionDesc>
+</teiHeader>
+<facsimile xml:id="facs_1">
+		<surface ulx="0" uly="0" lrx="2410" lry="3735">
+			<graphic url="17504255_0001_124178901.jpg" width="2410px" height="3735px"/>
+			<zone points="416,321 436,2419 2382,2421 2384,334" rendition="TextRegion" xml:id="facs_1_tr_1">
+				<zone points="614,513 918,513 989,552 1378,549 1630,561 1727,506 1869,552 1971,522 2382,563 2383,446 2052,440 1969,394 1488,420 893,380 613,403" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
+				<zone points="1341,699 1205,729 1099,696 985,749 623,696 614,633 827,610 1063,600 1353,637" rendition="Line" xml:id="facs_1_l_1"/>
+				<zone points="1364,593 1418,577 1445,586 1521,549 1495,636 1445,632 1392,637 1364,633" rendition="Line" xml:id="facs_1_l"/>
+				<zone points="1366,641 1473,632 1827,577 2375,623 2360,717 2182,756 2017,705 1820,728 1603,685 1374,726" rendition="Line" xml:id="facs_1_l_2"/>
+				<zone points="474,900 1202,909 1434,872 1566,914 2375,915 2376,830 1761,758 1302,752 522,785" rendition="Line" xml:id="facs_1_tr_1_tl_4"/>
+				<zone points="614,1065 818,1037 1349,1090 1606,1077 1793,1085 1930,1033 2274,1084 2380,1078 2381,986 2336,973 2078,979 1669,923 1420,927 905,946 614,891" rendition="Line" xml:id="facs_1_tr_1_tl_5"/>
+				<zone points="595,1238 822,1248 1037,1200 1288,1240 1865,1244 2046,1215 2219,1267 2352,1276 2350,1131 2166,1108 2084,1113 1827,1104 1628,1134 1401,1099 1243,1141 760,1079 623,1106" rendition="Line" xml:id="facs_1_tr_1_tl_6"/>
+				<zone points="611,1392 940,1396 1163,1431 1366,1385 1617,1415 2012,1417 2347,1434 2379,1376 2361,1301 2187,1340 2088,1278 2024,1310 1846,1262 1759,1274 1351,1239 1194,1270 1010,1262 854,1298 609,1241" rendition="Line" xml:id="facs_1_tr_1_tl_7"/>
+				<zone points="614,1580 758,1530 989,1578 1092,1532 1202,1580 1523,1527 1576,1576 1896,1587 1969,1550 2244,1592 2379,1610 2381,1482 2195,1454 1910,1475 1775,1420 1416,1448 1319,1488 1189,1411 863,1452 611,1429" rendition="Line" xml:id="facs_1_tr_1_tl_8"/>
+				<zone points="616,1763 1034,1715 1525,1793 1763,1724 2011,1786 2109,1740 2381,1776 2380,1661 2194,1644 2111,1692 1940,1612 1376,1647 1177,1614 1106,1660 1021,1626 872,1630 614,1621" rendition="Line" xml:id="facs_1_tr_1_tl_9"/>
+				<zone points="627,1903 847,1956 918,1905 998,1951 1214,1956 1505,1903 1749,1942 2178,1935 2265,1999 2376,1964 2378,1891 2326,1877 1937,1814 1516,1843 1365,1795 1106,1825 829,1779 627,1823" rendition="Line" xml:id="facs_1_tr_1_tl_10"/>
+				<zone points="637,2059 949,2080 1225,2050 1963,2091 2077,2061 2075,1960 1737,1940 1413,1942 1301,1975 731,1933 634,1972" rendition="Line" xml:id="facs_1_tr_1_tl_11"/>
+				<zone points="623,2201 767,2217 879,2166 1017,2224 1186,2178 1310,2226 1463,2180 1654,2190 1679,2116 1616,2097 1532,2118 1463,2070 1209,2121 971,2072 646,2091 601,2145" rendition="Line" xml:id="facs_1_tr_1_tl_12"/>
+				<zone points="734,2315 838,2343 1056,2301 1198,2340 1353,2304 1475,2317 1475,2235 1363,2214 1202,2233 1115,2198 969,2233 829,2196 740,2210" rendition="Line" xml:id="facs_1_tr_1_tl_13"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_2">
+		<surface ulx="0" uly="0" lrx="2423" lry="3736">
+			<graphic url="17504255_0002_124178224.jpg" width="2423px" height="3736px"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_3">
+		<surface ulx="0" uly="0" lrx="2440" lry="3736">
+			<graphic url="17504255_0003_124178902.jpg" width="2440px" height="3736px"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_4">
+		<surface ulx="0" uly="0" lrx="2405" lry="3735">
+			<graphic url="17504255_0004_124178225.jpg" width="2405px" height="3735px"/>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<div>
+				<div type="page"><pb facs="#facs_1" n="1"/>
+				<p facs="#facs_1_tr_1">
+					<lb facs="#facs_1_tr_1_tl_1" n="N001"/>Lieber graf von Lamberg. Ich hab eur schreiben zue recht
+					<lb facs="#facs_1_l_1" n="N002"/>empfangen, so wir gar
+					<lb facs="#facs_1_l" n="N003"/>wol<note/>
+					<lb facs="#facs_1_l_2" n="N004"/>gefallen, absonderlich weil
+					<lb facs="#facs_1_tr_1_tl_4" n="N005"/>ihr<note/> daß toros geiait so weitleüffig beschriben. Ich bin zwar
+					<lb facs="#facs_1_tr_1_tl_5" n="N006"/>disen herbst zu Eberstorf gewesen, abe schon vor 5 wochen
+					<lb facs="#facs_1_tr_1_tl_6" n="N007"/>zurukh kommen vnd habe die zeit, so ich draussen <w type="start">ge</w>
+					<lb facs="#facs_1_tr_1_tl_7" n="N008"/><w type="end">sen</w>, 23 stukh wilt geschossen, 15 hasen vnd 7 dachsen <w type="start">gefan</w>
+					<lb facs="#facs_1_tr_1_tl_8" n="N009"/><w type="end">gen</w>, wie auch 5 rebhiener, in neün lerchen geiader 1110 <w type="start">ler</w>
+					<lb facs="#facs_1_tr_1_tl_9" n="N010"/><w type="end">chen</w>, mitt dem kloben 131 maißen vnd auf den denn 183
+					<lb facs="#facs_1_tr_1_tl_10" n="N011"/>vnderschidliche vögel bekommen. Schliesse vnd verbleib
+					<lb facs="#facs_1_tr_1_tl_11" n="N012"/>eur gnedigster herr <blackening>Leopoldus Ignatius</blackening>.
+					<lb facs="#facs_1_tr_1_tl_12" n="N013"/>Wienn, den 19. Novembris anno 1653
+					<lb facs="#facs_1_tr_1_tl_13" n="N014"/>Leopoldus Ignatius
+				</p>
+				</div><div type="page"><pb facs="#facs_2" n="2"/>
+				</div><div type="page"><pb facs="#facs_3" n="3"/>
+				</div><div type="page"><pb facs="#facs_4" n="4"/>
+			</div></div>
+		</body>
+	</text>
+</TEI>

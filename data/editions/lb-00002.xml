@@ -23,7 +23,7 @@
                 <witness>
                     <msDesc>
                         <msIdentifier>
-                            <repository>ANM</repository>
+                            <repository/>
                             <collection>Šternberk-Manderscheid</collection>
                             <idno>K. 197</idno>
                         </msIdentifier>
@@ -47,7 +47,7 @@
         </langUsage>
         <correspDesc>
             <correspAction type="sent">
-                <persName ref="#lp-lb-person-1">Leopold I.</persName>
+                <persName ref="#lb-person-1">Leopold I.</persName>
                 <date notBefore-iso="1668-01-28" notAfter-iso="1668-01-28">28. Jänner 1668</date>
             </correspAction>
             <correspAction type="received">

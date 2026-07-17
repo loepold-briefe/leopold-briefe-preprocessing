@@ -23,7 +23,7 @@
                 <witness>
                     <msDesc>
                         <msIdentifier>
-                            <repository>ANM</repository>
+                            <repository/>
                             <collection>Šternberk-Manderscheid</collection>
                             <idno>K. 197</idno>
                         </msIdentifier>
@@ -47,12 +47,12 @@
         </langUsage>
         <correspDesc>
             <correspAction type="sent">
-                <persName ref="#lp-lb-person-1">Leopold I.</persName>
+                <persName ref="#lb-person-1">Leopold I.</persName>
                 <date notBefore-iso="1672-06-20" notAfter-iso="1672-06-20">20. Juni 1672</date>
+                <placeName ref="#1">Wien</placeName>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#lb-person-38">Sternberg, Adolf Wratislaw</persName>
-                <placeName ref="#lb-place-1">Wien, Stadt</placeName>
             </correspAction>
         </correspDesc>
     </profileDesc>
