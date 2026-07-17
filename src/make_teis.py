@@ -54,6 +54,43 @@ for key, value in tqdm(metadata.items()):
     for old_tag in doc.any_xpath(".//tei:corrected"):
         old_tag.tag = new_tag
 
+    new_tag = f"{{{TEI_NS}}}del"
+    for old_tag in doc.any_xpath(".//tei:blackening"):
+        old_tag.tag = new_tag
+        if "comment" in old_tag.attrib:
+            old_tag.attrib["n"] = old_tag.attrib.pop("comment")
+
+    new_tag = f"{{{TEI_NS}}}seg"
+    for old_tag in doc.any_xpath(".//tei:cipher"):
+        old_tag.tag = new_tag
+        old_tag.attrib["type"] = "cypher"
+        if "decryption" in old_tag.attrib:
+            old_tag.attrib["n"] = old_tag.attrib.pop("decryption")
+
+    new_tag = f"{{{TEI_NS}}}seg"
+    for old_tag in doc.any_xpath(".//tei:code"):
+        old_tag.tag = new_tag
+        old_tag.attrib["type"] = "code"
+        if "decryption" in old_tag.attrib:
+            old_tag.attrib["n"] = old_tag.attrib.pop("decryption")
+
+    new_tag = f"{{{TEI_NS}}}seg"
+    for old_tag in doc.any_xpath(".//tei:error"):
+        old_tag.tag = new_tag
+        old_tag.attrib["type"] = "error"
+        if "corrected" in old_tag.attrib:
+            old_tag.attrib["n"] = old_tag.attrib.pop("corrected")
+
+    new_tag = f"{{{TEI_NS}}}seg"
+    for old_tag in doc.any_xpath(".//tei:sic"):
+        old_tag.tag = new_tag
+        old_tag.attrib["type"] = "sic"
+        if "correction" in old_tag.attrib:
+            old_tag.attrib["n"] = old_tag.attrib.pop("correction")
+
+    for old_tag in doc.any_xpath(".//tei:unclear[@alternative]"):
+        old_tag.attrib["n"] = old_tag.attrib.pop("alternative")
+
     new_tag = f"{{{TEI_NS}}}w"
     for i, old_tag in enumerate(doc.any_xpath(".//tei:split_word"), start=1):
         old_tag.tag = new_tag
