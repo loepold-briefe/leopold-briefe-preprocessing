@@ -57,6 +57,7 @@ for key, value in tqdm(metadata.items()):
     new_tag = f"{{{TEI_NS}}}del"
     for old_tag in doc.any_xpath(".//tei:blackening"):
         old_tag.tag = new_tag
+        old_tag.attrib["rend"] = "blackening"
         if "comment" in old_tag.attrib:
             old_tag.attrib["n"] = old_tag.attrib.pop("comment")
 
@@ -74,22 +75,27 @@ for key, value in tqdm(metadata.items()):
         if "decryption" in old_tag.attrib:
             old_tag.attrib["n"] = old_tag.attrib.pop("decryption")
 
-    new_tag = f"{{{TEI_NS}}}seg"
+    new_tag = f"{{{TEI_NS}}}sic"
     for old_tag in doc.any_xpath(".//tei:error"):
         old_tag.tag = new_tag
-        old_tag.attrib["type"] = "error"
+        old_tag.attrib["rend"] = "error"
         if "corrected" in old_tag.attrib:
             old_tag.attrib["n"] = old_tag.attrib.pop("corrected")
 
-    new_tag = f"{{{TEI_NS}}}seg"
+    new_tag = f"{{{TEI_NS}}}sic"
     for old_tag in doc.any_xpath(".//tei:sic"):
         old_tag.tag = new_tag
-        old_tag.attrib["type"] = "sic"
+        old_tag.attrib["rend"] = "sic"
         if "correction" in old_tag.attrib:
             old_tag.attrib["n"] = old_tag.attrib.pop("correction")
 
     for old_tag in doc.any_xpath(".//tei:unclear[@alternative]"):
         old_tag.attrib["n"] = old_tag.attrib.pop("alternative")
+
+    new_tag = f"{{{TEI_NS}}}del"
+    for x in doc.any_xpath('.//tei:hi[@rend="strikethrough:true;"]'):
+        old_tag.tag = new_tag
+        old_tag.attrib["rend"] = "strikethrough"
 
     new_tag = f"{{{TEI_NS}}}w"
     for i, old_tag in enumerate(doc.any_xpath(".//tei:split_word"), start=1):
