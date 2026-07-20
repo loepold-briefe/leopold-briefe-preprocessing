@@ -76,18 +76,18 @@ for key, value in tqdm(metadata.items()):
             old_tag.attrib["n"] = old_tag.attrib.pop("decryption")
 
     new_tag = f"{{{TEI_NS}}}sic"
-    for old_tag in doc.any_xpath(".//tei:error"):
-        old_tag.tag = new_tag
-        old_tag.attrib["rend"] = "error"
-        if "corrected" in old_tag.attrib:
-            old_tag.attrib["n"] = old_tag.attrib.pop("corrected")
-
-    new_tag = f"{{{TEI_NS}}}sic"
     for old_tag in doc.any_xpath(".//tei:sic"):
         old_tag.tag = new_tag
         old_tag.attrib["rend"] = "sic"
         if "correction" in old_tag.attrib:
             old_tag.attrib["n"] = old_tag.attrib.pop("correction")
+
+    new_tag = f"{{{TEI_NS}}}sic"
+    for old_tag in doc.any_xpath(".//tei:error"):
+        old_tag.tag = new_tag
+        old_tag.attrib["rend"] = "error"
+        if "corrected" in old_tag.attrib:
+            old_tag.attrib["n"] = old_tag.attrib.pop("corrected")
 
     for old_tag in doc.any_xpath(".//tei:unclear[@alternative]"):
         old_tag.attrib["n"] = old_tag.attrib.pop("alternative")
