@@ -93,9 +93,12 @@ for key, value in tqdm(metadata.items()):
         old_tag.attrib["n"] = old_tag.attrib.pop("alternative")
 
     new_tag = f"{{{TEI_NS}}}del"
-    for x in doc.any_xpath('.//tei:hi[@rend="strikethrough:true;"]'):
+    for old_tag in doc.any_xpath('.//tei:hi[@rend="strikethrough:true;"]'):
         old_tag.tag = new_tag
         old_tag.attrib["rend"] = "strikethrough"
+
+    for old_tag in doc.any_xpath('.//tei:hi[@rend="superscript:true;"]'):
+        old_tag.attrib["rend"] = "superscript"
 
     new_tag = f"{{{TEI_NS}}}w"
     for i, old_tag in enumerate(doc.any_xpath(".//tei:split_word"), start=1):
