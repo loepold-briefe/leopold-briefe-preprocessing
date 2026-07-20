@@ -111,10 +111,10 @@
 					<lb facs="#facs_1_tr_1_tl_6" n="N004"/>aber selbe nitt vor genuegsamb erhöblich finde,
 					<lb facs="#facs_1_l" n="N005"/>also wollet ihr ihne alßo straxs mundtlich andeütten,
 					<lb facs="#facs_1_tr_1_tl_9" n="N006"/>das er sich alsobaldt nach <add place="foo-above">Brun</add> verfuegen <del rend="blackening" n="foo-black">vnd</del> seiner
-					<lb facs="#facs_1_tr_1_tl_10" n="N007"/><hi rend="strikethrough:true;">comission</hi> i<hi rend="superscript:true;">n</hi> termino den anfang geben solle.
+					<lb facs="#facs_1_tr_1_tl_10" n="N007"/><del rend="strikethrough">comission</del> i<hi rend="superscript">n</hi> termino den anfang geben solle.
 					<lb facs="#facs_1_tr_1_tl_11" n="N008"/>In sain <choice><expan/><abbr>processen</abbr></choice> vnd causis <corr>wirdt</corr> müessen <seg type="cypher" n="foo-cipher-cor">vorgesehen</seg>
 					<lb facs="#facs_1_tr_1_tl_12" n="N009"/>werden, ne <sic rend="sic" n="foo-sic">reipublicae</sic> causae absens dannum patiat<choice><expan/><abbr>ur</abbr></choice>.
-					<lb facs="#facs_1_tr_1_tl_13" n="N010"/>Vnd <del n="foo-unclear-alternative" rend="strikethrough">verbleibe</del> euch mitt beharlichen <choice><expan>kayserlichen</expan><abbr>kay.</abbr></choice> hulden
+					<lb facs="#facs_1_tr_1_tl_13" n="N010"/>Vnd <unclear n="foo-unclear-alternative">verbleibe</unclear> euch mitt beharlichen <choice><expan>kayserlichen</expan><abbr>kay.</abbr></choice> hulden
 					<lb facs="#facs_1_l_3" n="N011"/>vnd genaden wolgwogen
 					<lb facs="#facs_1_l_1" n="N012"/>Leopoldt
 					<lb facs="#facs_1_l_2" n="N013"/>Den 28. <choice><expan>Januarii</expan><abbr>Jan.</abbr></choice> 1668
