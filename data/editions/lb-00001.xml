@@ -105,13 +105,13 @@
 			<div>
 				<div type="page"><pb facs="#facs_1" n="1"/>
 				<p facs="#facs_1_tr_1">
-					<lb facs="#facs_1_tr_1_tl_3" n="N001"/><choice><expan>foo-abbrev-expan-bar</expan><abbr>Lieber</abbr></choice> <add place="foo-add-place-bar">Vratl</add>. <del rend="blackening" n="foo-blackening-comment-bar">Aus</del> <seg type="cypher" n="foo-cipher-decryphion-bar">beylag</seg> <seg type="code" n="foo-code-decryption-bar">ersehet</seg> ihr<note>foo-comment-comment-bar</note> die <sic rend="sic" n="foo-error-corrected-bar">vrsachen</sic>, <w type="start">wa</w>
+					<lb facs="#facs_1_tr_1_tl_3" n="N001"/><choice><expan>Lieber</expan><abbr>Lb</abbr></choice>. <add>Vratl</add>. <del rend="blackening">Aus</del> <seg type="cypher" n="foo-cipher-decryphion-bar">beylag</seg> <seg type="code" n="foo-code-decryption-bar">ersehet</seg> ihr<note>foo-comment-comment-bar</note> die <sic rend="error" n="foo-error-corrected-bar">vrsachen</sic>, <w type="start">wa</w>
 					<lb facs="#facs_1_tr_1_tl_4" n="N002"/><w type="end">rvmb</w> der <choice><expan>graf</expan><abbr>g.</abbr></choice> Steffan von Wurmb<gap/> sich <sic rend="sic" n="foo-sic-correction-bar">von</sic> <unclear n="foo-unclear-alternative-bar">der</unclear> <w type="start">lantag</w>
 					<lb facs="#facs_1_tr_1_tl_5" n="N003"/><w type="end">comission</w> <corr>z</corr>ue endtschüetten<note>foo-commnt</note> vermaindt. Waillen ich
 					<lb facs="#facs_1_tr_1_tl_6" n="N004"/>aber selbe nitt vor genuegsamb erhöblich finde,
-					<lb facs="#facs_1_l" n="N005"/>also wollet ihr ihne<note/> alßo straxs mundtlich<note>foo-comment-comment</note> andeütten,
-					<lb facs="#facs_1_tr_1_tl_9" n="N006"/>das er sich alsobaldt<note/> nach <add place="foo-above">Brun</add> verfuegen <del rend="blackening" n="foo-black">vnd</del> seiner
-					<lb facs="#facs_1_tr_1_tl_10" n="N007"/><hi rend="strikethrough:true;">comission</hi> i<hi rend="superscript:true;">n</hi> termino<note/> den anfang geben solle.
+					<lb facs="#facs_1_l" n="N005"/>also wollet ihr ihne alßo straxs mundtlich andeütten,
+					<lb facs="#facs_1_tr_1_tl_9" n="N006"/>das er sich alsobaldt nach <add place="foo-above">Brun</add> verfuegen <del rend="blackening" n="foo-black">vnd</del> seiner
+					<lb facs="#facs_1_tr_1_tl_10" n="N007"/><hi rend="strikethrough:true;">comission</hi> i<hi rend="superscript:true;">n</hi> termino den anfang geben solle.
 					<lb facs="#facs_1_tr_1_tl_11" n="N008"/>In sain <choice><expan/><abbr>processen</abbr></choice> vnd causis <corr>wirdt</corr> müessen <seg type="cypher" n="foo-cipher-cor">vorgesehen</seg>
 					<lb facs="#facs_1_tr_1_tl_12" n="N009"/>werden, ne <sic rend="sic" n="foo-sic">reipublicae</sic> causae absens dannum patiat<choice><expan/><abbr>ur</abbr></choice>.
 					<lb facs="#facs_1_tr_1_tl_13" n="N010"/>Vnd <del n="foo-unclear-alternative" rend="strikethrough">verbleibe</del> euch mitt beharlichen <choice><expan>kayserlichen</expan><abbr>kay.</abbr></choice> hulden
