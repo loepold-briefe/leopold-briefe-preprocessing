@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+	<teiHeader>
     <fileDesc>
         <titleStmt>
             <title type="main">Leopold I. an Lamberg, Johann Maximilian von, 31. Mai 1655</title>
@@ -60,9 +60,64 @@
         <change xml:id="transkription-status">nicht vorhanden</change>
     </revisionDesc>
 </teiHeader>
-<text>
-      <body>
-         <p>Noch keine Transkription erstellt.</p>
-      </body>
-  </text>
+<facsimile xml:id="facs_1">
+		<surface ulx="0" uly="0" lrx="2494" lry="3765">
+			<graphic url="17614055_0001_124399026.jpg" width="2494px" height="3765px"/>
+			<zone points="575,300 569,2249 2473,2249 2478,308" rendition="TextRegion" xml:id="facs_1_tr_1">
+				<zone points="585,487 802,468 913,520 1530,507 1611,508 1731,458 1841,513 1912,473 2046,508 2107,461 2231,501 2461,476 2460,408 2292,369 1606,376 1468,385 687,320 585,347" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
+				<zone points="623,611 1039,663 1154,600 1343,665 1537,621 1827,654 2228,641 2438,651 2438,536 2183,535 1947,567 1855,508 1782,543 1359,515 1191,550 1096,522 623,508" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
+				<zone points="597,743 701,795 967,779 1173,806 1237,769 1373,790 1834,773 2474,791 2474,663 606,664" rendition="Line" xml:id="facs_1_tr_1_tl_3"/>
+				<zone points="607,964 799,902 1368,922 1679,908 1886,919 2424,910 2446,818 1952,781 1723,816 1237,769 1086,800 910,792 819,783 607,823" rendition="Line" xml:id="facs_1_tr_1_tl_4"/>
+				<zone points="623,1058 705,1075 814,1016 1110,1063 1178,1011 1324,1056 1472,1013 1756,1039 2030,1015 2267,1044 2419,1023 2424,936 2183,920 1975,933 1946,912 1782,926 1572,948 1201,905 938,916 625,964" rendition="Line" xml:id="facs_1_tr_1_tl_5"/>
+				<zone points="602,1169 764,1220 919,1147 1216,1187 1288,1154 1350,1185 1949,1180 2128,1194 2241,1178 2472,1210 2472,1067 1858,1065 1589,1053 1364,1089 1267,1037 1025,1077 846,1038 731,1067 602,1056" rendition="Line" xml:id="facs_1_tr_1_tl_6"/>
+				<zone points="618,1284 745,1331 958,1317 1211,1333 1307,1305 1423,1335 1599,1270 1712,1310 1919,1316 2008,1324 2159,1309 2288,1326 2471,1307 2471,1212 2335,1227 2151,1198 1559,1187 1296,1182 1183,1176 1089,1218 926,1185 822,1184 764,1214 618,1211" rendition="Line" xml:id="facs_1_tr_1_tl_7"/>
+				<zone points="625,1460 765,1433 868,1456 1101,1466 1281,1411 1538,1460 1604,1406 1872,1404 2055,1430 2307,1390 2466,1434 2467,1319 2349,1310 1996,1314 1944,1350 1869,1310 1500,1321 1420,1361 1263,1323 1158,1343 628,1336" rendition="Line" xml:id="facs_1_tr_1_tl_8"/>
+				<zone points="635,1547 922,1592 1192,1547 1249,1578 1512,1540 1549,1573 1768,1546 1989,1561 2234,1540 2314,1563 2459,1592 2464,1476 2015,1446 1947,1484 1731,1430 1535,1457 1228,1455 1100,1468 750,1454 637,1474" rendition="Line" xml:id="facs_1_tr_1_tl_9"/>
+				<zone points="623,1709 920,1708 1112,1679 1169,1716 1347,1651 1634,1723 1890,1658 2041,1707 2152,1669 2360,1694 2396,1676 2426,1607 2304,1564 2137,1611 2053,1573 1554,1567 1495,1606 1394,1573 1169,1608 1093,1561 951,1586 808,1583 623,1606" rendition="Line" xml:id="facs_1_tr_1_tl_10"/>
+				<zone points="1753,1809 1686,1796 1452,1866 938,1865 851,1810 647,1827 647,1747 747,1721 980,1698 1177,1707 1352,1698 1485,1716 1714,1712 1753,1713" rendition="Line" xml:id="facs_1_l_1"/>
+				<zone points="769,2001 854,2017 908,1999 934,2089 1145,2094 1349,2063 1293,1881 1263,1869 1157,1907 837,1860 771,1908" rendition="Line" xml:id="facs_1_tr_1_tl_12"/>
+				<zone points="1780,1714 2018,1718 2142,1693 2290,1693 2456,1732 2454,1819 2316,1801 2242,1851 1951,1849 1780,1814" rendition="Line" xml:id="facs_1_l_2"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_2">
+		<surface ulx="0" uly="0" lrx="2512" lry="3766">
+			<graphic url="17614055_0002_124399027.jpg" width="2512px" height="3766px"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_3">
+		<surface ulx="0" uly="0" lrx="2510" lry="3766">
+			<graphic url="17614055_0003_124399029.jpg" width="2510px" height="3766px"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_4">
+		<surface ulx="0" uly="0" lrx="2507" lry="3765">
+			<graphic url="17614055_0004_124399030.jpg" width="2507px" height="3765px"/>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<div>
+				<div type="page"><pb facs="#facs_1" n="1"/>
+				<p facs="#facs_1_tr_1">
+					<lb facs="#facs_1_tr_1_tl_1" n="N001"/>Lieber graf von Lamberg. Eür schreiben hab ich durch eüren
+					<lb facs="#facs_1_tr_1_tl_2" n="N002"/>sekretari zu recht empfangen vnd darauß gar gern verstanden,
+					<lb facs="#facs_1_tr_1_tl_3" n="N003"/>daß ihr mir den thuson<note>Goldenes Vlies.</note> (welchen ich den 9. dis empfangen) so fleissing
+					<lb facs="#facs_1_tr_1_tl_4" n="N004"/>procurirt hatt, dessen ich mich bedankhe. Wünsche eüch glükh vnd
+					<lb facs="#facs_1_tr_1_tl_5" n="N005"/>congratulire eüch, daß ihr mein ordens brueder worden seüet.
+					<lb facs="#facs_1_tr_1_tl_6" n="N006"/>der rey de armes ist schon widerümb hinwekh, dem ich ein schreiben
+					<lb facs="#facs_1_tr_1_tl_7" n="N007"/>an Ihr <unclear>May.</unclear> den könig mittgeben. Die kreüzel, so ihr mir geschikt,
+					<lb facs="#facs_1_tr_1_tl_8" n="N008"/>sein <sic rend="error" n="mir">wir</sic> gar angenehm, dann ich gar vil darvon haldt. Von hier
+					<lb facs="#facs_1_tr_1_tl_9" n="N009"/>weiß ich eüch sonsts nichts neües zu schreiben, als daß die Vngern
+					<lb facs="#facs_1_tr_1_tl_10" n="N010"/>in ihren gescheften ga<corr>r</corr> langsam sein. <date when="6. Juni 1655">Künftigen sontag</date>
+					<lb facs="#facs_1_l_1" n="N011"/>wirdt der keyserin crenüng werden<note>Kaiserin Eleonora wurde tatsächlich am 6. Juni 1655 zur Königin von Ungarn gekrönt.</note>.
+					<lb facs="#facs_1_tr_1_tl_12" n="N012"/>Leopoldt Ignati
+					<lb facs="#facs_1_l_2" n="N013"/>Preßburg, den 31. May 1655
+				</p>
+				</div><div type="page"><pb facs="#facs_2" n="2"/>
+				</div><div type="page"><pb facs="#facs_3" n="3"/>
+				</div><div type="page"><pb facs="#facs_4" n="4"/>
+			</div></div>
+		</body>
+	</text>
 </TEI>

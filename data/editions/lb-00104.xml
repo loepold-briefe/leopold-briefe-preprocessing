@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+	<teiHeader>
     <fileDesc>
         <titleStmt>
             <title type="main">Leopold I. an Lamberg, Johann Maximilian von, 27. Jänner 1655</title>
@@ -60,9 +60,90 @@
         <change xml:id="transkription-status">nicht vorhanden</change>
     </revisionDesc>
 </teiHeader>
-<text>
-      <body>
-         <p>Noch keine Transkription erstellt.</p>
-      </body>
-  </text>
+<facsimile xml:id="facs_1">
+		<surface ulx="0" uly="0" lrx="2460" lry="3736">
+			<graphic url="17614015_0001_124399021.jpg" width="2460px" height="3736px"/>
+			<zone points="458,187 464,2859 2426,2866 2409,185" rendition="TextRegion" xml:id="facs_1_tr_1">
+				<zone points="569,437 673,397 977,434 1354,438 1755,434 1836,395 1957,453 2321,420 2358,356 2321,318 2054,276 1843,327 1609,276 1411,327 912,265 694,313 587,290" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
+				<zone points="657,515 852,571 1007,573 1164,551 2013,583 2175,545 2335,601 2374,521 2348,438 1854,455 1677,427 1286,435 991,420 655,462" rendition="Line" xml:id="facs_1_tr_1_tl_3"/>
+				<zone points="645,657 935,699 1229,691 1557,706 1899,650 2033,699 2356,696 2356,615 2061,571 1892,622 1674,573 1578,615 1395,578 973,604 745,550 645,578" rendition="Line" xml:id="facs_1_tr_1_tl_4"/>
+				<zone points="659,859 829,815 887,843 1010,778 1117,826 1301,801 1342,824 1402,778 1750,819 1941,782 2096,833 2317,799 2291,736 2285,756 2262,747 2203,757 2167,755 2138,701 2019,687 1773,720 1383,689 928,717 787,696 659,722" rendition="Line" xml:id="facs_1_tr_1_tl_6"/>
+				<zone points="2156,759 2194,759 2221,747 2247,750 2252,745 2270,745 2270,710 2254,710 2231,692 2214,699 2198,696 2182,713 2173,710 2168,715 2156,715" rendition="Line" xml:id="facs_1_tr_1_tl_5"/>
+				<zone points="643,959 1667,946 1983,966 2170,940 2406,969 2404,833 2156,829 1985,851 1792,823 1722,817 1312,808 1054,826 643,852" rendition="Line" xml:id="facs_1_tr_1_tl_7"/>
+				<zone points="634,1042 1722,1079 2396,1079 2411,1004 2382,968 2224,1005 2140,963 2061,996 1611,942 1131,971 634,956" rendition="Line" xml:id="facs_1_tr_1_tl_8"/>
+				<zone points="878,1199 645,1175 643,1117 847,1042 878,1043" rendition="Line" xml:id="facs_1_l_7"/>
+				<zone points="856,1117 900,1124 911,1051 861,1077" rendition="Line" xml:id="facs_1_l_5"/>
+				<zone points="901,1122 926,1060 1146,1082 1244,1117 1402,1072 1872,1082 2085,1103 2370,1100 2388,1146 2372,1205 2149,1203 2045,1165 1973,1212 1714,1211 1683,1171 1554,1196 1397,1151 1091,1221 896,1201" rendition="Line" xml:id="facs_1_l_4"/>
+				<zone points="562,1309 1441,1308 1623,1328 1880,1307 2083,1293 2351,1316 2349,1221 2168,1224 2036,1175 1927,1212 1486,1177 1098,1206 703,1189 562,1216" rendition="Line" xml:id="facs_1_tr_1_tl_10"/>
+				<zone points="2026,1421 1830,1448 1432,1453 912,1425 631,1467 631,1300 747,1330 977,1295 1232,1311 1669,1314 1759,1346 1906,1321 2027,1379 2035,1402" rendition="Line" xml:id="facs_1_l_3"/>
+				<zone points="2008,1381 2029,1381 2066,1358 2090,1359 2177,1367 2185,1335 2170,1288 2138,1298 2064,1284 2043,1298 2015,1300" rendition="Line" xml:id="facs_1_tr_1_tl_11"/>
+				<zone points="2041,1377 2086,1346 2119,1364 2229,1317 2307,1323 2339,1378 2324,1437 2240,1404 2129,1439 2045,1430" rendition="Line" xml:id="facs_1_l"/>
+				<zone points="629,1525 1038,1576 1319,1568 1446,1574 1790,1534 1935,1576 2359,1596 2393,1574 2391,1448 2307,1432 2161,1483 1931,1432 1769,1450 838,1432 629,1493" rendition="Line" xml:id="facs_1_tr_1_tl_13"/>
+				<zone points="590,1725 1374,1671 1451,1685 1662,1676 1787,1711 2065,1726 2363,1678 2394,1647 2361,1597 2147,1571 1995,1585 1695,1537 1438,1575 1323,1555 1208,1587 1012,1562 587,1585" rendition="Line" xml:id="facs_1_tr_1_tl_14"/>
+				<zone points="634,1800 843,1818 1156,1810 1325,1836 1516,1805 2401,1852 2382,1699 2270,1755 2042,1711 1455,1685 694,1712 631,1734" rendition="Line" xml:id="facs_1_tr_1_tl_15"/>
+				<zone points="508,1966 953,1948 1323,1924 1386,1964 1674,1943 1864,1973 2375,1961 2375,1850 1987,1820 1864,1855 1233,1815 1098,1848 940,1808 508,1869" rendition="Line" xml:id="facs_1_tr_1_tl_16"/>
+				<zone points="645,2073 1028,2080 1316,2084 1410,2050 1460,2075 1679,2065 1889,2103 2111,2075 2170,2096 2303,2060 2273,1971 2124,1964 1334,1969 1165,1950 1073,1958 880,1948 645,1987" rendition="Line" xml:id="facs_1_tr_1_tl_17"/>
+				<zone points="651,2241 778,2221 966,2233 1108,2205 1223,2217 1551,2220 2314,2242 2349,2159 2331,2112 1996,2108 1984,2088 1785,2082 1697,2115 1497,2064 1347,2085 659,2080" rendition="Line" xml:id="facs_1_tr_1_tl_18"/>
+				<zone points="628,2368 734,2337 817,2384 919,2326 1062,2352 1511,2370 1619,2340 1898,2339 2045,2372 2335,2354 2356,2244 1012,2224 754,2224 655,2240" rendition="Line" xml:id="facs_1_tr_1_tl_19"/>
+				<zone points="1793,2494 1504,2516 1318,2495 1070,2532 841,2492 669,2491 666,2377 782,2365 971,2336 1100,2379 1495,2377 1793,2390" rendition="Line" xml:id="facs_1_l_1"/>
+				<zone points="620,2651 812,2653 850,2630 996,2679 1091,2656 1221,2686 1390,2639 1418,2546 1207,2532 1133,2511 998,2514 805,2505 609,2534" rendition="Line" xml:id="facs_1_tr_1_tl_22"/>
+				<zone points="1446,2700 1509,2690 1581,2734 1613,2704 1667,2704 1769,2746 1841,2718 1834,2769 1761,2853 2192,2856 2094,2591 1941,2565 1889,2595 1691,2558 1444,2551" rendition="Line" xml:id="facs_1_tr_1_tl_23"/>
+				<zone points="1816,2388 1878,2382 2013,2412 2255,2403 2402,2438 2402,2497 2354,2500 2254,2487 2227,2500 2203,2509 2189,2491 2078,2476 2041,2496 1805,2492" rendition="Line" xml:id="facs_1_l_2"/>
+				<zone points="2028,2541 2347,2553 2342,2495 2231,2488 2200,2508 2188,2492 2131,2481 2057,2474 2026,2495" rendition="Line" xml:id="facs_1_tr_1_tl_21"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_2">
+		<surface ulx="0" uly="0" lrx="2412" lry="3741">
+			<graphic url="17614015_0002_124399059.jpg" width="2412px" height="3741px"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_3">
+		<surface ulx="0" uly="0" lrx="2473" lry="3741">
+			<graphic url="17614015_0003_124399060.jpg" width="2473px" height="3741px"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_4">
+		<surface ulx="0" uly="0" lrx="2423" lry="3736">
+			<graphic url="17614015_0004_124399022.jpg" width="2423px" height="3736px"/>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<div>
+				<div type="page"><pb facs="#facs_1" n="1"/>
+				<p facs="#facs_1_tr_1">
+					<lb facs="#facs_1_tr_1_tl_2" n="N001"/>Lieber graf von Lamberg. Ich hab eur schreiben gar recht vnd
+					<lb facs="#facs_1_tr_1_tl_3" n="N002"/>wol empfangen vnd darauß euren fleiß, so ihr in procurirung
+					<lb facs="#facs_1_tr_1_tl_4" n="N003"/>des thusons<note>Goldenes Vlies.</note> anwendet, gar gern vernommen, thue mich <w type="start">dero</w>
+					<lb facs="#facs_1_tr_1_tl_6" n="N004"/><w type="end">halben</w> gegen euch bedankhen, dann ihr mir dardurch <del rend="strikethrough">grossen</del>
+					<lb facs="#facs_1_tr_1_tl_5" n="N005"/>ein<note>Überschrieben.</note>
+					<lb facs="#facs_1_tr_1_tl_7" n="N006"/>grosses wolgefallen thuet. Gestern ist mir die <corr>er</corr>bhu<corr>l</corr>diegung
+					<lb facs="#facs_1_tr_1_tl_8" n="N007"/>von den ständten dieses landts Österaich vndter der Ens gelaistet
+					<lb facs="#facs_1_l_7" n="N008"/>worden, 
+					<lb facs="#facs_1_l_5" n="N009"/>es<note>Über der Zeile eingefügt.</note>
+					<lb facs="#facs_1_l_4" n="N010"/>ist alles gar wol vndt stattlich abgangen vnd haben
+					<lb facs="#facs_1_tr_1_tl_10" n="N011"/>mir vber 200 landtstendte die handt gekust. Wier haben daß <w type="start">mit</w>
+					<lb facs="#facs_1_l_3" n="N012"/><w type="end">tagmal</w> erst vmb halber drey geendet, nachdem 
+					<lb facs="#facs_1_tr_1_tl_11" n="N013"/>haben<note>Über der Zeile nachgetragen.</note>
+					<lb facs="#facs_1_l" n="N014"/><corr>er</corr>st die
+					<lb facs="#facs_1_tr_1_tl_13" n="N015"/>anderen angefangen vnd vmb halber sibne aufgehört. Es ist auch
+					<lb facs="#facs_1_tr_1_tl_14" n="N016"/>scharpf getrunken worden, also das der dike von Hoios vber
+					<lb facs="#facs_1_tr_1_tl_15" n="N017"/>die stiegen hatt müessen gefürt werden. Der erbmünzmeister,
+					<lb facs="#facs_1_tr_1_tl_16" n="N018"/>jezt<note>Das Wort nachgetragen.</note> baron CHAOS, vor einem jhar aber Richtshaußer, hatt auf
+					<lb facs="#facs_1_tr_1_tl_17" n="N019"/>sein speßa (wo ers aber genommen, waiß Ich nitt) zu dieser
+					<lb facs="#facs_1_tr_1_tl_18" n="N020"/>huldigung neues geldt (dessen sorten ich euch vberschikhe)
+					<lb facs="#facs_1_tr_1_tl_19" n="N021"/>schlagen lassen. Im vbrigen sein wir alle Gott lob
+					<lb facs="#facs_1_l_1" n="N022"/>wol auf. Schliesse vnd verblaibe
+					<lb facs="#facs_1_tr_1_tl_22" n="N023"/>eur allergnedigst herr
+					<lb facs="#facs_1_tr_1_tl_23" n="N024"/>Leopoldt Ignati
+					<lb facs="#facs_1_l_2" n="N025"/>Wienn, den 27. <sic rend="error" n="Januari">Januai</sic>
+					<lb facs="#facs_1_tr_1_tl_21" n="N026"/>anno 1655
+				</p>
+				</div><div type="page"><pb facs="#facs_2" n="2"/>
+				</div><div type="page"><pb facs="#facs_3" n="3"/>
+				</div><div type="page"><pb facs="#facs_4" n="4"/>
+			</div></div>
+		</body>
+	</text>
 </TEI>

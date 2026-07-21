@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+	<teiHeader>
     <fileDesc>
         <titleStmt>
             <title type="main">Leopold I. an Lamberg, Johann Maximilian von, 3. Oktober 1654</title>
@@ -60,9 +60,72 @@
         <change xml:id="transkription-status">nicht vorhanden</change>
     </revisionDesc>
 </teiHeader>
-<text>
-      <body>
-         <p>Noch keine Transkription erstellt.</p>
-      </body>
-  </text>
+<facsimile xml:id="facs_1">
+		<surface ulx="0" uly="0" lrx="2468" lry="3718">
+			<graphic url="17599898_0001_124383160.jpg" width="2468px" height="3718px"/>
+			<zone points="581,284 567,1961 2444,1961 2442,283" rendition="TextRegion" xml:id="facs_1_tr_1">
+				<zone points="692,505 1138,552 1252,527 1647,546 2141,508 2419,546 2442,443 2288,412 1669,410 1591,461 1507,423 1286,416 1057,392 929,438 772,375 692,399" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
+				<zone points="700,698 1020,671 1266,699 1614,657 2096,677 2240,688 2374,688 2402,596 2180,556 2029,595 1943,550 1294,570 1145,565 938,588 716,563" rendition="Line" xml:id="facs_1_tr_1_tl_3"/>
+				<zone points="699,798 949,796 1098,837 1342,811 2158,817 2234,843 2436,845 2441,714 2365,705 2180,742 1969,690 1762,746 1367,690 1158,735 901,690 699,744" rendition="Line" xml:id="facs_1_tr_1_tl_4"/>
+				<zone points="709,949 2438,955 2438,848 2208,886 2109,824 1248,865 1091,854 956,827 707,822" rendition="Line" xml:id="facs_1_tr_1_tl_5"/>
+				<zone points="1759,1105 1738,1113 1682,1074 1441,1107 705,1065 705,994 791,960 908,996 1184,966 1371,962 1697,977 1757,1022 1759,1022" rendition="Line" xml:id="facs_1_l_1"/>
+				<zone points="1712,990 1770,1016 1816,1003 1836,1012 1974,1003 2019,1001 2003,943 1844,957 1807,938 1762,962 1734,944 1712,953" rendition="Line" xml:id="facs_1_tr_1_tl_6"/>
+				<zone points="1770,1022 1864,1007 1978,1002 2435,1015 2411,1082 2256,1079 2016,1123 1863,1067 1768,1078" rendition="Line" xml:id="facs_1_l_2"/>
+				<zone points="722,1238 1084,1224 1266,1246 1360,1237 1674,1217 2441,1263 2441,1160 2308,1146 2208,1121 1893,1154 1791,1110 1582,1126 720,1098" rendition="Line" xml:id="facs_1_tr_1_tl_8"/>
+				<zone points="699,1330 2046,1371 2361,1348 2361,1281 1595,1248 1300,1244 696,1251" rendition="Line" xml:id="facs_1_tr_1_tl_9"/>
+				<zone points="692,1462 1053,1468 1261,1509 1603,1494 2427,1491 2429,1407 1425,1367 1178,1394 690,1369" rendition="Line" xml:id="facs_1_tr_1_tl_10"/>
+				<zone points="2116,1566 2110,1612 1721,1624 1397,1583 1251,1608 1159,1633 1113,1608 1015,1628 705,1585 703,1529 1091,1515 1520,1527 1660,1501 1785,1535 1859,1505 2110,1532" rendition="Line" xml:id="facs_1_l_3"/>
+				<zone points="722,1712 795,1721 1054,1734 1191,1706 1356,1682 1358,1613 1268,1641 1199,1602 1160,1624 1132,1596 1054,1622 938,1615 886,1641 854,1615 724,1615" rendition="Line" xml:id="facs_1_tr_1_tl_14"/>
+				<zone points="1251,1843 1164,1874 1123,1863 1089,1887 946,1831 770,1850 770,1742 847,1721 1126,1721 1182,1757 1251,1757" rendition="Line" xml:id="facs_1_l_6"/>
+				<zone points="2269,1607 2122,1612 2122,1533 2269,1549" rendition="Line" xml:id="facs_1_l_5"/>
+				<zone points="2129,1526 2159,1551 2193,1531 2244,1553 2295,1559 2333,1535 2350,1552 2375,1472 2322,1499 2296,1484 2217,1479 2195,1485 2180,1473 2160,1475" rendition="Line" xml:id="facs_1_tr_1_tl_11"/>
+				<zone points="2271,1559 2301,1564 2325,1529 2387,1561 2405,1580 2385,1602 2362,1610 2269,1607" rendition="Line" xml:id="facs_1_l"/>
+				<zone points="2118,1629 2435,1681 2434,1598 2399,1596 2366,1609 2333,1594 2270,1592 2247,1586 2212,1591 2194,1580 2115,1596" rendition="Line" xml:id="facs_1_tr_1_tl_13"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_2">
+		<surface ulx="0" uly="0" lrx="2452" lry="3735">
+			<graphic url="17599898_0002_124382791.jpg" width="2452px" height="3735px"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_3">
+		<surface ulx="0" uly="0" lrx="2461" lry="3735">
+			<graphic url="17599898_0003_124383162.jpg" width="2461px" height="3735px"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_4">
+		<surface ulx="0" uly="0" lrx="2441" lry="3718">
+			<graphic url="17599898_0004_124383163.jpg" width="2441px" height="3718px"/>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<div>
+				<div type="page"><pb facs="#facs_1" n="1"/>
+				<p facs="#facs_1_tr_1">
+					<lb facs="#facs_1_tr_1_tl_2" n="N001"/>Lieber graf von Lamberg. Eur schreiben von 5. Augusti
+					<lb facs="#facs_1_tr_1_tl_3" n="N002"/>hab ich zu recht empfangen vnd daraus die beschraibung
+					<lb facs="#facs_1_tr_1_tl_4" n="N003"/>des toros geiaith<note>Stierkampf.</note> mit lust vernommen. Wir sein <sic rend="error" n="jezt">jez</sic> alhie zu
+					<lb facs="#facs_1_tr_1_tl_5" n="N004"/>Eberstorf vnd haben wir die zeit, so wir heraußt sein, 44 hirschen,
+					<lb facs="#facs_1_l_1" n="N005"/>8 wilt, 2 saw gschossen, gfangen 5 hasen,
+					<lb facs="#facs_1_tr_1_tl_6" n="N006"/>2 faßanen,<note>Über der Zeile eingefügt.</note>
+					<lb facs="#facs_1_l_2" n="N007"/>9 rebhiener, in einem
+					<lb facs="#facs_1_tr_1_tl_8" n="N008"/>lerchenjagen 157 lerchen, mitt dem kloben<note>Kloben = Vogelfalle.</note> 67 maisen vnd auf
+					<lb facs="#facs_1_tr_1_tl_9" n="N009"/>den denn<note>Vogeltenne.</note> 120 vnderschid<corr>l</corr>iche vögelein. Heütt nacht ist ein
+					<lb facs="#facs_1_tr_1_tl_10" n="N010"/>donnerwetter gewesen, hatt sich der sumer ohne zweiffel
+					<lb facs="#facs_1_l_3" n="N011"/>von vnß noch letzen<note>Verabschieden.</note> wöllen. Schliesse vnd <sic erroneous_spelling="verblaibe" rend="error" n="verblaibe">verbaibe</sic>
+					<lb facs="#facs_1_tr_1_tl_14" n="N012"/>eur genedigster herr
+					<lb facs="#facs_1_l_6" n="N013"/>Leopoldt Ignati
+					<lb facs="#facs_1_l_5" n="N014"/><del rend="strikethrough">Wienn</del>
+					<lb facs="#facs_1_tr_1_tl_11" n="N015"/>Eberstorf,
+					<lb facs="#facs_1_l" n="N016"/>den 3.
+					<lb facs="#facs_1_tr_1_tl_13" n="N017"/>Octobris <unclear>a.</unclear> 1654
+				</p>
+				</div><div type="page"><pb facs="#facs_2" n="2"/>
+				</div><div type="page"><pb facs="#facs_3" n="3"/>
+				</div><div type="page"><pb facs="#facs_4" n="4"/>
+			</div></div>
+		</body>
+	</text>
 </TEI>

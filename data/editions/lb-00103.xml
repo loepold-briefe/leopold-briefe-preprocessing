@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+	<teiHeader>
     <fileDesc>
         <titleStmt>
             <title type="main">Leopold I. an Lamberg, Johann Maximilian von, 6. Mai 1654</title>
@@ -60,9 +60,80 @@
         <change xml:id="transkription-status">nicht vorhanden</change>
     </revisionDesc>
 </teiHeader>
-<text>
-      <body>
-         <p>Noch keine Transkription erstellt.</p>
-      </body>
-  </text>
+<facsimile xml:id="facs_1">
+		<surface ulx="0" uly="0" lrx="2410" lry="3521">
+			<graphic url="17613195_0001_124398633.jpg" width="2410px" height="3521px"/>
+			<zone points="512,303 531,2605 2383,2599 2393,300" rendition="TextRegion" xml:id="facs_1_tr_1">
+				<zone points="612,509 835,509 1101,491 1530,509 1666,465 1739,498 2100,496 2231,508 2299,493 2387,512 2391,403 2333,395 1938,362 1256,410 1139,369 1032,417 615,356" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
+				<zone points="634,630 964,587 1177,608 1672,581 1868,621 2101,564 2360,590 2360,505 2289,487 2248,517 2095,493 1877,493 1711,493 1491,505 1316,511 1264,489 1100,481 922,505 874,500 731,549 634,520" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
+				<zone points="639,731 826,743 923,723 1204,731 1718,690 2089,699 2215,731 2360,691 2362,628 2024,604 1869,610 1338,612 937,598 812,621 641,632" rendition="Line" xml:id="facs_1_tr_1_tl_3"/>
+				<zone points="637,838 1012,808 1370,833 1757,816 1928,801 2007,831 2095,821 2137,831 2241,822 2387,832 2387,722 2189,711 1872,685 1552,740 1354,705 1199,723 1036,728 933,709 822,748 728,721 639,751" rendition="Line" xml:id="facs_1_tr_1_tl_4"/>
+				<zone points="643,928 879,941 1789,910 2149,946 2391,934 2389,828 2345,831 2261,799 2131,845 2106,813 2008,826 1923,803 1630,833 1198,825 1113,803 893,829 643,863" rendition="Line" xml:id="facs_1_tr_1_tl_5"/>
+				<zone points="632,1010 764,1058 1000,1027 1247,1045 2057,1005 2375,1025 2375,946 2043,930 1872,908 1490,935 1198,919 1059,936 634,922" rendition="Line" xml:id="facs_1_tr_1_tl_6"/>
+				<zone points="632,1141 1003,1138 1139,1161 1391,1123 2300,1108 2303,1043 2208,1015 1924,1004 1145,1047 933,1014 632,1069" rendition="Line" xml:id="facs_1_tr_1_tl_7"/>
+				<zone points="632,1264 761,1243 1150,1251 1326,1220 1411,1256 1528,1223 2378,1234 2374,1107 2179,1131 1921,1130 1681,1143 1420,1133 1096,1141 632,1146" rendition="Line" xml:id="facs_1_tr_1_tl_8"/>
+				<zone points="624,1347 1431,1352 1629,1337 1948,1311 2377,1349 2383,1252 2262,1228 1998,1242 1884,1212 1788,1228 1310,1231 1235,1256 1056,1247 626,1262" rendition="Line" xml:id="facs_1_tr_1_tl_9"/>
+				<zone points="608,1479 825,1472 1196,1434 1319,1464 1732,1424 1789,1449 1904,1437 2380,1442 2375,1345 2224,1324 1916,1327 1833,1321 1653,1349 1528,1335 1354,1372 1207,1341 1135,1383 911,1341 792,1375 610,1361" rendition="Line" xml:id="facs_1_tr_1_tl_10"/>
+				<zone points="634,1547 961,1578 1045,1582 1089,1544 1568,1545 2333,1552 2379,1546 2384,1447 1948,1438 1778,1438 1519,1475 1472,1456 1110,1462 821,1451 634,1497" rendition="Line" xml:id="facs_1_tr_1_tl_11"/>
+				<zone points="643,1688 1720,1641 2383,1649 2383,1546 2213,1545 1504,1549 1240,1574 1089,1539 1046,1584 938,1572 896,1598 808,1563 645,1598" rendition="Line" xml:id="facs_1_tr_1_tl_12"/>
+				<zone points="639,1785 872,1803 923,1804 971,1764 1090,1795 1183,1749 1530,1776 2366,1745 2371,1647 2037,1646 1897,1651 1646,1631 1362,1669 1225,1664 964,1675 823,1677 641,1690" rendition="Line" xml:id="facs_1_tr_1_tl_13"/>
+				<zone points="634,1916 902,1885 1104,1888 1276,1860 1657,1842 1811,1886 2085,1839 2140,1881 2235,1824 2372,1857 2360,1738 1231,1780 1069,1786 968,1763 926,1799 838,1798 637,1785" rendition="Line" xml:id="facs_1_tr_1_tl_14"/>
+				<zone points="641,1997 1012,1989 1216,1963 1486,1991 2128,1943 2384,1967 2384,1859 1888,1861 1818,1880 1374,1848 1172,1891 1078,1875 643,1902" rendition="Line" xml:id="facs_1_tr_1_tl_15"/>
+				<zone points="632,2112 740,2120 969,2076 1262,2090 1606,2086 1800,2083 1929,2055 2252,2050 2385,2094 2381,1967 1819,1960 1508,1982 1285,1971 634,1997" rendition="Line" xml:id="facs_1_tr_1_tl_16"/>
+				<zone points="648,2186 838,2217 900,2177 1018,2208 1283,2171 1420,2202 1532,2155 1778,2177 1886,2154 1901,2175 2239,2145 2384,2178 2384,2110 2303,2090 1945,2077 1595,2078 1501,2107 1433,2072 1201,2116 1130,2070 650,2120" rendition="Line" xml:id="facs_1_tr_1_tl_17"/>
+				<zone points="657,2305 993,2311 1036,2330 1130,2276 1319,2309 1513,2285 1608,2300 2294,2276 2383,2267 2384,2180 1971,2164 1618,2191 1564,2172 1447,2206 1372,2183 1267,2182 1144,2230 1067,2200 926,2205 856,2215 654,2184" rendition="Line" xml:id="facs_1_tr_1_tl_18"/>
+				<zone points="1601,2399 1370,2375 1289,2419 639,2401 642,2308 985,2306 1025,2330 1111,2285 1183,2338 1275,2298 1524,2300 1601,2293" rendition="Line" xml:id="facs_1_l_1"/>
+				<zone points="665,2533 786,2551 875,2544 924,2555 990,2524 1133,2551 1227,2513 1319,2511 1319,2430 1291,2419 1187,2447 1056,2401 843,2441 669,2412" rendition="Line" xml:id="facs_1_tr_1_tl_20"/>
+				<zone points="1648,2289 1714,2283 2371,2294 2376,2400 2261,2414 1975,2410 1876,2373 1648,2403" rendition="Line" xml:id="facs_1_l_2"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_2">
+		<surface ulx="0" uly="0" lrx="2414" lry="3522">
+			<graphic url="17613195_0002_124398634.jpg" width="2414px" height="3522px"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_3">
+		<surface ulx="0" uly="0" lrx="2426" lry="3522">
+			<graphic url="17613195_0003_124398635.jpg" width="2426px" height="3522px"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_4">
+		<surface ulx="0" uly="0" lrx="2404" lry="3521">
+			<graphic url="17613195_0004_124398615.jpg" width="2404px" height="3521px"/>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<div>
+				<div type="page"><pb facs="#facs_1" n="1"/>
+				<p facs="#facs_1_tr_1">
+					<lb facs="#facs_1_tr_1_tl_1" n="N001"/>Lieber graf von Lamberg. Eur schreiben hab ich zu recht <w type="start">empfan</w>
+					<lb facs="#facs_1_tr_1_tl_2" n="N002"/><w type="end">gen</w> vnd darauß beeder <unclear>Kön.</unclear> <unclear>May.</unclear> vnd auch Ihr Liebten der
+					<lb facs="#facs_1_tr_1_tl_3" n="N003"/>infantin guette gesundhait mitt freüden vernommen. Ich Gott
+					<lb facs="#facs_1_tr_1_tl_4" n="N004"/>sey lob befunde mich auch gar wol auf. Den fasching hab ich
+					<lb facs="#facs_1_tr_1_tl_5" n="N005"/>am meisten bey Ihr <unclear>May.</unclear> der verwitibten kayserin <w type="start">zuege<del rend="strikethrough">brach</del></w>
+					<lb facs="#facs_1_tr_1_tl_6" n="N006"/><w type="end">bracht</w>, indeme ich die <date when="16. und 17. Februar">zwey lezten tag</date> biß auf dan abent dort
+					<lb facs="#facs_1_tr_1_tl_7" n="N007"/>verbliben. In der statt haben die cavalieri vnd damas einen
+					<lb facs="#facs_1_tr_1_tl_8" n="N008"/>paurenkirchtag gehalten, dabey meine zwey <sic rend="error" n="camerherren">cameherren</sic> eur
+					<lb facs="#facs_1_tr_1_tl_9" n="N009"/>vetter Hanß Franz von Lamberg keller vnd der von <w type="start">Sprinzen</w>
+					<lb facs="#facs_1_tr_1_tl_10" n="N010"/><w type="end">stain</w> schneider worden. An jezo ist mann sehr alhie bescheftigt,
+					<lb facs="#facs_1_tr_1_tl_11" n="N011"/>weil vier <sic rend="error" n="Ehrenporten">ehenporten</sic>, Eur <unclear>May.</unclear> den kayser zu empfahen, <w type="start">auf</w><note>Vgl.,Keller-Catalano, Diarien 6 xxx (22. April 1654): "Zu Wienn machet man starckhe præparatoria von triumphporten und fewerwerckh, die widerkhunfft ihrer khayserlichen Mayestet und des neüen gecrönten römischen Khönigs zu sollėnniziren." Zum Einzug, der am 24. Mai stattfand, ebd,xxx (30. Mai 1654).</note>
+					<lb facs="#facs_1_tr_1_tl_12" n="N012"/><w type="end">gericht</w> werden.<note>Vgl.,Keller-Catalano, Diarien 6 xxx (22. April 1654): "Zu Wienn machet man starckhe præparatoria von triumphporten und fewerwerckh, die widerkhunfft ihrer khayserlichen Mayestet und des neüen gecrönten römischen Khönigs zu sollėnniziren." Zum Einzug, der am 24. Mai stattfand, ebd,xxx (30. Mai 1654).</note> Die erste wirt von der niderlag bey dem stokh<note>Stock im Eisen,ein historisches Wiener Wahrzeichen und bekannter Orientierungspunkt an der Ecke des heutigen Stock-im-Eisen-Platzes und der Kärntner Straße.</note>
+					<lb facs="#facs_1_tr_1_tl_13" n="N013"/>in eisen<note>Stock im Eisen,ein historisches Wiener Wahrzeichen und bekannter Orientierungspunkt an der Ecke des heutigen Stock-im-Eisen-Platzes und der Kärntner Straße.</note> zugericht. Die ander richt die gemeine statt auf den
+					<lb facs="#facs_1_tr_1_tl_14" n="N014"/>Graben auf. Die dritte wirt von <sic rend="error" n="den">de</sic> hofbefreitten auf den
+					<lb facs="#facs_1_tr_1_tl_15" n="N015"/>Kolmarkt zuberaittet, auf welcher siben statuen Herculis stehen,
+					<lb facs="#facs_1_tr_1_tl_16" n="N016"/>doch ist ein Hercules auß ihnen so schwach, daß im<note>Ihn.</note> der wind neulich
+					<lb facs="#facs_1_tr_1_tl_17" n="N017"/>an kopff vnd hent verlezt hatt. Die vierte last die kammer
+					<lb facs="#facs_1_tr_1_tl_18" n="N018"/>auf den schwibogen bey den burkhplatz verfertigen. Schliesse
+					<lb facs="#facs_1_l_1" n="N019"/>vnd verbleibe eur gnedigster herr
+					<lb facs="#facs_1_tr_1_tl_20" n="N020"/>Leopoldus Ignatius
+					<lb facs="#facs_1_l_2" n="N021"/>Wienn, den 6. May <unclear>a<hi rend="superscript">o</hi></unclear> 1654
+				</p>
+				</div><div type="page"><pb facs="#facs_2" n="2"/>
+				</div><div type="page"><pb facs="#facs_3" n="3"/>
+				</div><div type="page"><pb facs="#facs_4" n="4"/>
+			</div></div>
+		</body>
+	</text>
 </TEI>

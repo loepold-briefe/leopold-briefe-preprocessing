@@ -62,7 +62,7 @@
 </teiHeader>
 <facsimile xml:id="facs_1">
 		<surface ulx="0" uly="0" lrx="2410" lry="3735">
-			<graphic url="17504255_0001_124178901.jpg" width="2410px" height="3735px"/>
+			<graphic url="17600215_0001_124383158.jpg" width="2410px" height="3735px"/>
 			<zone points="416,321 436,2419 2382,2421 2384,334" rendition="TextRegion" xml:id="facs_1_tr_1">
 				<zone points="614,513 918,513 989,552 1378,549 1630,561 1727,506 1869,552 1971,522 2382,563 2383,446 2052,440 1969,394 1488,420 893,380 613,403" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
 				<zone points="1341,699 1205,729 1099,696 985,749 623,696 614,633 827,610 1063,600 1353,637" rendition="Line" xml:id="facs_1_l_1"/>
@@ -83,17 +83,17 @@
 	</facsimile>
 	<facsimile xml:id="facs_2">
 		<surface ulx="0" uly="0" lrx="2423" lry="3736">
-			<graphic url="17504255_0002_124178224.jpg" width="2423px" height="3736px"/>
+			<graphic url="17600215_0002_124383161.jpg" width="2423px" height="3736px"/>
 		</surface>
 	</facsimile>
 	<facsimile xml:id="facs_3">
 		<surface ulx="0" uly="0" lrx="2440" lry="3736">
-			<graphic url="17504255_0003_124178902.jpg" width="2440px" height="3736px"/>
+			<graphic url="17600215_0003_124382792.jpg" width="2440px" height="3736px"/>
 		</surface>
 	</facsimile>
 	<facsimile xml:id="facs_4">
 		<surface ulx="0" uly="0" lrx="2405" lry="3735">
-			<graphic url="17504255_0004_124178225.jpg" width="2405px" height="3735px"/>
+			<graphic url="17600215_0004_124383054.jpg" width="2405px" height="3735px"/>
 		</surface>
 	</facsimile>
 	<text>
@@ -102,15 +102,15 @@
 				<div type="page"><pb facs="#facs_1" n="1"/>
 				<p facs="#facs_1_tr_1">
 					<lb facs="#facs_1_tr_1_tl_1" n="N001"/>Lieber graf von Lamberg. Ich hab eur schreiben zue recht
-					<lb facs="#facs_1_l_1" n="N002"/>empfangen, so wir gar
-					<lb facs="#facs_1_l" n="N003"/>wol<note/>
+					<lb facs="#facs_1_l_1" n="N002"/>empfangen, so <sic erroneous_spelling="mir" rend="error" n="mir">wir</sic> gar
+					<lb facs="#facs_1_l" n="N003"/>wol<note>Das Wort über der Zeile eingefügt.</note>
 					<lb facs="#facs_1_l_2" n="N004"/>gefallen, absonderlich weil
-					<lb facs="#facs_1_tr_1_tl_4" n="N005"/>ihr<note/> daß toros geiait so weitleüffig beschriben. Ich bin zwar
-					<lb facs="#facs_1_tr_1_tl_5" n="N006"/>disen herbst zu Eberstorf gewesen, abe schon vor 5 wochen
-					<lb facs="#facs_1_tr_1_tl_6" n="N007"/>zurukh kommen vnd habe die zeit, so ich draussen <w type="start">ge</w>
-					<lb facs="#facs_1_tr_1_tl_7" n="N008"/><w type="end">sen</w>, 23 stukh wilt geschossen, 15 hasen vnd 7 dachsen <w type="start">gefan</w>
-					<lb facs="#facs_1_tr_1_tl_8" n="N009"/><w type="end">gen</w>, wie auch 5 rebhiener, in neün lerchen geiader 1110 <w type="start">ler</w>
-					<lb facs="#facs_1_tr_1_tl_9" n="N010"/><w type="end">chen</w>, mitt dem kloben 131 maißen vnd auf den denn 183
+					<lb facs="#facs_1_tr_1_tl_4" n="N005"/>ihr<note>Das Wort nachgetragen.</note> daß toros geiait<note>Geiait = Jagd. Hierbei handelt es sich wohl um den Stierkampf, der am 3. September 1653 in Madrid anlässlich der Krönung Ferdinands IV. zum römischen König (am 17. Juni 1653 in Regensburg) veranstaltet wurde.</note> so weitleüffig beschriben. Ich bin zwar
+					<lb facs="#facs_1_tr_1_tl_5" n="N006"/>disen herbst zu Eberstorf gewesen, <sic erroneous_spelling="aber" rend="error" n="aber">abe</sic> schon vor 5 wochen
+					<lb facs="#facs_1_tr_1_tl_6" n="N007"/>zurukh kommen vnd habe die zeit, so ich draussen <w type="start"><sic erroneous_spelling="gewesen" rend="error" n="gewesen">ge</sic></w>
+					<lb facs="#facs_1_tr_1_tl_7" n="N008"/><w type="end"><sic erroneous_spelling="gewesen" rend="error" n="gewesen">sen</sic></w>, 23 stukh wilt geschossen, 15 hasen vnd 7 dachsen <w type="start">gefan</w>
+					<lb facs="#facs_1_tr_1_tl_8" n="N009"/><w type="end">gen</w>, wie auch 5 rebhiener, in neün lerchen geiader<note>Lerchenjagden.</note> 1110 <w type="start">ler</w>
+					<lb facs="#facs_1_tr_1_tl_9" n="N010"/><w type="end">chen</w>, mitt dem kloben<note>Vogelfalle.</note> 131 maißen vnd auf den denn<note/> 183
 					<lb facs="#facs_1_tr_1_tl_10" n="N011"/>vnderschidliche vögel bekommen. Schliesse vnd verbleib
 					<lb facs="#facs_1_tr_1_tl_11" n="N012"/>eur gnedigster herr <del rend="blackening">Leopoldus Ignatius</del>.
 					<lb facs="#facs_1_tr_1_tl_12" n="N013"/>Wienn, den 19. Novembris anno 1653
