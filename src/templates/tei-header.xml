@@ -22,7 +22,7 @@
                 <witness>
                     <msDesc>
                         <msIdentifier>{% for x in archiv %}
-                            <repository {% if x.gnd_url %}ref="{{ x.gnd_url }}"{% endif %}>{{ x.label }}</repository>{% endfor %}
+                            <repository {% if x.gnd_url %}ref="{{ x.gnd_url }}"{% endif %} n="{{ x.abbr }}">{{ x.label }}</repository>{% endfor %}
                             <collection>{{ collection }}</collection>
                             <idno>{{ signatur }}</idno>
                         </msIdentifier>
