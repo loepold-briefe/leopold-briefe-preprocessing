@@ -8,7 +8,14 @@
             <editor key="https://d-nb.info/gnd/132150654">
                 <forename>Petr</forename>
                 <surname>Maťa</surname>
-            </editor>
+            </editor>{% if contributors and credits %}
+            <respStmt>
+                <resp>{{ credits }}</resp>{% for x in contributors %}
+                <persName n="{{ x.label }}" {% if x.uri %} key="{{ x.uri }}"{% endif %}>
+                    <surname>{{ x.last_name }}</surname>
+                    <forename>{{ x.first_name }}</forename>
+                </persName>{% endfor %}
+            </respStmt>{% endif %}
         </titleStmt>
         <publicationStmt>
             <publisher key="https://d-nb.info/gnd/1001454-8">Österreichische Akademie der Wissenschaften</publisher>
