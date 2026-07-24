@@ -23,7 +23,7 @@
                 <witness>
                     <msDesc>
                         <msIdentifier>
-                            <repository ref="https://d-nb.info/gnd/2020619-7">Oberösterreichisches Landesarchiv</repository>
+                            <repository ref="https://d-nb.info/gnd/2020619-7" n="OÖLA">Oberösterreichisches Landesarchiv</repository>
                             <collection>HA Steyr</collection>
                             <idno>K. 1233, Fasz. 22, Nr. 366/2, fol. 8r‒9v</idno>
                         </msIdentifier>
