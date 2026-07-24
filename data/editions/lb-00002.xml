@@ -10,6 +10,13 @@
                 <forename>Petr</forename>
                 <surname>Maťa</surname>
             </editor>
+            <respStmt>
+                <resp>bearb. v. Petr Maťa und Stefan Sienell</resp>
+                <persName n="Stefan Sienell" key="https://d-nb.info/gnd/122613589">
+                    <surname>Sienell</surname>
+                    <forename>Stefan</forename>
+                </persName>
+            </respStmt>
         </titleStmt>
         <publicationStmt>
             <publisher key="https://d-nb.info/gnd/1001454-8">Österreichische Akademie der Wissenschaften</publisher>

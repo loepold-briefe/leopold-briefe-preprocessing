@@ -10,6 +10,13 @@
                 <forename>Petr</forename>
                 <surname>Maťa</surname>
             </editor>
+            <respStmt>
+                <resp>auf Grundlage der Edition v. Zdeněk Kalista bearb. v. Petr Maťa</resp>
+                <persName n="Zdeněk Kalista" key="https://d-nb.info/gnd/119487888">
+                    <surname>Kalista</surname>
+                    <forename>Zdeněk</forename>
+                </persName>
+            </respStmt>
         </titleStmt>
         <publicationStmt>
             <publisher key="https://d-nb.info/gnd/1001454-8">Österreichische Akademie der Wissenschaften</publisher>
