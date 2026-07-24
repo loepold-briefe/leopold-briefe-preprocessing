@@ -23,7 +23,7 @@
                 <witness>
                     <msDesc>
                         <msIdentifier>
-                            <repository/>
+                            <repository>Archiv Národního muzea</repository>
                             <collection>Šternberk-Manderscheid</collection>
                             <idno>K. 197</idno>
                         </msIdentifier>
@@ -57,7 +57,7 @@
         </correspDesc>
     </profileDesc>
     <revisionDesc>
-        <change xml:id="metadaten-status">angelegt</change>
+        <change xml:id="metadaten-status"/>
         <change xml:id="transkription-status">finalisiert</change>
     </revisionDesc>
 </teiHeader>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+	<teiHeader>
     <fileDesc>
         <titleStmt>
             <title type="main">Leopold I. an Lamberg, Johann Maximilian von, 22. Mai 1658</title>
@@ -57,12 +57,77 @@
     </profileDesc>
     <revisionDesc>
         <change xml:id="metadaten-status">angelegt</change>
-        <change xml:id="transkription-status">nicht vorhanden</change>
+        <change xml:id="transkription-status">finalisiert</change>
     </revisionDesc>
 </teiHeader>
-<text>
-      <body>
-         <p>Noch keine Transkription erstellt.</p>
-      </body>
-  </text>
+<facsimile xml:id="facs_1">
+		<surface ulx="0" uly="0" lrx="2721" lry="4016">
+			<graphic url="17674896_0001_124533937.jpg" width="2721px" height="4016px"/>
+			<zone points="122,209 124,2991 2690,2998 2622,203" rendition="TextRegion" xml:id="facs_1_tr_1">
+				<zone points="267,504 384,463 704,493 736,515 730,557 737,596 782,592 874,493 910,482 1044,543 1152,478 1569,437 1971,510 2279,434 2443,472 2511,336 2299,361 2135,311 1877,361 1730,328 1630,375 1422,296 1293,361 1038,367 569,305 471,284 284,276" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
+				<zone points="252,730 487,697 563,651 698,701 780,657 927,730 1029,660 1275,651 1466,641 1616,695 1736,625 1908,651 2023,604 2346,651 2375,594 2349,513 2108,466 1687,509 1484,475 1349,534 1195,545 1065,537 959,578 871,537 745,598 680,534 282,510" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
+				<zone points="279,889 390,833 515,871 545,847 573,842 669,874 858,818 1211,791 1496,780 1557,827 1889,777 1959,830 2067,754 2436,760 2419,633 2235,616 2059,686 1901,649 1646,679 1617,693 1329,718 1208,680 928,720 757,666 698,710 646,696 446,706 282,727" rendition="Line" xml:id="facs_1_tr_1_tl_3"/>
+				<zone points="373,834 312,899 303,967 633,935 658,1014 804,935 949,1012 1176,991 1242,987 1253,999 1276,986 1310,957 1379,961 1399,985 1454,960 1564,976 1760,929 2376,905 2394,815 2006,801 1906,839 1792,780 1557,827 1442,802 936,857 675,836 550,839 507,872 425,847" rendition="Line" xml:id="facs_1_tr_1_tl_4"/>
+				<zone points="302,1179 443,1147 521,1163 639,1094 842,1076 1443,1082 1606,1111 1978,1061 2328,1117 2391,1012 2340,903 1919,941 1568,975 1481,1003 1405,989 1375,967 1269,986 1241,996 1050,947 950,1015 815,938 683,979 390,944 311,977" rendition="Line" xml:id="facs_1_tr_1_tl_5"/>
+				<zone points="279,1284 269,1370 324,1349 441,1298 475,1325 491,1349 515,1331 541,1279 570,1274 619,1293 786,1264 947,1276 1008,1244 1040,1281 1037,1313 1062,1321 1096,1313 1208,1246 1352,1286 1482,1274 1651,1225 1821,1205 1897,1264 2027,1238 2026,1259 2053,1260 2076,1234 2130,1255 2548,1211 2551,1161 2457,1114 2243,1138 2161,1079 2003,1108 1891,1070 1493,1150 1413,1106 1282,1120 1223,1176 1023,1114 856,1152 774,1103 584,1142 516,1185 460,1150 279,1182" rendition="Line" xml:id="facs_1_tr_1_tl_6"/>
+				<zone points="296,1500 330,1503 399,1425 530,1441 751,1422 971,1478 1047,1428 1334,1434 1407,1403 1522,1393 1598,1455 1698,1408 1930,1431 2029,1396 2214,1449 2369,1413 2440,1443 2557,1393 2593,1261 2332,1262 2045,1254 2027,1256 2008,1244 1738,1285 1532,1271 1332,1297 1231,1265 1059,1320 985,1255 948,1286 685,1284 651,1314 566,1270 539,1274 522,1338 487,1343 474,1312 440,1314 326,1360" rendition="Line" xml:id="facs_1_tr_1_tl_7"/>
+				<zone points="290,1575 462,1606 633,1565 850,1584 979,1569 1135,1616 1328,1548 1554,1616 1636,1545 1801,1516 1941,1575 2076,1531 2156,1591 2265,1571 2392,1541 2540,1534 2496,1411 2468,1418 2438,1447 2326,1439 2125,1426 2064,1402 1937,1455 1666,1443 1565,1458 1466,1431 1170,1451 1053,1431 976,1478 874,1468 762,1439 534,1466 416,1434 290,1501" rendition="Line" xml:id="facs_1_tr_1_tl_8"/>
+				<zone points="290,1698 651,1733 775,1710 887,1744 1002,1725 1061,1730 1126,1695 1196,1735 1288,1722 1335,1750 1390,1755 1481,1683 1625,1700 1645,1752 1686,1789 1751,1733 1833,1757 1935,1704 2111,1707 2164,1774 2253,1720 2382,1695 2531,1724 2560,1663 2532,1612 2399,1525 2232,1622 2064,1557 1863,1582 1757,1540 1578,1625 1457,1566 1173,1619 897,1578 444,1603 423,1614 290,1639" rendition="Line" xml:id="facs_1_tr_1_tl_9"/>
+				<zone points="274,1873 293,1915 507,1893 574,1884 589,1915 609,1927 634,1926 651,1915 689,1879 1073,1895 1117,1883 1227,1913 1241,1894 1364,1865 1589,1886 1705,1874 1775,1838 1987,1850 2076,1889 2305,1871 2374,1849 2496,1840 2512,1757 2419,1698 2298,1716 2162,1771 2108,1724 1936,1757 1748,1745 1683,1786 1569,1699 1360,1761 1322,1741 1080,1718 1045,1738 997,1716 930,1744 861,1733 739,1763 588,1727 299,1701" rendition="Line" xml:id="facs_1_tr_1_tl_10"/>
+				<zone points="278,2072 417,2032 468,2029 525,2038 550,2036 630,2069 657,2009 935,1997 1072,2015 1325,2015 1559,2009 1683,2035 1883,2057 2018,2015 2101,2033 2293,2015 2464,2013 2463,1850 2103,1903 1986,1863 1885,1863 1557,1889 1508,1881 1238,1899 1217,1920 1035,1894 786,1903 685,1882 659,1903 644,1933 594,1924 565,1913 516,1906 293,1928" rendition="Line" xml:id="facs_1_tr_1_tl_11"/>
+				<zone points="273,2182 335,2189 379,2214 413,2206 448,2180 770,2180 883,2185 1024,2170 1128,2168 1298,2174 1519,2168 1528,2206 1552,2205 1579,2178 1608,2146 1807,2151 2338,2149 2390,2162 2478,2144 2503,2077 2462,2046 2355,2025 2083,2036 1990,2024 1946,2058 1714,2073 1534,2012 1489,2031 1437,2050 1357,2031 1267,2067 960,1994 903,2032 829,2036 739,2094 633,2074 622,2076 602,2088 465,2079 279,2091" rendition="Line" xml:id="facs_1_tr_1_tl_12"/>
+				<zone points="255,2352 323,2381 434,2320 736,2358 935,2353 978,2333 1003,2351 1032,2369 1127,2345 1163,2366 1190,2372 1204,2365 1219,2338 1234,2313 1305,2343 1402,2333 1533,2337 1729,2332 1897,2316 2035,2323 2290,2299 2371,2333 2398,2339 2431,2317 2540,2349 2613,2340 2616,2217 2497,2211 2211,2175 2103,2194 2057,2174 1826,2173 1742,2217 1628,2167 1528,2235 1495,2208 1457,2182 1158,2194 976,2196 464,2211 398,2207 384,2214 378,2227 255,2246" rendition="Line" xml:id="facs_1_tr_1_tl_13"/>
+				<zone points="1923,2440 1795,2452 1630,2469 1443,2517 1033,2539 743,2507 618,2488 463,2490 434,2534 396,2552 375,2538 384,2490 243,2507 246,2349 323,2381 495,2343 758,2367 836,2357 889,2369 968,2334 999,2348 1014,2374 1151,2370 1163,2367 1185,2371 1209,2360 1225,2330 1244,2314 1266,2328 1279,2344 1466,2375 1671,2334 1921,2358" rendition="Line" xml:id="facs_1_l_1"/>
+				<zone points="246,2695 284,2681 311,2651 368,2652 364,2680 399,2701 523,2633 610,2628 648,2590 651,2509 616,2490 580,2499 449,2549 365,2550 373,2506 350,2495 307,2506 270,2556 252,2601" rendition="Line" xml:id="facs_1_tr_1_tl_17"/>
+				<zone points="2060,2351 2187,2319 2389,2333 2443,2325 2508,2365 2512,2396 2490,2428 2391,2423 2216,2424 2203,2411 2203,2395 2184,2397 2160,2427 2134,2462 2109,2495 2080,2519 1991,2528 1921,2501" rendition="Line" xml:id="facs_1_l"/>
+				<zone points="2179,2480 2437,2478 2505,2510 2564,2437 2530,2417 2355,2420 2296,2422 2203,2424 2210,2401 2189,2392 2160,2404 2137,2463 2151,2480" rendition="Line" xml:id="facs_1_tr_1_tl_15"/>
+				<zone points="2460,2566 2540,2578 2581,2586 2624,2539 2595,2466 2551,2457 2531,2463 2497,2506 2472,2499" rendition="Line" xml:id="facs_1_tr_1_tl_16"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_2">
+		<surface ulx="0" uly="0" lrx="2712" lry="4012">
+			<graphic url="17674896_0002_124533798.jpg" width="2712px" height="4012px"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_3">
+		<surface ulx="0" uly="0" lrx="2702" lry="4012">
+			<graphic url="17674896_0003_124533938.jpg" width="2702px" height="4012px"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_4">
+		<surface ulx="0" uly="0" lrx="2683" lry="4016">
+			<graphic url="17674896_0004_124533799.jpg" width="2683px" height="4016px"/>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<div>
+				<div type="page"><pb facs="#facs_1" n="1"/>
+				<p facs="#facs_1_tr_1">
+					<lb facs="#facs_1_tr_1_tl_1" n="N001"/>Lieber Lamberg. Auß euren relationen de datis 15. et 22. Maij
+					<lb facs="#facs_1_tr_1_tl_2" n="N002"/>hab ich mitt grossen freüden der aldortigen <choice><expan/><abbr>Majestäten</abbr></choice> v<corr>n</corr>d <choice><expan/><abbr>Durchlauchten</abbr></choice>
+					<lb facs="#facs_1_tr_1_tl_3" n="N003"/>guette gesündheitt vernommen, wie auch, daß die g<corr>r</corr>avidanza
+					<lb facs="#facs_1_tr_1_tl_4" n="N004"/>der konigin noch glükhlich Gott sey lob continuiren.
+					<lb facs="#facs_1_tr_1_tl_5" n="N005"/>Alhie haben wir der w<corr>a</corr>l dermal ein rechten anfang
+					<lb facs="#facs_1_tr_1_tl_6" n="N006"/>gemacht, indeme ein ganz <choice><expan>khurcollegium</expan><abbr>khur.</abbr></choice>, worunder ich auch in persona
+					<lb facs="#facs_1_tr_1_tl_7" n="N007"/>gewesen, <sic rend="error" n="die">di</sic> alhiesige statt in die gewonhlichen <del rend="strikethrough">pfilht</del> pflicht<note>Frankfurter Stadtrat wurde am 22. Juni 1658 vereidigt, Gotthard 491.</note>
+					<lb facs="#facs_1_tr_1_tl_8" n="N008"/>vnd iuramentum securitatis praestandae<note>Frankfurter Stadtrat wurde am 22. Juni 1658 vereidigt, Gotthard 491.</note> genommen haben, hoffe es
+					<lb facs="#facs_1_tr_1_tl_9" n="N009"/>werde, a<corr>ll</corr>es baldt zu ein ende kho<choice><expan/><abbr>mm</abbr></choice>en. <seg type="cypher">fa 4</seg> <seg type="code" n="Der Kurfürst von Trier,">AL</seg> <seg type="cypher">6 2 go</seg> <seg type="code" n="der Kurfürst von Bayern,">AM</seg> <seg type="cypher">8</seg>
+					<lb facs="#facs_1_tr_1_tl_10" n="N010"/><seg type="cypher">Kem</seg> <seg type="code" n="der Kurfürst von Sachsen">AN</seg> <seg type="cypher" n="vnd">9 n 2 d</seg> <seg type="code" n="der Kurfürst von Brandenburg">AO</seg> <seg type="cypher" n="halten noch fest mitt vns,">h 1 l 4 t <corr>3</corr> n gli n 7 c 6 h f 3 s 4 t mo m 5 t 8 t 9 n s</seg> <seg type="code" n="der Kurfürst von Mainz,">AI</seg> <seg type="cypher">ba</seg>
+					<lb facs="#facs_1_tr_1_tl_11" n="N011"/><seg type="code" n="der Kurfürst von Köln,">AK</seg> <seg type="cypher" n="et">3 t</seg> <seg type="code" n="der Kurfürst von der Pfalz">AP</seg> <seg type="cypher" n="sein clientes"><unclear>f</unclear>om s 3 5 n lim c 2 l 5 3 n 4 t lo 3 s</seg> <seg type="code" n="des Königs von Frankreich">AE</seg> <seg type="cypher" n="vnd thuen alles,">9 n 4 d t h 9 3 n pe 1 l 4 l 3 s</seg>
+					<lb facs="#facs_1_tr_1_tl_12" n="N012"/><seg type="cypher" n="was ihnen beliebt">w 1 s ni 5 h n 3 4 6 n <corr>b</corr> 3 l <corr>5</corr> 6 3 b t</seg>. In vbrigen <seg type="cypher" n="wierdt">w 5 3 r d 4 2 t</seg> <seg type="code" n="Portia">AS</seg> <seg type="cypher">6 8 fa</seg>
+					<lb facs="#facs_1_tr_1_tl_13" n="N013"/><seg type="cypher" n="dem">4 d 3 m</seg> <seg type="code" n="Lamberg">AX</seg> <seg type="cypher" n="alles ausfurlicher schreiben">1 l 4 l 3 s fo 1 9 5 f 4 9 r l 5 c h 3 r gli s c 4 h r 5 3 6 b<corr>a</corr>m b 3 n 6 8 po 4 2</seg>.
+					<lb facs="#facs_1_l_1" n="N014"/>Vnd ich bin allezeitt eur <choice><expan/><abbr>gnädigster</abbr></choice> konig vnd herr
+					<lb facs="#facs_1_tr_1_tl_17" n="N015"/>Leopoldt
+					<lb facs="#facs_1_l" n="N016"/><choice><expan>Frankfürdt</expan><abbr>FFürdt</abbr></choice>, <del rend="strikethrough">den</del>
+					<lb facs="#facs_1_tr_1_tl_15" n="N017"/>den 22. Maij
+					<lb facs="#facs_1_tr_1_tl_16" n="N018"/>1658
+				</p>
+				</div><div type="page"><pb facs="#facs_2" n="2"/>
+				</div><div type="page"><pb facs="#facs_3" n="3"/>
+				</div><div type="page"><pb facs="#facs_4" n="4"/>
+			</div></div>
+		</body>
+	</text>
 </TEI>

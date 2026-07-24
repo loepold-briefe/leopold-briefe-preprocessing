@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+	<teiHeader>
     <fileDesc>
         <titleStmt>
             <title type="main">Leopold I. an Lamberg, Johann Maximilian von, 6. Juli 1658</title>
@@ -60,9 +60,90 @@
         <change xml:id="transkription-status">nicht vorhanden</change>
     </revisionDesc>
 </teiHeader>
-<text>
-      <body>
-         <p>Noch keine Transkription erstellt.</p>
-      </body>
-  </text>
+<facsimile xml:id="facs_1">
+		<surface ulx="0" uly="0" lrx="2566" lry="3618">
+			<graphic url="17675878_0001_124537507.jpg" width="2566px" height="3618px"/>
+			<zone points="141,226 87,3609 2533,3613 2553,2536 2538,249" rendition="TextRegion" xml:id="facs_1_tr_1">
+				<zone points="221,541 744,472 799,545 859,537 952,609 1134,484 1533,507 2099,492 2377,480 2413,410 2395,311 268,284" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
+				<zone points="301,628 510,646 1020,617 1440,661 2385,598 2385,513 2308,479 1657,480 922,488 815,535 806,482 610,482 285,519" rendition="Line" xml:id="facs_1_tr_1_tl_3"/>
+				<zone points="331,735 890,822 1373,749 1384,840 1475,772 1530,769 2498,750 2517,708 2498,665 2220,603 1849,597 1727,615 1680,644 1457,649 995,618 388,614 331,650" rendition="Line" xml:id="facs_1_tr_1_tl_4"/>
+				<zone points="268,877 914,946 1285,908 1365,946 1609,884 2417,872 2455,780 1608,759 1436,806 1383,750 1050,789 287,748" rendition="Line" xml:id="facs_1_tr_1_tl_5"/>
+				<zone points="298,1065 573,1078 643,1029 811,1107 1149,1046 2034,1043 2491,1022 2513,908 1652,860 313,904" rendition="Line" xml:id="facs_1_tr_1_tl_6"/>
+				<zone points="322,1165 783,1161 836,1206 938,1157 1523,1175 2283,1129 2251,1016 1971,1053 1869,1011 1490,1044 1398,1010 1058,1048 631,1036 322,1080" rendition="Line" xml:id="facs_1_tr_1_tl_7"/>
+				<zone points="328,1293 1095,1282 1125,1339 1229,1343 1540,1272 1639,1324 1756,1282 1818,1335 2456,1266 2483,1177 2349,1141 1304,1166 841,1196 765,1170 328,1208" rendition="Line" xml:id="facs_1_tr_1_tl_8"/>
+				<zone points="325,1461 413,1423 560,1466 633,1417 905,1431 1023,1492 1158,1427 1438,1415 1473,1473 1580,1437 2474,1442 2474,1357 2424,1333 1762,1298 1128,1333 687,1305 328,1349" rendition="Line" xml:id="facs_1_tr_1_tl_9"/>
+				<zone points="322,1586 520,1630 2350,1559 2456,1529 2494,1431 2185,1409 1590,1432 1480,1460 1288,1416 1149,1416 1011,1489 912,1433 653,1426 387,1444 322,1501" rendition="Line" xml:id="facs_1_tr_1_tl_10"/>
+				<zone points="287,1769 2465,1699 2483,1621 2211,1559 1366,1565 327,1595" rendition="Line" xml:id="facs_1_tr_1_tl_11"/>
+				<zone points="349,1851 825,1877 1457,1842 1680,1815 2167,1828 2486,1798 2521,1698 1105,1713 1024,1700 374,1734" rendition="Line" xml:id="facs_1_tr_1_tl_12"/>
+				<zone points="340,1998 399,2031 1118,2003 1756,1937 2465,1950 2494,1801 342,1856" rendition="Line" xml:id="facs_1_tr_1_tl_13"/>
+				<zone points="373,2153 916,2159 1193,2094 1522,2131 2423,2090 2434,1977 1901,1951 1181,1979 366,2031" rendition="Line" xml:id="facs_1_tr_1_tl_14"/>
+				<zone points="361,2275 533,2300 717,2309 945,2266 2515,2221 2506,2097 1754,2093 1570,2122 1000,2125 528,2176 458,2143 361,2190" rendition="Line" xml:id="facs_1_tr_1_tl_15"/>
+				<zone points="294,2460 794,2390 997,2434 2522,2359 2524,2254 2449,2234 1009,2248 720,2259 546,2279 364,2325" rendition="Line" xml:id="facs_1_tr_1_tl_16"/>
+				<zone points="342,2610 1361,2497 2358,2487 2386,2374 761,2396 364,2486" rendition="Line" xml:id="facs_1_tr_1_tl_17"/>
+				<zone points="361,2688 1232,2685 1596,2696 1715,2630 2137,2614 2172,2529 1366,2502 485,2563 361,2618" rendition="Line" xml:id="facs_1_tr_1_tl_18"/>
+				<zone points="321,2881 510,2914 703,2830 819,2698 440,2687 361,2743" rendition="Line" xml:id="facs_1_tr_1_tl_21"/>
+				<zone points="1735,2741 1747,2771 2120,2771 2218,2703 2538,2748 2544,2609 2457,2590 2354,2660 2305,2596 2053,2595 1748,2627" rendition="Line" xml:id="facs_1_tr_1_tl_19"/>
+				<zone points="2188,2781 2268,2777 2318,2801 2510,2835 2510,2751 2440,2723 2342,2704 2229,2698 2188,2730" rendition="Line" xml:id="facs_1_tr_1_tl_20"/>
+				<zone points="568,3060 706,3038 813,2994 832,2859 743,2867 606,2983" rendition="Line" xml:id="facs_1_l_1"/>
+				<zone points="185,3197 419,3236 2063,3123 2298,3089 2349,2968 836,2988 430,3079 385,3004 245,3005 185,3115" rendition="Line" xml:id="facs_1_tr_1_tl_25"/>
+				<zone points="153,3321 301,3318 341,3361 433,3311 797,3309 850,3365 965,3313 1050,3331 1993,3262 1992,3323 2483,3279 2509,3207 2435,3133 1139,3163 553,3183 425,3233 335,3180 179,3218" rendition="Line" xml:id="facs_1_tr_1_tl_26"/>
+				<zone points="155,3409 702,3386 754,3450 1167,3371 1171,3413 1278,3438 1320,3392 1831,3379 1854,3447 2495,3376 2495,3304 2382,3259 1694,3270 426,3323 344,3301 155,3337" rendition="Line" xml:id="facs_1_tr_1_tl_27"/>
+				<zone points="143,3499 459,3486 530,3539 671,3550 766,3533 805,3505 911,3497 946,3536 986,3503 1036,3521 1075,3535 1117,3489 1511,3504 1543,3511 1557,3592 1611,3566 1631,3510 2236,3513 2403,3466 2440,3388 2275,3360 1985,3362 1860,3397 1171,3407 1166,3357 776,3413 217,3372 143,3450" rendition="Line" xml:id="facs_1_tr_1_tl_28"/>
+				<zone points="152,3519 482,3476 1327,3484 1705,3502 1707,3571 818,3590 270,3602 152,3573" rendition="Line" xml:id="facs_1_l"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_2">
+		<surface ulx="0" uly="0" lrx="2551" lry="3631">
+			<graphic url="17675878_0002_124537525.jpg" width="2551px" height="3631px"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_3">
+		<surface ulx="0" uly="0" lrx="2588" lry="3631">
+			<graphic url="17675878_0003_124537508.jpg" width="2588px" height="3631px"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_4">
+		<surface ulx="0" uly="0" lrx="2569" lry="3618">
+			<graphic url="17675878_0004_124537526.jpg" width="2569px" height="3618px"/>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<div>
+				<div type="page"><pb facs="#facs_1" n="1"/>
+				<p facs="#facs_1_tr_1">
+					<lb facs="#facs_1_tr_1_tl_2" n="N001"/>Lieber Lamberg. Eure beede schreiben von 29. Maij
+					<lb facs="#facs_1_tr_1_tl_3" n="N002"/>vnd 5. Juni seindt mir zu recht eingelifferdt worden.
+					<lb facs="#facs_1_tr_1_tl_4" n="N003"/>Daß erste hatt mich ein wenig erschrecht, weiln ich vernommen,
+					<lb facs="#facs_1_tr_1_tl_5" n="N004"/>daß der prinz etwaß <sic rend="error" n="vbl">vbr</sic> auf gewesen, daß andere aber
+					<lb facs="#facs_1_tr_1_tl_6" n="N005"/>hatt mich wider <del rend="strikethrough"><unclear>ger</unclear></del> getrost, weil ich siche, daß khein gefar
+					<lb facs="#facs_1_tr_1_tl_7" n="N006"/>mer ist. Sed quid nostris hic reb<choice><expan/><abbr>us</abbr></choice> scrib<corr>e</corr>re debeam,
+					<lb facs="#facs_1_tr_1_tl_8" n="N007"/>vere nescio? Dann es gehet so vnbestendig vnd langsamb
+					<lb facs="#facs_1_tr_1_tl_9" n="N008"/>zue, daß es vnmüeglich, in so wenig zeilen außzusprechen.
+					<lb facs="#facs_1_tr_1_tl_10" n="N009"/><seg type="cypher" n="In">6 5 n <unclear>g</unclear>lo</seg> <seg type="code" n="Belgio">BF</seg> <seg type="cypher" n="gehet es alles vber vnt vber, in">g 3 h 4 3 t 3 s 1 l 2 l 3 s fa 9 b 3 r 9 n 8 t 9 b <corr>3</corr> r tom 6 5 n</seg> <seg type="cypher" n="Italia">BG</seg>
+					<lb facs="#facs_1_tr_1_tl_11" n="N010"/><seg type="cypher" n="gehet es auch nitt besser">g 3 mo h 4 3 t 3 8 s 1 9 c 4 h n i t 4 t lim b 3 s 3 s r<note>Irrtümlich chiffriert: besesr.</note></seg>. <seg type="cypher" n="In summa">Im 5 n s 9 m 6 m 1 go 3 s</seg>
+					<lb facs="#facs_1_tr_1_tl_12" n="N011"/><seg type="cypher" n="sehet alles gar vbel alhie">s t 3 h 3 t 1 l l 3 <corr>s</corr> g 1 r lom 9 b 3 l gam 4 te 1 l h 5 3</seg>. <seg type="code" n="Der Kurfúrst von Mainz,">AJ</seg> <seg type="cypher">6</seg> <seg type="code" n="der Kurfúrst von Köln">AK</seg> <seg type="cypher" n="et">pa <corr>3</corr> t</seg> <seg type="code" n="der Kurfúrst von Pfalz">AP</seg>
+					<lb facs="#facs_1_tr_1_tl_13" n="N012"/><seg type="cypher" n="thuen alles aufs vbliste, als sie kennen">t h 9 3 n ro 1 l 6 l 3 s 1 9 f s 9 b 4 l 5 s <unclear>r</unclear>i t 3 1 l s lim s 5 3 k 3 n n 4 6 3 n</seg>.
+					<lb facs="#facs_1_tr_1_tl_14" n="N013"/><seg type="code" n="Der Kurfúrst von Trier,">AL</seg> <seg type="cypher">go</seg> <seg type="code" n="der Kurfúrst von Bayern">AM</seg> <seg type="cypher" n="und">8 2 9 n d</seg> <seg type="code" n="der Kurfúrst von Sachsen">AN</seg> zwar thuen <seg type="cypher" n="noch das">6 gli n 7 c 4 h d 1 s</seg>
+					<lb facs="#facs_1_tr_1_tl_15" n="N014"/><seg type="cypher" n="ihrige, sunt autem timidi">5 h r 5 g 3 po s 9 n 4 t 1 9 t 3 m ra t 5 m 6 5 d 4 5</seg>. <seg type="code" n="Der Kurfúrst von Brandemburg">AO</seg> <seg type="cypher" n="ist gar">5 s t g 1 r ba</seg>
+					<lb facs="#facs_1_tr_1_tl_16" n="N015"/><seg type="cypher" n="vnbestendig, uere res nostrae male se habent">9 n b 3 4 s li t 3 n 6 d 5 g 9 3 r 3 r <corr>3</corr> s go n 7 s 4 t r 1 3 m 1 <hi rend="superscript">4</hi> l <corr>3</corr> s 3 h 1 b 3 n 6 t</seg>
+					<lb facs="#facs_1_tr_1_tl_17" n="N016"/><seg type="cypher">gam 64 82 lom</seg>. De caetero mi rimetto al conte di Portia
+					<lb facs="#facs_1_tr_1_tl_18" n="N017"/>vnd verbleib alzeitt eur <choice><expan/><abbr>gnädigster</abbr></choice> konig vnd herr
+					<lb facs="#facs_1_tr_1_tl_21" n="N018"/>Leopoldt
+					<lb facs="#facs_1_tr_1_tl_19" n="N019"/><seg type="cypher" n="Frankfürdth">FFürdth</seg>, den 6 <del rend="strikethrough">Juli</del>
+					<lb facs="#facs_1_tr_1_tl_20" n="N020"/>Julij 1658
+					<lb facs="#facs_1_l_1" n="N021"/>P. S.
+					<lb facs="#facs_1_tr_1_tl_25" n="N022"/>Oblit<choice><expan/><abbr>us</abbr></choice> quasi fueram, da<corr>ß</corr> ich gestern bey Saxen zu
+					<lb facs="#facs_1_tr_1_tl_26" n="N023"/>gast gewesen, wie auch vorhero bey Trir vnd Meinz, vnd haben vbral
+					<lb facs="#facs_1_tr_1_tl_27" n="N024"/>secundum morem gentis nostrae in gutter vertreulikheitt vnd fraterna
+					<lb facs="#facs_1_tr_1_tl_28" n="N025"/>charitate ein jesuiter reischel<note>Jesuitenrausch = ein mäßiger, unsündlicher Rausch.</note> davon tragen <sic rend="error" n="muessen">muess</sic>. Beyligende
+					<lb facs="#facs_1_l" n="N026"/>2 schreiben werden ihr schon wissen zu vbrliffern.
+				</p>
+				</div><div type="page"><pb facs="#facs_2" n="2"/>
+				</div><div type="page"><pb facs="#facs_3" n="3"/>
+				</div><div type="page"><pb facs="#facs_4" n="4"/>
+			</div></div>
+		</body>
+	</text>
 </TEI>

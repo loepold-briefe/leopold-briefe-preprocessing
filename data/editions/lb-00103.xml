@@ -57,7 +57,7 @@
     </profileDesc>
     <revisionDesc>
         <change xml:id="metadaten-status">angelegt</change>
-        <change xml:id="transkription-status">nicht vorhanden</change>
+        <change xml:id="transkription-status">finalisiert</change>
     </revisionDesc>
 </teiHeader>
 <facsimile xml:id="facs_1">
@@ -109,16 +109,16 @@
 				<div type="page"><pb facs="#facs_1" n="1"/>
 				<p facs="#facs_1_tr_1">
 					<lb facs="#facs_1_tr_1_tl_1" n="N001"/>Lieber graf von Lamberg. Eur schreiben hab ich zu recht <w type="start">empfan</w>
-					<lb facs="#facs_1_tr_1_tl_2" n="N002"/><w type="end">gen</w> vnd darauß beeder <unclear>Kön.</unclear> <unclear>May.</unclear> vnd auch Ihr Liebten der
+					<lb facs="#facs_1_tr_1_tl_2" n="N002"/><w type="end">gen</w> vnd darauß beeder <choice><expan>Königlichen</expan><abbr>Kön.</abbr></choice> <choice><expan>Mayestäten</expan><abbr>May.</abbr></choice> vnd auch Ihr Liebten der
 					<lb facs="#facs_1_tr_1_tl_3" n="N003"/>infantin guette gesundhait mitt freüden vernommen. Ich Gott
 					<lb facs="#facs_1_tr_1_tl_4" n="N004"/>sey lob befunde mich auch gar wol auf. Den fasching hab ich
-					<lb facs="#facs_1_tr_1_tl_5" n="N005"/>am meisten bey Ihr <unclear>May.</unclear> der verwitibten kayserin <w type="start">zuege<del rend="strikethrough">brach</del></w>
+					<lb facs="#facs_1_tr_1_tl_5" n="N005"/>am meisten bey Ihr <choice><expan>Mayestät</expan><abbr>May.</abbr></choice> der verwitibten kayserin <w type="start">zuege<del rend="strikethrough">brach</del></w>
 					<lb facs="#facs_1_tr_1_tl_6" n="N006"/><w type="end">bracht</w>, indeme ich die <date when="16. und 17. Februar">zwey lezten tag</date> biß auf dan abent dort
 					<lb facs="#facs_1_tr_1_tl_7" n="N007"/>verbliben. In der statt haben die cavalieri vnd damas einen
 					<lb facs="#facs_1_tr_1_tl_8" n="N008"/>paurenkirchtag gehalten, dabey meine zwey <sic rend="error" n="camerherren">cameherren</sic> eur
 					<lb facs="#facs_1_tr_1_tl_9" n="N009"/>vetter Hanß Franz von Lamberg keller vnd der von <w type="start">Sprinzen</w>
 					<lb facs="#facs_1_tr_1_tl_10" n="N010"/><w type="end">stain</w> schneider worden. An jezo ist mann sehr alhie bescheftigt,
-					<lb facs="#facs_1_tr_1_tl_11" n="N011"/>weil vier <sic rend="error" n="Ehrenporten">ehenporten</sic>, Eur <unclear>May.</unclear> den kayser zu empfahen, <w type="start">auf</w><note>Vgl.,Keller-Catalano, Diarien 6 xxx (22. April 1654): "Zu Wienn machet man starckhe præparatoria von triumphporten und fewerwerckh, die widerkhunfft ihrer khayserlichen Mayestet und des neüen gecrönten römischen Khönigs zu sollėnniziren." Zum Einzug, der am 24. Mai stattfand, ebd,xxx (30. Mai 1654).</note>
+					<lb facs="#facs_1_tr_1_tl_11" n="N011"/>weil vier <sic rend="error" n="Ehrenporten">ehenporten</sic>, Eur <choice><expan>Mayestät</expan><abbr>May.</abbr></choice> den kayser zu empfahen, <w type="start">auf</w><note>Vgl.,Keller-Catalano, Diarien 6 xxx (22. April 1654): "Zu Wienn machet man starckhe præparatoria von triumphporten und fewerwerckh, die widerkhunfft ihrer khayserlichen Mayestet und des neüen gecrönten römischen Khönigs zu sollėnniziren." Zum Einzug, der am 24. Mai stattfand, ebd,xxx (30. Mai 1654).</note>
 					<lb facs="#facs_1_tr_1_tl_12" n="N012"/><w type="end">gericht</w> werden.<note>Vgl.,Keller-Catalano, Diarien 6 xxx (22. April 1654): "Zu Wienn machet man starckhe præparatoria von triumphporten und fewerwerckh, die widerkhunfft ihrer khayserlichen Mayestet und des neüen gecrönten römischen Khönigs zu sollėnniziren." Zum Einzug, der am 24. Mai stattfand, ebd,xxx (30. Mai 1654).</note> Die erste wirt von der niderlag bey dem stokh<note>Stock im Eisen,ein historisches Wiener Wahrzeichen und bekannter Orientierungspunkt an der Ecke des heutigen Stock-im-Eisen-Platzes und der Kärntner Straße.</note>
 					<lb facs="#facs_1_tr_1_tl_13" n="N013"/>in eisen<note>Stock im Eisen,ein historisches Wiener Wahrzeichen und bekannter Orientierungspunkt an der Ecke des heutigen Stock-im-Eisen-Platzes und der Kärntner Straße.</note> zugericht. Die ander richt die gemeine statt auf den
 					<lb facs="#facs_1_tr_1_tl_14" n="N014"/>Graben auf. Die dritte wirt von <sic rend="error" n="den">de</sic> hofbefreitten auf den
@@ -128,7 +128,7 @@
 					<lb facs="#facs_1_tr_1_tl_18" n="N018"/>auf den schwibogen bey den burkhplatz verfertigen. Schliesse
 					<lb facs="#facs_1_l_1" n="N019"/>vnd verbleibe eur gnedigster herr
 					<lb facs="#facs_1_tr_1_tl_20" n="N020"/>Leopoldus Ignatius
-					<lb facs="#facs_1_l_2" n="N021"/>Wienn, den 6. May <unclear>a<hi rend="superscript">o</hi></unclear> 1654
+					<lb facs="#facs_1_l_2" n="N021"/>Wienn, den 6. May <choice><expan>anno</expan><abbr>a<hi rend="superscript">o</hi></abbr></choice> 1654
 				</p>
 				</div><div type="page"><pb facs="#facs_2" n="2"/>
 				</div><div type="page"><pb facs="#facs_3" n="3"/>

@@ -57,7 +57,7 @@
     </profileDesc>
     <revisionDesc>
         <change xml:id="metadaten-status">angelegt</change>
-        <change xml:id="transkription-status">nicht vorhanden</change>
+        <change xml:id="transkription-status">finalisiert</change>
     </revisionDesc>
 </teiHeader>
 <facsimile xml:id="facs_1">
@@ -106,7 +106,7 @@
 					<lb facs="#facs_1_tr_1_tl_4" n="N004"/>procurirt hatt, dessen ich mich bedankhe. Wünsche eüch glükh vnd
 					<lb facs="#facs_1_tr_1_tl_5" n="N005"/>congratulire eüch, daß ihr mein ordens brueder worden seüet.
 					<lb facs="#facs_1_tr_1_tl_6" n="N006"/>der rey de armes ist schon widerümb hinwekh, dem ich ein schreiben
-					<lb facs="#facs_1_tr_1_tl_7" n="N007"/>an Ihr <unclear>May.</unclear> den könig mittgeben. Die kreüzel, so ihr mir geschikt,
+					<lb facs="#facs_1_tr_1_tl_7" n="N007"/>an Ihr <choice><expan>Mayestät</expan><abbr>May.</abbr></choice> den könig mittgeben. Die kreüzel, so ihr mir geschikt,
 					<lb facs="#facs_1_tr_1_tl_8" n="N008"/>sein <sic rend="error" n="mir">wir</sic> gar angenehm, dann ich gar vil darvon haldt. Von hier
 					<lb facs="#facs_1_tr_1_tl_9" n="N009"/>weiß ich eüch sonsts nichts neües zu schreiben, als daß die Vngern
 					<lb facs="#facs_1_tr_1_tl_10" n="N010"/>in ihren gescheften ga<corr>r</corr> langsam sein. <date when="6. Juni 1655">Künftigen sontag</date>

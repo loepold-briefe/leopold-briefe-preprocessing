@@ -57,7 +57,7 @@
     </profileDesc>
     <revisionDesc>
         <change xml:id="metadaten-status">angelegt</change>
-        <change xml:id="transkription-status">nicht vorhanden</change>
+        <change xml:id="transkription-status">finalisiert</change>
     </revisionDesc>
 </teiHeader>
 <facsimile xml:id="facs_1">
@@ -120,7 +120,7 @@
 					<lb facs="#facs_1_l_5" n="N014"/><del rend="strikethrough">Wienn</del>
 					<lb facs="#facs_1_tr_1_tl_11" n="N015"/>Eberstorf,
 					<lb facs="#facs_1_l" n="N016"/>den 3.
-					<lb facs="#facs_1_tr_1_tl_13" n="N017"/>Octobris <unclear>a.</unclear> 1654
+					<lb facs="#facs_1_tr_1_tl_13" n="N017"/>Octobris <choice><expan>anno</expan><abbr>a.</abbr></choice> 1654
 				</p>
 				</div><div type="page"><pb facs="#facs_2" n="2"/>
 				</div><div type="page"><pb facs="#facs_3" n="3"/>
