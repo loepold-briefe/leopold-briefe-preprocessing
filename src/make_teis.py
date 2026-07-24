@@ -39,7 +39,12 @@ for key, value in tqdm(metadata.items()):
     context = value
     senders = ", ".join([x["value"] for x in context["sender"]])
     receivers = ", ".join([x["label"] for x in context["receiver"]])
+    place_written = ", ".join([x["label"] for x in context["place_of_writing"]])
     context["title"] = f"{senders} an {receivers}, {context['written_date']}"
+    if place_written:
+        context["title"] = (
+            f"{senders} an {receivers}, {context['written_date']} ({place_written})"
+        )
     output = template.render(context)
     header_doc = TeiReader(output)
     header_node = header_doc.any_xpath("./tei:teiHeader")[0]
