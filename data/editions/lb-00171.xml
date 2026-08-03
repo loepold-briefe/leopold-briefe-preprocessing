@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title type="main">Leopold I. an Lamberg, Johann Maximilian von, 9. Juli 1659</title>
+            <title type="main">Leopold I. an Johann Maximilian von Lamberg, 9. Juli 1659</title>
             <title type="sub">Korrespondenz von Kaiser Leopold I</title>
             <author key="#lb-person-1">Leopold I.</author>
             <editor key="https://d-nb.info/gnd/132150654">
@@ -48,12 +48,11 @@
                 <date notBefore-iso="1659-07-09" notAfter-iso="1659-07-09">9. Juli 1659</date>
             </correspAction>
             <correspAction type="received">
-                <persName ref="#lb-person-3">Lamberg, Johann Maximilian von</persName>
+                <persName ref="#lb-person-3">Johann Maximilian von Lamberg</persName>
             </correspAction>
         </correspDesc>
     </profileDesc>
     <revisionDesc>
-        <change xml:id="metadaten-status">angelegt</change>
         <change xml:id="transkription-status">nicht vorhanden</change>
     </revisionDesc>
 </teiHeader>

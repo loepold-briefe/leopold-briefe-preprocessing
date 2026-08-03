@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+	<teiHeader>
     <fileDesc>
         <titleStmt>
-            <title type="main">Leopold I. an Lamberg, Johann Maximilian von, 23. Jänner 1658 (Praha)</title>
+            <title type="main">Leopold I. an Johann Maximilian von Lamberg, 23. Jänner 1658 (Praha)</title>
             <title type="sub">Korrespondenz von Kaiser Leopold I</title>
             <author key="#lb-person-1">Leopold I.</author>
             <editor key="https://d-nb.info/gnd/132150654">
@@ -49,20 +49,70 @@
                 <placeName ref="#69">Praha</placeName>
             </correspAction>
             <correspAction type="received">
-                <persName ref="#lb-person-3">Lamberg, Johann Maximilian von</persName>
+                <persName ref="#lb-person-3">Johann Maximilian von Lamberg</persName>
                 <placeName ref="#lb-place-72">Madrid</placeName>
                 <date when="1658-04-15"/>
             </correspAction>
         </correspDesc>
     </profileDesc>
     <revisionDesc>
-        <change xml:id="metadaten-status">angelegt</change>
         <change xml:id="transkription-status">nicht vorhanden</change>
     </revisionDesc>
 </teiHeader>
-<text>
-      <body>
-         <p>Noch keine Transkription erstellt.</p>
-      </body>
-  </text>
+<facsimile xml:id="facs_1">
+		<surface ulx="0" uly="0" lrx="2470" lry="3598">
+			<graphic url="17731895_0001_124625974.jpg" width="2470px" height="3598px"/>
+			<zone points="258,357 2438,357 2438,1985 258,1985" rendition="TextRegion" xml:id="facs_1_r">
+				<zone points="310,556 855,568 879,634 966,557 1086,571 1206,539 1312,598 1412,534 1470,590 1668,544 1710,617 1941,577 2083,541 2160,583 2309,552 2309,464 1998,394 1717,451 1410,384 802,430 719,384 356,358" rendition="Line" xml:id="facs_1_r_tl_1"/>
+				<zone points="348,704 783,735 876,683 993,749 1175,688 1389,755 1554,696 1856,691 1980,709 2098,791 2367,785 2424,681 2201,601 1896,605 1753,631 1699,583 1616,608 1464,580 1309,601 956,564 841,563 782,562 345,601" rendition="Line" xml:id="facs_1_r_tl_2"/>
+				<zone points="335,869 454,814 485,933 675,889 882,830 1116,907 1217,853 1392,845 1701,933 1753,889 1949,884 2054,954 2139,905 2407,902 2402,802 2168,771 2018,763 1855,765 1443,719 1227,763 861,683 611,742 459,680 330,714" rendition="Line" xml:id="facs_1_r_tl_3"/>
+				<zone points="302,1000 523,979 657,1057 745,992 889,997 1235,1070 1436,1000 1600,1060 1915,1000 2026,1059 2248,1075 2320,915 1670,907 1621,938 1534,897 1425,930 1343,884 1227,930 1144,889 797,883 631,875 495,924 446,855 299,874" rendition="Line" xml:id="facs_1_r_tl_4"/>
+				<zone points="304,1173 500,1137 1077,1178 1144,1139 1151,1223 1289,1188 1479,1162 1585,1229 1686,1165 1773,1224 1974,1157 2185,1218 2276,1206 2273,1083 1936,1034 1674,1053 1446,1028 1353,1098 1186,1039 783,1020 554,1072 400,1003 302,1041" rendition="Line" xml:id="facs_1_r_tl_5"/>
+				<zone points="317,1302 505,1363 634,1289 791,1286 936,1387 1080,1418 1224,1327 1351,1324 1492,1291 1673,1351 1758,1322 1833,1371 1938,1320 2075,1325 2072,1263 2018,1276 1933,1211 1763,1263 1668,1215 1564,1229 1483,1173 1227,1166 892,1168 755,1242 575,1170 314,1199" rendition="Line" xml:id="facs_1_r_tl_6"/>
+				<zone points="289,1539 423,1500 562,1481 546,1557 626,1495 794,1492 985,1505 1062,1557 1130,1511 1446,1454 1552,1503 1719,1467 2245,1503 2292,1487 2240,1369 2206,1363 1753,1402 1513,1322 1083,1418 964,1329 794,1325 598,1374 402,1333 284,1369" rendition="Line" xml:id="facs_1_r_tl_7"/>
+				<zone points="266,1623 252,1754 351,1695 416,1633 445,1699 580,1668 668,1614 871,1717 1162,1614 1278,1662 1407,1619 1503,1691 1665,1637 1900,1647 1962,1755 2065,1675 2150,1740 2333,1662 2355,1617 2289,1588 2054,1552 1871,1580 1642,1498 1503,1557 1387,1500 1296,1546 1162,1500 1052,1570 856,1505 701,1552 630,1502 538,1565 564,1471 456,1539 420,1500 302,1523" rendition="Line" xml:id="facs_1_r_tl_8"/>
+				<zone points="268,1827 338,1833 438,1915 544,1910 652,1864 717,1869 769,1673 644,1652 570,1686 433,1714 446,1620 324,1718 276,1742" rendition="Line" xml:id="facs_1_r_tl_9"/>
+				<zone points="1403,1849 1952,1811 1993,1845 2198,1821 2259,1810 2319,1814 2348,1789 2339,1735 2168,1748 2083,1686 1858,1740 1753,1668 1590,1704 1397,1663" rendition="Line" xml:id="facs_1_r_tl_10"/>
+				<zone points="2186,1893 2377,1913 2377,1819 2282,1816 2235,1817 2190,1827" rendition="Line" xml:id="facs_1_l"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_2">
+		<surface ulx="0" uly="0" lrx="2467" lry="3599">
+			<graphic url="17731895_0002_124625852.jpg" width="2467px" height="3599px"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_3">
+		<surface ulx="0" uly="0" lrx="2481" lry="3599">
+			<graphic url="17731895_0003_124625975.jpg" width="2481px" height="3599px"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_4">
+		<surface ulx="0" uly="0" lrx="2483" lry="3598">
+			<graphic url="17731895_0004_124625993.jpg" width="2483px" height="3598px"/>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<div>
+				<div type="page"><pb facs="#facs_1" n="1"/>
+				<p facs="#facs_1_r">
+					<lb facs="#facs_1_r_tl_1" n="N001"/>Lieber Lamberg. <del rend="strikethrough">S</del> Auß euren schreiben von
+					<lb facs="#facs_1_r_tl_2" n="N002"/>5. passato hab ich die noch continuierende <w type="start">glukh</w>
+					<lb facs="#facs_1_r_tl_3" n="N003"/><w type="end">seliege</w> khindtbett Ihr <choice><expan/><abbr>Majestät</abbr></choice> der khonigin verstanden.
+					<lb facs="#facs_1_r_tl_4" n="N004"/>Wir befunden vnß alhie alle gar wol auf
+					<lb facs="#facs_1_r_tl_5" n="N005"/>vnd werden zukhonfftigen montag alß den 28. diß
+					<lb facs="#facs_1_r_tl_6" n="N006"/>von hinnen nach <choice><expan>Frankfordt</expan><abbr>FFordt</abbr></choice> verreisen.
+					<lb facs="#facs_1_r_tl_7" n="N007"/>Gott gebe seine genadt darzue. Verbleibe
+					<lb facs="#facs_1_r_tl_8" n="N008"/>euch in vbrigen mitt <choice><expan>königlichen</expan><abbr>kön.</abbr></choice> huldten wol gewogen
+					<lb facs="#facs_1_r_tl_9" n="N009"/>Leopoldt
+					<lb facs="#facs_1_r_tl_10" n="N010"/>Prag, den 23. Jenner
+					<lb facs="#facs_1_l" n="N011"/>1658
+				</p>
+				</div><div type="page"><pb facs="#facs_2" n="2"/>
+				</div><div type="page"><pb facs="#facs_3" n="3"/>
+				</div><div type="page"><pb facs="#facs_4" n="4"/>
+			</div></div>
+		</body>
+	</text>
 </TEI>

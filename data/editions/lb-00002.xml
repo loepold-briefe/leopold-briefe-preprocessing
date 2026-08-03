@@ -3,7 +3,7 @@
 	<teiHeader>
     <fileDesc>
         <titleStmt>
-            <title type="main">Leopold I. an Sternberg, Adolf Wratislaw, 28. Jänner 1668</title>
+            <title type="main">Leopold I. an Adolf Wratislaw von Sternberg, 28. Jänner 1668</title>
             <title type="sub">Korrespondenz von Kaiser Leopold I</title>
             <author key="#lb-person-1">Leopold I.</author>
             <editor key="https://d-nb.info/gnd/132150654">
@@ -58,12 +58,11 @@
                 <date notBefore-iso="1668-01-28" notAfter-iso="1668-01-28">28. Jänner 1668</date>
             </correspAction>
             <correspAction type="received">
-                <persName ref="#lb-person-38">Sternberg, Adolf Wratislaw</persName>
+                <persName ref="#lb-person-38">Adolf Wratislaw von Sternberg</persName>
             </correspAction>
         </correspDesc>
     </profileDesc>
     <revisionDesc>
-        <change xml:id="metadaten-status">angelegt</change>
         <change xml:id="transkription-status">nicht vorhanden</change>
     </revisionDesc>
 </teiHeader>

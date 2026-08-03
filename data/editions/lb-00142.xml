@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title type="main">Leopold I. an Lamberg, Johann Maximilian von, 6. November 1658 (Wien)</title>
+            <title type="main">Leopold I. an Johann Maximilian von Lamberg, 6. November 1658 (Wien)</title>
             <title type="sub">Korrespondenz von Kaiser Leopold I</title>
             <author key="#lb-person-1">Leopold I.</author>
             <editor key="https://d-nb.info/gnd/132150654">
@@ -49,14 +49,13 @@
                 <placeName ref="#1">Wien</placeName>
             </correspAction>
             <correspAction type="received">
-                <persName ref="#lb-person-3">Lamberg, Johann Maximilian von</persName>
+                <persName ref="#lb-person-3">Johann Maximilian von Lamberg</persName>
                 <placeName ref="#lb-place-72">Madrid</placeName>
                 <date when="1658-12-15"/>
             </correspAction>
         </correspDesc>
     </profileDesc>
     <revisionDesc>
-        <change xml:id="metadaten-status">angelegt</change>
         <change xml:id="transkription-status">nicht vorhanden</change>
     </revisionDesc>
 </teiHeader>
