@@ -10,6 +10,13 @@
                 <forename>Petr</forename>
                 <surname>Maťa</surname>
             </editor>
+            <respStmt>
+                <resp>bearb. v. Petr Maťa (Ersttranskription von Vojtěch Kuna)</resp>
+                <persName n="Vojtěch Kuna">
+                    <surname>Kuna</surname>
+                    <forename>Vojtěch</forename>
+                </persName>
+            </respStmt>
         </titleStmt>
         <publicationStmt>
             <publisher key="https://d-nb.info/gnd/1001454-8">Österreichische Akademie der Wissenschaften</publisher>
@@ -56,7 +63,7 @@
         </correspDesc>
     </profileDesc>
     <revisionDesc>
-        <change xml:id="transkription-status">nicht vorhanden</change>
+        <change xml:id="transkription-status">finalisiert</change>
     </revisionDesc>
 </teiHeader>
 <text>

@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title type="main">Leopold I. an Johann Maximilian von Lamberg, 31. März 1665</title>
+            <title type="sub">Korrespondenz von Kaiser Leopold I</title>
+            <author key="#lb-person-1">Leopold I.</author>
+            <editor key="https://d-nb.info/gnd/132150654">
+                <forename>Petr</forename>
+                <surname>Maťa</surname>
+            </editor>
+        </titleStmt>
+        <publicationStmt>
+            <publisher key="https://d-nb.info/gnd/1001454-8">Österreichische Akademie der Wissenschaften</publisher>
+            <date when="2028"/>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">Lizenziert unter CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/deed.de)</licence>
+            </availability>
+        </publicationStmt>
+        <sourceDesc>
+            <listWit>
+                <witness>
+                    <msDesc>
+                        <msIdentifier>
+                            <repository ref="https://d-nb.info/gnd/2020619-7" n="OÖLA">Oberösterreichisches Landesarchiv</repository>
+                            <collection>HA Steyr</collection>
+                            <idno>K. 1236, Fasz. 25, Nr. 451/93</idno>
+                        </msIdentifier>
+                        <history>   
+                            <origin>
+                                <term>Original</term>
+                                <origDate when-iso="1665-03-31"/>
+                            </origin>
+                        </history>
+                    </msDesc>
+                </witness>
+            </listWit>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <langUsage>
+            <language ident="deu"/>
+        </langUsage>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName ref="#lb-person-1">Leopold I.</persName>
+                <date notBefore-iso="1665-03-31" notAfter-iso="1665-03-31">31. März 1665</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="#lb-person-3">Johann Maximilian von Lamberg</persName>
+            </correspAction>
+        </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+        <change xml:id="transkription-status">nicht vorhanden</change>
+    </revisionDesc>
+</teiHeader>
+<facsimile xml:id="facs_1">
+		<surface ulx="0" uly="0" lrx="1874" lry="2412">
+			<graphic url="0001_lb-00201-01.jpg" width="1874px" height="2412px"/>
+			<zone points="23,144 23,1048 1851,1049 1839,111" rendition="TextRegion" xml:id="facs_1_tr_1">
+				<zone points="297,357 209,406 150,331 293,179 1507,148 1745,220 1760,306 1342,303 1040,374 414,346 355,383" rendition="Line" xml:id="facs_1_l"/>
+				<zone points="1507,464 511,465 297,524 291,448 209,529 205,477 134,488 284,334 329,379 420,334 476,382 967,346 1044,376 1362,301 1633,301 1807,357 1755,482 1669,472" rendition="Line" xml:id="facs_1_l_1"/>
+				<zone points="125,579 353,567 357,626 606,555 607,624 708,553 690,607 740,624 853,575 877,606 1141,568 1314,608 1550,561 1759,592 1795,544 1759,480 1483,456 748,504 500,458 435,513 288,523 309,444 216,527 203,476 124,494" rendition="Line" xml:id="facs_1_tr_1_tl_5"/>
+				<zone points="118,698 722,734 760,673 837,724 1041,650 1008,704 1189,652 1424,708 1739,676 1692,592 1533,565 1458,612 1139,566 851,575 732,626 687,613 713,545 501,562 362,635 352,569 118,604" rendition="Line" xml:id="facs_1_tr_1_tl_6"/>
+				<zone points="1487,765 1535,793 1562,795 1586,818 1684,805 1754,687 1643,696 1619,681 1507,687 1497,722" rendition="Line" xml:id="facs_1_tr_1_tl_8"/>
+				<zone points="109,906 195,952 352,761 308,690 270,682 190,754 55,819" rendition="Line" xml:id="facs_1_l_2"/>
+				<zone points="740,688 725,735 659,784 907,795 1001,763 1076,797 1314,783 1371,735 1194,641 1139,681 1075,659 1065,630 975,685 839,719 768,671" rendition="Line" xml:id="facs_1_tr_1_tl_7"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_2">
+		<surface ulx="0" uly="0" lrx="1866" lry="2405">
+			<graphic url="0002_lb-00201-02.jpg" width="1866px" height="2405px"/>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<div>
+				<div type="page"><pb facs="#facs_1" n="1"/>
+				<p facs="#facs_1_tr_1">
+					<lb facs="#facs_1_l" n="N001"/>Lieber <choice><expan>obrist</expan><abbr>ob.</abbr></choice> <add>kämmerer</add>. Hiemitt <choice><expan/><abbr>das</abbr></choice> schreiben ad archiducem
+					<lb facs="#facs_1_l_1" n="N002"/><choice><expan/><abbr>per</abbr></choice> <unclear>iterum</unclear>. Deus assistat bene conanti et faciat,
+					<lb facs="#facs_1_tr_1_tl_5" n="N003"/>ut negotia prospere succedant. Hab weitter
+					<lb facs="#facs_1_tr_1_tl_6" n="N004"/>nix beyzusezen, schikhe also alle schrifften, wider
+					<lb facs="#facs_1_tr_1_tl_8" n="N005"/>zurukh
+					<lb facs="#facs_1_l_2" n="N006"/><choice><expan>Leopoldt</expan><abbr>L.</abbr></choice>
+					<lb facs="#facs_1_tr_1_tl_7" n="N007"/><choice><expan/><abbr>Den</abbr></choice> 31. Merz 1665
+				</p>
+				</div><div type="page"><pb facs="#facs_2" n="2"/>
+			</div></div>
+		</body>
+	</text>
+</TEI>

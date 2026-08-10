@@ -73,7 +73,7 @@
 </teiHeader>
 <facsimile xml:id="facs_1">
 		<surface ulx="0" uly="0" lrx="2472" lry="3671">
-			<graphic url="16005043_0001_119127980.jpg" width="2472px" height="3671px"/>
+			<graphic url="0001_ANM, SM_k197_Leopold_ 0001.jpg" width="2472px" height="3671px"/>
 			<zone points="45,71 79,2140 2424,2136 2411,63" rendition="TextRegion" xml:id="facs_1_tr_1">
 				<zone points="322,425 794,390 996,401 1120,435 1236,427 1391,423 1436,433 1602,382 1987,404 2272,406 2272,268 2036,224 1947,270 1551,234 1325,293 1163,251 981,320 460,236 325,261" rendition="Line" xml:id="facs_1_tr_1_tl_3"/>
 				<zone points="315,516 684,558 818,528 851,573 979,507 1169,521 1455,528 1500,507 1547,548 1784,490 2067,509 2101,574 2174,515 2260,479 2262,391 1935,400 1874,373 1224,434 1144,436 971,406 758,389 315,465" rendition="Line" xml:id="facs_1_tr_1_tl_4"/>
@@ -93,17 +93,17 @@
 	</facsimile>
 	<facsimile xml:id="facs_2">
 		<surface ulx="0" uly="0" lrx="2400" lry="3631">
-			<graphic url="16005043_0002_122576756.jpg" width="2400px" height="3631px"/>
+			<graphic url="0002_ANM, SM_k197_Leopold_ 0002.jpg" width="2400px" height="3631px"/>
 		</surface>
 	</facsimile>
 	<facsimile xml:id="facs_3">
 		<surface ulx="0" uly="0" lrx="2408" lry="3637">
-			<graphic url="16005043_0003_119128002.jpg" width="2408px" height="3637px"/>
+			<graphic url="0003_ANM, SM_k197_Leopold_ 0003.jpg" width="2408px" height="3637px"/>
 		</surface>
 	</facsimile>
 	<facsimile xml:id="facs_4">
 		<surface ulx="0" uly="0" lrx="2472" lry="3671">
-			<graphic url="16005043_0004_119127988.jpg" width="2472px" height="3671px"/>
+			<graphic url="0004_ANM, SM_k197_Leopold_ 0004.jpg" width="2472px" height="3671px"/>
 			<zone points="808,1866 807,2210 1556,2212 1558,1864" rendition="TextRegion" xml:id="facs_4_tr_1">
 				<zone points="839,2007 862,2028 894,2002 1037,2036 1082,2009 1398,2030 1529,2035 1529,1943 1414,1907 1324,1916 1213,1977 1058,1892 915,1874 860,1914 839,1986" rendition="Line" xml:id="facs_4_tr_1_tl_1"/>
 				<zone points="822,2138 967,2200 1071,2128 1145,2123 1290,2185 1409,2177 1447,2065 1306,2026 1196,2069 1084,2022 1029,2010 975,2052 899,1997 859,2022 819,2019" rendition="Line" xml:id="facs_4_tr_1_tl_2"/>

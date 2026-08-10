@@ -10,6 +10,13 @@
                 <forename>Petr</forename>
                 <surname>Maťa</surname>
             </editor>
+            <respStmt>
+                <resp>bearb. v. Petr Maťa (Ersttranskription von Štěpánka Grunová)</resp>
+                <persName n="Štěpánka Grunová">
+                    <surname>Grunová</surname>
+                    <forename>Štěpánka</forename>
+                </persName>
+            </respStmt>
         </titleStmt>
         <publicationStmt>
             <publisher key="https://d-nb.info/gnd/1001454-8">Österreichische Akademie der Wissenschaften</publisher>
@@ -61,7 +68,7 @@
 </teiHeader>
 <facsimile xml:id="facs_1">
 		<surface ulx="0" uly="0" lrx="2721" lry="4016">
-			<graphic url="17674896_0001_124533937.jpg" width="2721px" height="4016px"/>
+			<graphic url="0001_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-91_1.jpg" width="2721px" height="4016px"/>
 			<zone points="122,209 124,2991 2690,2998 2622,203" rendition="TextRegion" xml:id="facs_1_tr_1">
 				<zone points="267,504 384,463 704,493 736,515 730,557 737,596 782,592 874,493 910,482 1044,543 1152,478 1569,437 1971,510 2279,434 2443,472 2511,336 2299,361 2135,311 1877,361 1730,328 1630,375 1422,296 1293,361 1038,367 569,305 471,284 284,276" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
 				<zone points="252,730 487,697 563,651 698,701 780,657 927,730 1029,660 1275,651 1466,641 1616,695 1736,625 1908,651 2023,604 2346,651 2375,594 2349,513 2108,466 1687,509 1484,475 1349,534 1195,545 1065,537 959,578 871,537 745,598 680,534 282,510" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
@@ -86,17 +93,17 @@
 	</facsimile>
 	<facsimile xml:id="facs_2">
 		<surface ulx="0" uly="0" lrx="2712" lry="4012">
-			<graphic url="17674896_0002_124533798.jpg" width="2712px" height="4012px"/>
+			<graphic url="0002_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-91_2.jpg" width="2712px" height="4012px"/>
 		</surface>
 	</facsimile>
 	<facsimile xml:id="facs_3">
 		<surface ulx="0" uly="0" lrx="2702" lry="4012">
-			<graphic url="17674896_0003_124533938.jpg" width="2702px" height="4012px"/>
+			<graphic url="0003_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-91_3.jpg" width="2702px" height="4012px"/>
 		</surface>
 	</facsimile>
 	<facsimile xml:id="facs_4">
 		<surface ulx="0" uly="0" lrx="2683" lry="4016">
-			<graphic url="17674896_0004_124533799.jpg" width="2683px" height="4016px"/>
+			<graphic url="0004_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-91_4.jpg" width="2683px" height="4016px"/>
 		</surface>
 	</facsimile>
 	<text>

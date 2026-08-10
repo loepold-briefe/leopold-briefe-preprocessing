@@ -10,6 +10,17 @@
                 <forename>Petr</forename>
                 <surname>Maťa</surname>
             </editor>
+            <respStmt>
+                <resp>bearb. v. Petr Maťa (Ersttranskription von Veronika Gašparcová und Christian Standhartinger)</resp>
+                <persName n="Christian Standhartinger">
+                    <surname>Standhartinger</surname>
+                    <forename>Christian</forename>
+                </persName>
+                <persName n="Veronika Gašparcová">
+                    <surname>Gašparcová</surname>
+                    <forename>Veronika</forename>
+                </persName>
+            </respStmt>
         </titleStmt>
         <publicationStmt>
             <publisher key="https://d-nb.info/gnd/1001454-8">Österreichische Akademie der Wissenschaften</publisher>
@@ -54,12 +65,12 @@
         </correspDesc>
     </profileDesc>
     <revisionDesc>
-        <change xml:id="transkription-status">nicht vorhanden</change>
+        <change xml:id="transkription-status">finalisiert</change>
     </revisionDesc>
 </teiHeader>
 <facsimile xml:id="facs_1">
 		<surface ulx="0" uly="0" lrx="2406" lry="3743">
-			<graphic url="17738735_0001_124633647.jpg" width="2406px" height="3743px"/>
+			<graphic url="0001_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-50_1.jpg" width="2406px" height="3743px"/>
 			<zone points="35,49 66,2600 2351,2654 2386,1810 2353,92" rendition="TextRegion" xml:id="facs_1_tr_1">
 				<zone points="49,329 111,336 203,320 279,321 333,308 399,302 508,302 586,291 610,111 514,100 445,151 374,148 296,155 218,157 196,65 55,75" rendition="Line" xml:id="facs_1_l_1"/>
 				<zone points="223,619 534,693 621,653 688,666 727,627 905,619 1102,685 1154,747 1255,675 1422,656 1479,712 1539,653 1636,704 1935,679 1962,637 2185,666 2201,534 1994,491 1856,563 1420,483 892,534 523,446 486,478 414,427 220,462" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
@@ -84,17 +95,17 @@
 	</facsimile>
 	<facsimile xml:id="facs_2">
 		<surface ulx="0" uly="0" lrx="2404" lry="3735">
-			<graphic url="17738735_0002_124633657.jpg" width="2404px" height="3735px"/>
+			<graphic url="0002_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-50_2.jpg" width="2404px" height="3735px"/>
 		</surface>
 	</facsimile>
 	<facsimile xml:id="facs_3">
 		<surface ulx="0" uly="0" lrx="2443" lry="3735">
-			<graphic url="17738735_0003_124633648.jpg" width="2443px" height="3735px"/>
+			<graphic url="0003_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-50_3.jpg" width="2443px" height="3735px"/>
 		</surface>
 	</facsimile>
 	<facsimile xml:id="facs_4">
 		<surface ulx="0" uly="0" lrx="2456" lry="3743">
-			<graphic url="17738735_0004_124633658.jpg" width="2456px" height="3743px"/>
+			<graphic url="0004_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-50_4.jpg" width="2456px" height="3743px"/>
 		</surface>
 	</facsimile>
 	<text>

@@ -10,6 +10,17 @@
                 <forename>Petr</forename>
                 <surname>Maťa</surname>
             </editor>
+            <respStmt>
+                <resp>bearb. v. Petr Maťa (Ersttranskription von Theresa Khan und Karoline Müller)</resp>
+                <persName n="Theresa Khan">
+                    <surname>Khan</surname>
+                    <forename>Theresa</forename>
+                </persName>
+                <persName n="Karoline Müller">
+                    <surname>Müller</surname>
+                    <forename>Karoline</forename>
+                </persName>
+            </respStmt>
         </titleStmt>
         <publicationStmt>
             <publisher key="https://d-nb.info/gnd/1001454-8">Österreichische Akademie der Wissenschaften</publisher>
@@ -56,12 +67,12 @@
         </correspDesc>
     </profileDesc>
     <revisionDesc>
-        <change xml:id="transkription-status">nicht vorhanden</change>
+        <change xml:id="transkription-status">finalisiert</change>
     </revisionDesc>
 </teiHeader>
 <facsimile xml:id="facs_1">
 		<surface ulx="0" uly="0" lrx="2408" lry="3726">
-			<graphic url="17778977_0001_124702833.jpg" width="2408px" height="3726px"/>
+			<graphic url="0001_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-49_1.jpg" width="2408px" height="3726px"/>
 			<zone points="198,331 2385,331 2378,3708 174,3721" rendition="TextRegion" xml:id="facs_1_r">
 				<zone points="253,581 392,601 653,526 783,553 779,626 785,652 835,627 881,589 1014,670 1067,616 1106,624 1184,565 1261,643 1364,562 1489,560 1927,640 1971,601 2049,619 2111,440 1770,413 1545,446 1246,359 975,431 686,397 550,446 399,381 268,377" rendition="Line" xml:id="facs_1_r_tl_1"/>
 				<zone points="250,797 316,796 384,744 544,704 717,751 882,710 976,786 1080,830 1116,757 1190,734 1225,821 1326,738 1507,749 1618,778 2056,730 2036,619 1972,627 1846,636 1612,580 1476,624 1370,562 1269,632 1187,568 1094,627 1046,604 1008,669 906,632 869,600 787,647 782,591 653,653 503,562 248,637" rendition="Line" xml:id="facs_1_r_tl_2"/>
@@ -90,7 +101,7 @@
 	</facsimile>
 	<facsimile xml:id="facs_2">
 		<surface ulx="0" uly="0" lrx="2422" lry="3719">
-			<graphic url="17778977_0002_124702739.jpg" width="2422px" height="3719px"/>
+			<graphic url="0002_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-49_2.jpg" width="2422px" height="3719px"/>
 			<zone points="204,193 216,3567 2425,3556 2369,221" rendition="TextRegion" xml:id="facs_2_tr_1">
 				<zone points="229,336 283,375 418,347 442,381 419,460 424,484 516,381 620,339 833,385 918,462 1008,405 1060,455 1104,462 1192,408 1303,385 1376,442 1450,407 1563,388 1814,416 1937,425 1910,492 1934,513 2053,447 2109,448 2211,431 2183,322 2116,308 1782,317 1471,240 1372,283 1184,240 745,293 479,260 288,211" rendition="Line" xml:id="facs_2_tr_1_tl_1"/>
 				<zone points="226,590 390,502 424,525 409,560 411,598 440,579 488,504 617,519 624,568 750,543 821,542 893,544 905,638 1002,558 1148,530 1300,536 1269,587 1301,587 1319,619 1363,582 1433,638 1520,556 1652,546 1803,630 1895,556 2099,571 2113,488 1931,519 1935,463 1791,468 1633,485 1464,425 1227,474 1181,431 908,462 788,390 740,418 538,392 394,441 250,416" rendition="Line" xml:id="facs_2_tr_1_tl_2"/>
@@ -124,12 +135,12 @@
 	</facsimile>
 	<facsimile xml:id="facs_3">
 		<surface ulx="0" uly="0" lrx="2408" lry="3719">
-			<graphic url="17778977_0003_124702834.jpg" width="2408px" height="3719px"/>
+			<graphic url="0003_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-49_3.jpg" width="2408px" height="3719px"/>
 		</surface>
 	</facsimile>
 	<facsimile xml:id="facs_4">
 		<surface ulx="0" uly="0" lrx="2429" lry="3726">
-			<graphic url="17778977_0004_124702740.jpg" width="2429px" height="3726px"/>
+			<graphic url="0004_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-49_4.jpg" width="2429px" height="3726px"/>
 		</surface>
 	</facsimile>
 	<text>

@@ -10,6 +10,13 @@
                 <forename>Petr</forename>
                 <surname>Maťa</surname>
             </editor>
+            <respStmt>
+                <resp>bearb. v. Petr Maťa (Ersttranskription von Tobias Bidlingmaier)</resp>
+                <persName n="Tobias Bidlingmaier">
+                    <surname>Bidlingmaier</surname>
+                    <forename>Tobias</forename>
+                </persName>
+            </respStmt>
         </titleStmt>
         <publicationStmt>
             <publisher key="https://d-nb.info/gnd/1001454-8">Österreichische Akademie der Wissenschaften</publisher>
@@ -56,12 +63,12 @@
         </correspDesc>
     </profileDesc>
     <revisionDesc>
-        <change xml:id="transkription-status">nicht vorhanden</change>
+        <change xml:id="transkription-status">finalisiert</change>
     </revisionDesc>
 </teiHeader>
 <facsimile xml:id="facs_1">
 		<surface ulx="0" uly="0" lrx="2462" lry="3598">
-			<graphic url="17732355_0001_124626356.jpg" width="2462px" height="3598px"/>
+			<graphic url="0001_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-72_1.jpg" width="2462px" height="3598px"/>
 			<zone points="237,312 190,3454 2453,3462 2445,321" rendition="TextRegion" xml:id="facs_1_tr_1">
 				<zone points="260,488 477,491 805,604 967,562 1183,553 1395,569 1583,507 1990,566 2173,510 2280,585 2409,582 2446,493 2406,421 2229,381 1990,400 1907,359 1792,421 1403,349 1309,413 1164,424 582,333 258,357" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
 				<zone points="248,756 408,663 431,714 478,753 518,705 587,762 714,692 840,700 849,745 1038,707 1074,751 1126,716 1245,681 1693,689 1845,676 1964,741 2066,663 2347,716 2398,607 2100,534 1858,555 1375,540 1288,582 1198,542 974,555 813,604 477,488 268,491" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
@@ -88,7 +95,7 @@
 	</facsimile>
 	<facsimile xml:id="facs_2">
 		<surface ulx="0" uly="0" lrx="2471" lry="3601">
-			<graphic url="17732355_0002_124626413.jpg" width="2471px" height="3601px"/>
+			<graphic url="0002_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-72_2.jpg" width="2471px" height="3601px"/>
 			<zone points="110,365 105,1538 2435,1538 2439,356" rendition="TextRegion" xml:id="facs_2_tr_1">
 				<zone points="265,481 259,423 303,421 353,403 393,432 469,412 563,373 587,375 594,421 639,431 687,413 720,435 782,432 852,404 883,440 1016,450 1044,403 1103,402 1179,407 1202,424 1274,425 1286,422 1325,391 1346,451 1435,455 1457,455 1509,422 1610,432 1666,456 1754,461 1810,421 1920,440 1931,492 2043,485 2115,485 2144,457 2245,476 2293,478 2252,607 2199,609 2138,637 2117,599 2108,571 2084,583 2052,603 2020,618 1989,593 1990,566 1956,592 1903,613 1885,549 1843,549 1818,564 1761,574 1733,549 1589,534 1279,519 1224,595 1189,587 1175,543 1094,546 994,555 963,595 930,586 917,540 861,597 840,601 847,543 717,502 630,588 602,545 578,510 504,516 440,598 409,560 409,529 407,502 260,518" rendition="Line" xml:id="facs_2_line_1763094590623_1205"/>
 				<zone points="284,650 425,669 397,707 412,734 496,651 735,652 757,686 846,656 1298,666 1313,690 1318,764 1418,675 1569,685 1618,713 1660,691 1742,701 1833,706 1879,753 1932,731 1963,786 2002,772 2157,730 2143,690 2121,653 2099,631 2032,619 1967,632 1913,616 1851,624 1789,625 1754,575 1717,548 1669,585 1631,597 1574,580 1489,607 1407,615 1342,572 1274,603 1200,589 1148,604 1095,583 1029,599 985,588 944,600 898,608 868,602 850,564 772,590 690,589 629,587 589,558 538,559 520,566 508,588 431,596 397,546 354,566 349,596 289,596" rendition="Line" xml:id="facs_2_tr_1_tl_3"/>
@@ -102,12 +109,12 @@
 	</facsimile>
 	<facsimile xml:id="facs_3">
 		<surface ulx="0" uly="0" lrx="2483" lry="3601">
-			<graphic url="17732355_0003_124626415.jpg" width="2483px" height="3601px"/>
+			<graphic url="0003_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-72_3.jpg" width="2483px" height="3601px"/>
 		</surface>
 	</facsimile>
 	<facsimile xml:id="facs_4">
 		<surface ulx="0" uly="0" lrx="2477" lry="3598">
-			<graphic url="17732355_0004_124626394.jpg" width="2477px" height="3598px"/>
+			<graphic url="0004_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-72_4.jpg" width="2477px" height="3598px"/>
 		</surface>
 	</facsimile>
 	<text>

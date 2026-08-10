@@ -10,6 +10,17 @@
                 <forename>Petr</forename>
                 <surname>Maťa</surname>
             </editor>
+            <respStmt>
+                <resp>bearb. v. Petr Maťa (Ersttranskription von Tobias Bidlingmaier und Christian Standhartinger)</resp>
+                <persName n="Christian Standhartinger">
+                    <surname>Standhartinger</surname>
+                    <forename>Christian</forename>
+                </persName>
+                <persName n="Tobias Bidlingmaier">
+                    <surname>Bidlingmaier</surname>
+                    <forename>Tobias</forename>
+                </persName>
+            </respStmt>
         </titleStmt>
         <publicationStmt>
             <publisher key="https://d-nb.info/gnd/1001454-8">Österreichische Akademie der Wissenschaften</publisher>
@@ -56,12 +67,12 @@
         </correspDesc>
     </profileDesc>
     <revisionDesc>
-        <change xml:id="transkription-status">nicht vorhanden</change>
+        <change xml:id="transkription-status">finalisiert</change>
     </revisionDesc>
 </teiHeader>
 <facsimile xml:id="facs_1">
 		<surface ulx="0" uly="0" lrx="2473" lry="3662">
-			<graphic url="17726735_0001_124619077.jpg" width="2473px" height="3662px"/>
+			<graphic url="0001_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-74_1.jpg" width="2473px" height="3662px"/>
 			<zone points="1329,75 214,116 211,3550 2430,3546 2420,116" rendition="TextRegion" xml:id="facs_1_tr_1">
 				<zone points="231,518 333,496 448,488 548,485 654,484 716,477 725,495 750,481 764,494 785,472 808,478 933,479 1040,481 1099,480 1201,487 1198,507 1170,554 1210,547 1250,506 1288,482 1358,488 1452,487 1464,492 1464,542 1506,493 1531,487 1577,496 1567,542 1586,548 1627,498 1676,493 1777,491 1834,476 1887,495 1920,489 1941,513 1969,496 1996,500 2011,429 1968,413 1949,427 1944,396 1908,412 1892,401 1860,421 1823,441 1760,426 1729,432 1699,447 1674,412 1647,427 1551,428 1559,393 1552,387 1516,423 1489,415 1408,442 1306,439 1226,438 1197,431 1224,409 1227,363 1197,376 1166,406 1132,436 1066,433 1076,382 1046,377 990,406 972,431 875,425 827,426 817,387 792,399 768,391 752,408 739,426 678,429 680,384 654,378 617,385 593,407 568,422 509,417 486,422 470,371 440,391 434,407 408,431 340,431 397,356 389,337 328,351 295,380 264,406 245,439 245,463" rendition="Line" xml:id="facs_1_tr_1_tl_6"/>
 				<zone points="273,644 257,668 244,707 263,713 314,656 366,651 459,649 486,654 535,643 584,647 708,641 731,683 757,687 814,638 880,640 888,649 860,723 903,691 931,651 986,640 992,649 1000,688 1047,653 1085,648 1163,640 1162,677 1199,653 1219,637 1276,633 1341,641 1366,634 1394,637 1483,636 1593,631 1677,629 1710,653 1749,636 1784,645 1894,651 1955,651 1921,702 1958,694 2002,664 2037,659 2059,648 2148,663 2239,661 2237,617 2203,607 2240,581 2245,560 2197,563 2160,586 2130,612 2030,604 1942,593 1849,596 1747,594 1722,539 1671,582 1632,578 1628,565 1586,579 1550,577 1527,572 1445,590 1382,589 1379,542 1357,548 1341,567 1331,576 1297,556 1282,534 1243,545 1216,565 1201,570 1156,570 1095,575 1078,555 1034,573 993,574 966,559 943,566 923,551 896,560 881,547 865,559 838,535 820,550 804,576 749,594 678,565 566,579 527,583 558,564 562,523 524,525 467,580 435,564 384,585 392,531 340,557 300,587" rendition="Line" xml:id="facs_1_tr_1_tl_7"/>
@@ -96,7 +107,7 @@
 	</facsimile>
 	<facsimile xml:id="facs_2">
 		<surface ulx="0" uly="0" lrx="2461" lry="3660">
-			<graphic url="17726735_0002_124619123.jpg" width="2461px" height="3660px"/>
+			<graphic url="0002_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-74_2.jpg" width="2461px" height="3660px"/>
 			<zone points="151,119 155,2495 2428,2472 2418,131" rendition="TextRegion" xml:id="facs_2_tr_2">
 				<zone points="236,403 413,400 450,422 479,408 500,428 584,357 768,419 842,397 862,420 968,375 1079,444 1265,398 1270,449 1325,399 1436,370 1652,428 2289,457 2276,304 2073,297 1761,251 1652,254 991,222 761,228 428,204 238,296" rendition="Line" xml:id="facs_2_tr_2_tl_2"/>
 				<zone points="293,497 465,537 597,502 706,553 767,510 865,535 1010,521 1100,571 1398,553 1413,604 1700,584 1964,605 2030,608 2117,615 2364,613 2392,545 2384,491 2226,542 1742,423 1621,500 1512,452 1433,476 1304,407 1268,444 1274,397 1084,444 944,375 870,420 845,401 682,426 591,408 507,430 462,385 417,423 291,431" rendition="Line" xml:id="facs_2_tr_2_tl_3"/>
@@ -117,12 +128,12 @@
 	</facsimile>
 	<facsimile xml:id="facs_3">
 		<surface ulx="0" uly="0" lrx="2483" lry="3660">
-			<graphic url="17726735_0003_124619078.jpg" width="2483px" height="3660px"/>
+			<graphic url="0003_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-74_3.jpg" width="2483px" height="3660px"/>
 		</surface>
 	</facsimile>
 	<facsimile xml:id="facs_4">
 		<surface ulx="0" uly="0" lrx="2472" lry="3662">
-			<graphic url="17726735_0004_124619124.jpg" width="2472px" height="3662px"/>
+			<graphic url="0004_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-74_4.jpg" width="2472px" height="3662px"/>
 		</surface>
 	</facsimile>
 	<text>

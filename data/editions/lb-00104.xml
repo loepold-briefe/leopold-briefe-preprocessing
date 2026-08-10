@@ -61,7 +61,7 @@
 </teiHeader>
 <facsimile xml:id="facs_1">
 		<surface ulx="0" uly="0" lrx="2460" lry="3736">
-			<graphic url="17614015_0001_124399021.jpg" width="2460px" height="3736px"/>
+			<graphic url="0001_lb-00104-01.jpg" width="2460px" height="3736px"/>
 			<zone points="458,187 464,2859 2426,2866 2409,185" rendition="TextRegion" xml:id="facs_1_tr_1">
 				<zone points="569,437 673,397 977,434 1354,438 1755,434 1836,395 1957,453 2321,420 2358,356 2321,318 2054,276 1843,327 1609,276 1411,327 912,265 694,313 587,290" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
 				<zone points="657,515 852,571 1007,573 1164,551 2013,583 2175,545 2335,601 2374,521 2348,438 1854,455 1677,427 1286,435 991,420 655,462" rendition="Line" xml:id="facs_1_tr_1_tl_3"/>
@@ -94,17 +94,17 @@
 	</facsimile>
 	<facsimile xml:id="facs_2">
 		<surface ulx="0" uly="0" lrx="2412" lry="3741">
-			<graphic url="17614015_0002_124399059.jpg" width="2412px" height="3741px"/>
+			<graphic url="0002_lb-00104-02.jpg" width="2412px" height="3741px"/>
 		</surface>
 	</facsimile>
 	<facsimile xml:id="facs_3">
 		<surface ulx="0" uly="0" lrx="2473" lry="3741">
-			<graphic url="17614015_0003_124399060.jpg" width="2473px" height="3741px"/>
+			<graphic url="0003_lb-00104-03.jpg" width="2473px" height="3741px"/>
 		</surface>
 	</facsimile>
 	<facsimile xml:id="facs_4">
 		<surface ulx="0" uly="0" lrx="2423" lry="3736">
-			<graphic url="17614015_0004_124399022.jpg" width="2423px" height="3736px"/>
+			<graphic url="0004_lb-00104-04.jpg" width="2423px" height="3736px"/>
 		</surface>
 	</facsimile>
 	<text>

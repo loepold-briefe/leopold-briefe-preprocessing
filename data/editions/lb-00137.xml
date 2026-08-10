@@ -10,6 +10,13 @@
                 <forename>Petr</forename>
                 <surname>Maťa</surname>
             </editor>
+            <respStmt>
+                <resp>bearb. v. Petr Maťa (Ersttranskription von Tobias Hübl)</resp>
+                <persName n="Tobias Hübl">
+                    <surname>Hübl</surname>
+                    <forename>Tobias</forename>
+                </persName>
+            </respStmt>
         </titleStmt>
         <publicationStmt>
             <publisher key="https://d-nb.info/gnd/1001454-8">Österreichische Akademie der Wissenschaften</publisher>
@@ -56,12 +63,12 @@
         </correspDesc>
     </profileDesc>
     <revisionDesc>
-        <change xml:id="transkription-status">nicht vorhanden</change>
+        <change xml:id="transkription-status">finalisiert</change>
     </revisionDesc>
 </teiHeader>
 <facsimile xml:id="facs_1">
 		<surface ulx="0" uly="0" lrx="2566" lry="3618">
-			<graphic url="17675878_0001_124537507.jpg" width="2566px" height="3618px"/>
+			<graphic url="0001_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-89_1.jpg" width="2566px" height="3618px"/>
 			<zone points="141,226 87,3609 2533,3613 2553,2536 2538,249" rendition="TextRegion" xml:id="facs_1_tr_1">
 				<zone points="221,541 744,472 799,545 859,537 952,609 1134,484 1533,507 2099,492 2377,480 2413,410 2395,311 268,284" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
 				<zone points="301,628 510,646 1020,617 1440,661 2385,598 2385,513 2308,479 1657,480 922,488 815,535 806,482 610,482 285,519" rendition="Line" xml:id="facs_1_tr_1_tl_3"/>
@@ -94,17 +101,17 @@
 	</facsimile>
 	<facsimile xml:id="facs_2">
 		<surface ulx="0" uly="0" lrx="2551" lry="3631">
-			<graphic url="17675878_0002_124537525.jpg" width="2551px" height="3631px"/>
+			<graphic url="0002_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-89_2.jpg" width="2551px" height="3631px"/>
 		</surface>
 	</facsimile>
 	<facsimile xml:id="facs_3">
 		<surface ulx="0" uly="0" lrx="2588" lry="3631">
-			<graphic url="17675878_0003_124537508.jpg" width="2588px" height="3631px"/>
+			<graphic url="0003_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-89_3.jpg" width="2588px" height="3631px"/>
 		</surface>
 	</facsimile>
 	<facsimile xml:id="facs_4">
 		<surface ulx="0" uly="0" lrx="2569" lry="3618">
-			<graphic url="17675878_0004_124537526.jpg" width="2569px" height="3618px"/>
+			<graphic url="0004_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-89_4.jpg" width="2569px" height="3618px"/>
 		</surface>
 	</facsimile>
 	<text>

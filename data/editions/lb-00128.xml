@@ -10,6 +10,13 @@
                 <forename>Petr</forename>
                 <surname>Maťa</surname>
             </editor>
+            <respStmt>
+                <resp>bearb. v. Petr Maťa (Ersttranskription von Eva Riedlsperger)</resp>
+                <persName n="Eva Riedlsperger">
+                    <surname>Riedlsperger</surname>
+                    <forename>Eva</forename>
+                </persName>
+            </respStmt>
         </titleStmt>
         <publicationStmt>
             <publisher key="https://d-nb.info/gnd/1001454-8">Österreichische Akademie der Wissenschaften</publisher>
@@ -56,12 +63,12 @@
         </correspDesc>
     </profileDesc>
     <revisionDesc>
-        <change xml:id="transkription-status">nicht vorhanden</change>
+        <change xml:id="transkription-status">finalisiert</change>
     </revisionDesc>
 </teiHeader>
 <facsimile xml:id="facs_1">
 		<surface ulx="0" uly="0" lrx="2512" lry="3674">
-			<graphic url="17721976_0001_124613181.jpg" width="2512px" height="3674px"/>
+			<graphic url="0001_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-76_1.jpg" width="2512px" height="3674px"/>
 			<zone points="199,109 199,3624 2481,3643 2462,109" rendition="TextRegion" xml:id="facs_1_tr_1">
 				<zone points="289,384 750,371 1125,376 1208,436 1549,440 1777,349 1978,441 2147,387 2243,471 2416,407 2429,304 2153,248 1788,305 1504,215 1294,272 1215,229 943,286 823,229 708,275 600,234 411,211 289,300" rendition="Line" xml:id="facs_1_tr_1_tl_5"/>
 				<zone points="279,616 471,493 1061,557 1128,504 1463,556 1558,540 2130,608 2346,545 2344,444 2248,485 2104,420 1988,438 1782,411 1711,450 1588,398 1297,443 1033,401 899,441 807,371 297,417" rendition="Line" xml:id="facs_1_tr_1_tl_6"/>
@@ -95,17 +102,17 @@
 	</facsimile>
 	<facsimile xml:id="facs_2">
 		<surface ulx="0" uly="0" lrx="2492" lry="3675">
-			<graphic url="17721976_0002_124613080.jpg" width="2492px" height="3675px"/>
+			<graphic url="0002_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-76_2.jpg" width="2492px" height="3675px"/>
 		</surface>
 	</facsimile>
 	<facsimile xml:id="facs_3">
 		<surface ulx="0" uly="0" lrx="2484" lry="3675">
-			<graphic url="17721976_0003_124613182.jpg" width="2484px" height="3675px"/>
+			<graphic url="0003_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-76_3.jpg" width="2484px" height="3675px"/>
 		</surface>
 	</facsimile>
 	<facsimile xml:id="facs_4">
 		<surface ulx="0" uly="0" lrx="2463" lry="3674">
-			<graphic url="17721976_0004_124613081.jpg" width="2463px" height="3674px"/>
+			<graphic url="0004_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-76_4.jpg" width="2463px" height="3674px"/>
 		</surface>
 	</facsimile>
 	<text>

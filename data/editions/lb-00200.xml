@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+	<teiHeader>
     <fileDesc>
         <titleStmt>
             <title type="main">Leopold I. an Johann Maximilian von Lamberg, 27. Juli 1660 (Graz)</title>
@@ -59,9 +59,68 @@
         <change xml:id="transkription-status">nicht vorhanden</change>
     </revisionDesc>
 </teiHeader>
-<text>
-      <body>
-         <p>Noch keine Transkription erstellt.</p>
-      </body>
-  </text>
+<facsimile xml:id="facs_1">
+		<surface ulx="0" uly="0" lrx="2442" lry="3682">
+			<graphic url="0001_lb-00200-01.jpg" width="2442px" height="3682px"/>
+			<zone points="157,536 187,2009 2388,1990 2379,540" rendition="TextRegion" xml:id="facs_1_tr_1">
+				<zone points="226,839 674,806 811,861 1016,863 1229,827 1431,842 1758,819 1788,888 1908,842 2005,818 2206,834 2263,886 2344,865 2367,767 2339,729 2144,684 1992,729 1573,666 1302,708 1184,660 1131,695 860,668 766,705 413,624 224,642" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
+				<zone points="217,960 274,979 561,991 1065,957 1237,974 1510,985 1788,980 2237,975 2306,921 2200,876 1880,843 1788,875 1771,837 1292,858 1234,827 1116,855 868,855 826,867 811,840 708,829 274,876" rendition="Line" xml:id="facs_1_tr_1_tl_3"/>
+				<zone points="2247,1091 2181,1081 2047,1137 1891,1100 1726,1131 1634,1087 1455,1139 1408,1121 1253,1164 1241,1114 787,1134 513,1124 297,1092 297,1016 559,994 660,953 831,969 1284,968 1439,1003 1537,976 1701,997 1963,971 2247,1015" rendition="Line" xml:id="facs_1_l_1"/>
+				<zone points="274,1245 320,1259 412,1221 566,1231 895,1218 1274,1255 1511,1245 1795,1263 1871,1218 2028,1239 2287,1245 2329,1128 1745,1132 1563,1092 1489,1145 1410,1121 1254,1169 1245,1109 1113,1105 727,1128 274,1108" rendition="Line" xml:id="facs_1_tr_1_tl_5"/>
+				<zone points="723,1368 324,1402 280,1366 282,1269 439,1216 612,1245 650,1287 738,1266" rendition="Line" xml:id="facs_1_l_2"/>
+				<zone points="723,1265 740,1285 730,1330 776,1279 804,1283 799,1302 806,1323 868,1267 880,1216 800,1216 758,1229 721,1237" rendition="Line" xml:id="facs_1_tr_1_tl_6"/>
+				<zone points="732,1348 740,1320 767,1288 783,1276 811,1318 864,1291 899,1250 1074,1229 1581,1231 1694,1280 2200,1247 2362,1287 2352,1374 2272,1394 2063,1387 1776,1352 1513,1384 1287,1360 1202,1410 1005,1355 865,1375 739,1369" rendition="Line" xml:id="facs_1_l"/>
+				<zone points="266,1531 513,1547 650,1495 797,1534 955,1545 1127,1496 1584,1521 1713,1511 1847,1534 1902,1495 2116,1537 2208,1497 2344,1568 2370,1449 2344,1410 2213,1387 2016,1410 1826,1363 1639,1405 1558,1368 1233,1400 989,1366 704,1410 579,1387 416,1429 266,1374" rendition="Line" xml:id="facs_1_tr_1_tl_8"/>
+				<zone points="801,1630 703,1651 664,1679 610,1647 545,1687 476,1678 463,1631 329,1663 332,1563 463,1534 510,1547 650,1495 713,1545 742,1534 801,1579" rendition="Line" xml:id="facs_1_l_4"/>
+				<zone points="657,1728 631,1782 573,1787 495,1821 410,1792 345,1816 358,1697 426,1697 468,1675 545,1682 637,1655 660,1673 684,1668" rendition="Line" xml:id="facs_1_l_5"/>
+				<zone points="1500,1684 1637,1702 1734,1660 1902,1705 2031,1668 2076,1695 2287,1668 2281,1558 2234,1539 2131,1573 2026,1523 1944,1558 1758,1502 1495,1523" rendition="Line" xml:id="facs_1_tr_1_tl_10"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_2">
+		<surface ulx="0" uly="0" lrx="2403" lry="3669">
+			<graphic url="0002_lb-00200-02.jpg" width="2403px" height="3669px"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_3">
+		<surface ulx="0" uly="0" lrx="2436" lry="3669">
+			<graphic url="0003_lb-00200-03.jpg" width="2436px" height="3669px"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_4">
+		<surface ulx="0" uly="0" lrx="2410" lry="3682">
+			<graphic url="0004_lb-00200-04.jpg" width="2410px" height="3682px"/>
+			<zone points="218,1874 220,2303 1224,2303 1231,1876" rendition="TextRegion" xml:id="facs_4_tr_1">
+				<zone points="256,2052 448,2056 484,2068 559,2097 590,2057 608,2066 887,2038 1202,2011 1204,1900 495,1885 262,1908 256,1989" rendition="Line" xml:id="facs_4_tr_1_tl_1"/>
+				<zone points="663,2148 629,2157 599,2198 564,2228 418,2157 250,2138 268,2066 468,2046 553,2094 586,2058 663,2064" rendition="Line" xml:id="facs_4_l_1"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<div>
+				<div type="page"><pb facs="#facs_1" n="1"/>
+				<p facs="#facs_1_tr_1">
+					<lb facs="#facs_1_tr_1_tl_2" n="N001"/>Lieber <sic rend="error" n="Lamberg">Lamber</sic>. Ich habe eüre brief von 6., 9. vnd 16. Junij
+					<lb facs="#facs_1_tr_1_tl_3" n="N002"/>zurecht <sic rend="error" n="erhaldten">erhaldt</sic> vnd die avisi beruhen auf sich. Waß eür comiss<add>ion</add>es
+					<lb facs="#facs_1_l_1" n="N003"/>anlangt, hoffe, ihr werdet selbige nach meiner intention gerichten
+					<lb facs="#facs_1_tr_1_tl_5" n="N004"/>haben. Eur abreiß wirdt <unclear>nuhnmehr</unclear> schon erfolget sein, also wunsche
+					<lb facs="#facs_1_l_2" n="N005"/>ich eüch vil
+					<lb facs="#facs_1_tr_1_tl_6" n="N006"/>glukh<note>Das Wort über derZeile eingefügt.</note>
+					<lb facs="#facs_1_l" n="N007"/>darzue vnd hoffe, <corr>e</corr>uch in ein, 2 oder 3 monathen wilß
+					<lb facs="#facs_1_tr_1_tl_8" n="N008"/>Gott zu sehen. wil Ich also weitter nix zu befelhen haben. <corr>V</corr>erbleib ich alzeitt
+					<lb facs="#facs_1_l_4" n="N009"/>eur <choice><expan/><abbr>gnädigster</abbr></choice> herr
+					<lb facs="#facs_1_l_5" n="N010"/>Leopoldt
+					<lb facs="#facs_1_tr_1_tl_10" n="N011"/>Graz, <choice><expan/><abbr>den</abbr></choice> 27. Julii 1660
+				</p>
+				</div><div type="page"><pb facs="#facs_2" n="2"/>
+				</div><div type="page"><pb facs="#facs_3" n="3"/>
+				</div><div type="page"><pb facs="#facs_4" n="4"/>
+				<p facs="#facs_4_tr_1">
+					<lb facs="#facs_4_tr_1_tl_1" n="N001"/>An graffen Johann Maximilian
+					<lb facs="#facs_4_l_1" n="N002"/>von Lamberg
+				</p>
+			</div></div>
+		</body>
+	</text>
 </TEI>

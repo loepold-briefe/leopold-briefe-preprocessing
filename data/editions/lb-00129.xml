@@ -10,6 +10,13 @@
                 <forename>Petr</forename>
                 <surname>Maťa</surname>
             </editor>
+            <respStmt>
+                <resp>bearb. v. Petr Maťa (Ersttranskription von Vojtěch Kuna)</resp>
+                <persName n="Vojtěch Kuna">
+                    <surname>Kuna</surname>
+                    <forename>Vojtěch</forename>
+                </persName>
+            </respStmt>
         </titleStmt>
         <publicationStmt>
             <publisher key="https://d-nb.info/gnd/1001454-8">Österreichische Akademie der Wissenschaften</publisher>
@@ -54,12 +61,12 @@
         </correspDesc>
     </profileDesc>
     <revisionDesc>
-        <change xml:id="transkription-status">nicht vorhanden</change>
+        <change xml:id="transkription-status">finalisiert</change>
     </revisionDesc>
 </teiHeader>
 <facsimile xml:id="facs_1">
 		<surface ulx="0" uly="0" lrx="2501" lry="3668">
-			<graphic url="17718415_0001_124608117.jpg" width="2501px" height="3668px"/>
+			<graphic url="0001_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-78_1.jpg" width="2501px" height="3668px"/>
 			<zone points="16,33 2491,24 2476,3232 235,3232" rendition="TextRegion" xml:id="facs_1_r">
 				<zone points="156,332 284,377 568,246 617,116 476,91 378,88 255,46 149,97 64,348" rendition="Line" xml:id="facs_1_l"/>
 				<zone points="401,366 670,447 656,507 656,542 767,476 772,534 790,542 835,530 880,542 925,539 1025,465 1014,539 1059,539 1172,481 1149,545 1193,545 1238,512 1283,545 1366,463 1402,495 1492,478 1462,551 1589,464 1689,482 1652,539 1641,554 1686,554 1811,470 1775,554 1820,551 1865,554 1910,557 1954,557 1999,554 2044,557 2089,560 2133,557 2190,514 2223,569 2268,569 2307,569 2328,621 2268,647 2223,619 2190,632 2112,703 2080,631 2028,637 1999,604 1954,607 1908,633 1865,604 1820,601 1775,604 1701,649 1686,604 1641,604 1608,615 1577,659 1486,699 1462,601 1417,662 1372,620 1326,627 1283,595 1238,595 1233,635 1123,726 1104,639 1059,589 1014,589 969,592 925,589 880,592 835,592 790,592 746,584 717,657 656,674 585,672 260,616" rendition="Line" xml:id="facs_1_r_tl_2"/>
@@ -84,17 +91,17 @@
 	</facsimile>
 	<facsimile xml:id="facs_2">
 		<surface ulx="0" uly="0" lrx="2496" lry="3666">
-			<graphic url="17718415_0002_124608156.jpg" width="2496px" height="3666px"/>
+			<graphic url="0002_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-78_2.jpg" width="2496px" height="3666px"/>
 		</surface>
 	</facsimile>
 	<facsimile xml:id="facs_3">
 		<surface ulx="0" uly="0" lrx="2505" lry="3666">
-			<graphic url="17718415_0003_124608118.jpg" width="2505px" height="3666px"/>
+			<graphic url="0003_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-78_3.jpg" width="2505px" height="3666px"/>
 		</surface>
 	</facsimile>
 	<facsimile xml:id="facs_4">
 		<surface ulx="0" uly="0" lrx="2507" lry="3668">
-			<graphic url="17718415_0004_124608157.jpg" width="2507px" height="3668px"/>
+			<graphic url="0004_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-78_4.jpg" width="2507px" height="3668px"/>
 		</surface>
 	</facsimile>
 	<text>

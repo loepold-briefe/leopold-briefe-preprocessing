@@ -62,7 +62,7 @@
 </teiHeader>
 <facsimile xml:id="facs_1">
 		<surface ulx="0" uly="0" lrx="2687" lry="4192">
-			<graphic url="16091356_0001_119402527.jpg" width="2687px" height="4192px"/>
+			<graphic url="0001_ANM, SM_k197_Leopold_ 0031.jpg" width="2687px" height="4192px"/>
 			<zone points="214,206 214,2826 2612,2826 2612,206" rendition="TextRegion" xml:id="facs_1_tr_1">
 				<zone points="1373,383 1537,372 1641,318 1706,327 1772,378 2042,348 2045,92 1905,163 1766,110 1682,134 1626,113 1549,149 1489,125 1376,143" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
 				<zone points="250,550 398,583 586,547 936,600 990,580 987,383 740,452 559,398 416,464 247,419" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
@@ -89,7 +89,7 @@
 	</facsimile>
 	<facsimile xml:id="facs_2">
 		<surface ulx="0" uly="0" lrx="2679" lry="4199">
-			<graphic url="16091356_0002_119402567.jpg" width="2679px" height="4199px"/>
+			<graphic url="0002_ANM, SM_k197_Leopold_ 0032.jpg" width="2679px" height="4199px"/>
 		</surface>
 	</facsimile>
 	<text>

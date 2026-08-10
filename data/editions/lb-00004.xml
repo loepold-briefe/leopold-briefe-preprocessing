@@ -62,7 +62,7 @@
 </teiHeader>
 <facsimile xml:id="facs_1">
 		<surface ulx="0" uly="0" lrx="2522" lry="3638">
-			<graphic url="16090876_0001_119401294.jpg" width="2522px" height="3638px"/>
+			<graphic url="0001_ANM, SM_k197_Leopold_ 0009.jpg" width="2522px" height="3638px"/>
 			<zone points="61,355 99,3075 2497,3062 2459,348" rendition="TextRegion" xml:id="facs_1_tr_1">
 				<zone points="1041,438 694,494 498,426 242,620 233,703 408,649 644,648 852,628 1359,622 1837,587 1936,569 2000,610 2107,559 2189,571 2276,538 2350,445 2232,472 2169,436 1814,500 1833,411 1676,495" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
 				<zone points="347,712 398,796 638,773 714,739 839,737 949,770 1348,740 1439,773 1541,709 1694,735 1888,699 1964,737 2450,729 2436,634 2424,597 2105,564 2003,612 1788,589 1651,651 1457,612 1348,638 1212,623 1046,637 901,617 703,649 406,628" rendition="Line" xml:id="facs_1_tr_1_tl_3"/>
@@ -95,17 +95,17 @@
 	</facsimile>
 	<facsimile xml:id="facs_2">
 		<surface ulx="0" uly="0" lrx="2485" lry="3614">
-			<graphic url="16090876_0002_119401295.jpg" width="2485px" height="3614px"/>
+			<graphic url="0002_ANM, SM_k197_Leopold_ 0010.jpg" width="2485px" height="3614px"/>
 		</surface>
 	</facsimile>
 	<facsimile xml:id="facs_3">
 		<surface ulx="0" uly="0" lrx="2477" lry="3584">
-			<graphic url="16090876_0003_119400999.jpg" width="2477px" height="3584px"/>
+			<graphic url="0003_ANM, SM_k197_Leopold_ 0011.jpg" width="2477px" height="3584px"/>
 		</surface>
 	</facsimile>
 	<facsimile xml:id="facs_4">
 		<surface ulx="0" uly="0" lrx="2485" lry="3605">
-			<graphic url="16090876_0004_119401296.jpg" width="2485px" height="3605px"/>
+			<graphic url="0004_ANM, SM_k197_Leopold_ 0012.jpg" width="2485px" height="3605px"/>
 		</surface>
 	</facsimile>
 	<text>

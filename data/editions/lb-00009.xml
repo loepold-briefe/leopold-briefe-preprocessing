@@ -63,7 +63,7 @@
 </teiHeader>
 <facsimile xml:id="facs_1">
 		<surface ulx="0" uly="0" lrx="2402" lry="3646">
-			<graphic url="16091315_0001_119401944.jpg" width="2402px" height="3646px"/>
+			<graphic url="0001_ANM, SM_k197_Leopold_ 0025.jpg" width="2402px" height="3646px"/>
 			<zone points="131,60 137,1866 2368,1857 2364,60" rendition="TextRegion" xml:id="facs_1_tr_1">
 				<zone points="166,420 573,421 839,378 1159,429 1290,381 1346,416 1799,373 1850,413 2012,384 2252,424 2297,416 2331,343 2220,293 2012,325 1719,256 1420,301 1261,259 1127,317 1042,269 943,322 823,253 685,293 584,240 512,280 376,229 171,290" rendition="Line" xml:id="facs_1_tr_1_tl_3"/>
 				<zone points="189,541 309,578 659,551 752,562 983,514 1066,560 1255,512 1386,546 1524,506 1655,544 1903,506 2175,533 2219,419 2140,402 1821,436 1500,421 959,450 871,389 608,430 289,403 189,429" rendition="Line" xml:id="facs_1_tr_1_tl_4"/>
@@ -82,17 +82,17 @@
 	</facsimile>
 	<facsimile xml:id="facs_2">
 		<surface ulx="0" uly="0" lrx="2406" lry="3651">
-			<graphic url="16091315_0002_119401945.jpg" width="2406px" height="3651px"/>
+			<graphic url="0002_ANM, SM_k197_Leopold_ 0026.jpg" width="2406px" height="3651px"/>
 		</surface>
 	</facsimile>
 	<facsimile xml:id="facs_3">
 		<surface ulx="0" uly="0" lrx="2381" lry="3649">
-			<graphic url="16091315_0003_119401946.jpg" width="2381px" height="3649px"/>
+			<graphic url="0003_ANM, SM_k197_Leopold_ 0027.jpg" width="2381px" height="3649px"/>
 		</surface>
 	</facsimile>
 	<facsimile xml:id="facs_4">
 		<surface ulx="0" uly="0" lrx="2401" lry="3628">
-			<graphic url="16091315_0004_119402042.jpg" width="2401px" height="3628px"/>
+			<graphic url="0004_ANM, SM_k197_Leopold_ 0028.jpg" width="2401px" height="3628px"/>
 			<zone points="193,1821 185,2304 1205,2304 1201,1809" rendition="TextRegion" xml:id="facs_4_tr_1">
 				<zone points="221,2052 329,2053 398,2043 466,2088 715,2039 799,2061 958,2036 1135,2043 1138,1976 1049,1936 911,1939 852,1981 760,1943 709,1959 507,1928 447,1973 320,1982 225,1981" rendition="Line" xml:id="facs_4_tr_1_tl_1"/>
 				<zone points="228,2156 382,2130 490,2157 534,2132 609,2153 741,2116 776,2141 882,2113 999,2121 1007,2150 1040,2168 1102,2177 1090,2060 978,2046 854,2043 799,2068 740,2037 460,2087 420,2049 394,2036 368,2058 330,2042 230,2108" rendition="Line" xml:id="facs_4_tr_1_tl_2"/>

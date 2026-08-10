@@ -10,6 +10,13 @@
                 <forename>Petr</forename>
                 <surname>Maťa</surname>
             </editor>
+            <respStmt>
+                <resp>bearb. v. Petr Maťa (Ersttranskription von Tomáš Konečný)</resp>
+                <persName n="Tomáš Konečný">
+                    <surname>Konečný</surname>
+                    <forename>Tomáš</forename>
+                </persName>
+            </respStmt>
         </titleStmt>
         <publicationStmt>
             <publisher key="https://d-nb.info/gnd/1001454-8">Österreichische Akademie der Wissenschaften</publisher>
@@ -56,12 +63,12 @@
         </correspDesc>
     </profileDesc>
     <revisionDesc>
-        <change xml:id="transkription-status">nicht vorhanden</change>
+        <change xml:id="transkription-status">finalisiert</change>
     </revisionDesc>
 </teiHeader>
 <facsimile xml:id="facs_1">
 		<surface ulx="0" uly="0" lrx="2680" lry="4032">
-			<graphic url="17680016_0001_124546581.jpg" width="2680px" height="4032px"/>
+			<graphic url="0001_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-86_1.jpg" width="2680px" height="4032px"/>
 			<zone points="178,369 181,2824 2633,2779 2649,370" rendition="TextRegion" xml:id="facs_1_tr_3">
 				<zone points="278,673 378,721 474,650 575,670 758,715 837,645 1042,651 1168,634 1255,656 1295,634 1644,642 2226,593 2285,627 2424,582 2460,547 2424,508 2362,480 2251,537 2092,463 1918,512 1564,440 1448,522 1130,556 1070,517 723,481 454,406 239,562" rendition="Line" xml:id="facs_1_tr_3_tl_1"/>
 				<zone points="312,823 398,824 482,838 648,831 694,783 804,807 825,789 917,784 953,822 985,849 1068,792 1431,761 1485,795 1527,789 1577,757 1660,775 1730,807 1777,771 1825,780 1888,798 1943,741 2115,776 2220,755 2413,752 2419,647 2287,627 2231,593 1667,642 1302,632 1262,655 1167,639 1057,652 839,641 758,715 473,650 426,690 375,721 267,740" rendition="Line" xml:id="facs_1_tr_3_tl_2"/>
@@ -85,17 +92,17 @@
 	</facsimile>
 	<facsimile xml:id="facs_2">
 		<surface ulx="0" uly="0" lrx="2686" lry="4052">
-			<graphic url="17680016_0002_124546640.jpg" width="2686px" height="4052px"/>
+			<graphic url="0002_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-86_2.jpg" width="2686px" height="4052px"/>
 		</surface>
 	</facsimile>
 	<facsimile xml:id="facs_3">
 		<surface ulx="0" uly="0" lrx="2731" lry="4052">
-			<graphic url="17680016_0003_124546582.jpg" width="2731px" height="4052px"/>
+			<graphic url="0003_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-86_3.jpg" width="2731px" height="4052px"/>
 		</surface>
 	</facsimile>
 	<facsimile xml:id="facs_4">
 		<surface ulx="0" uly="0" lrx="2758" lry="4032">
-			<graphic url="17680016_0004_124546641.jpg" width="2758px" height="4032px"/>
+			<graphic url="0004_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-86_4.jpg" width="2758px" height="4032px"/>
 			<zone points="182,2038 183,2743 1445,2738 1447,2027" rendition="TextRegion" xml:id="facs_4_tr_2">
 				<zone points="183,2166 275,2267 466,2254 690,2202 1058,2195 1183,2191 1365,2160 1374,2046 818,2046 520,2068 397,2063 287,2082" rendition="Line" xml:id="facs_4_tr_2_tl_1"/>
 				<zone points="238,2381 385,2347 617,2391 707,2405 754,2376 944,2364 1141,2386 1252,2329 1368,2337 1374,2223 1073,2203 720,2210 629,2216 472,2250 242,2292" rendition="Line" xml:id="facs_4_tr_2_tl_2"/>

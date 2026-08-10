@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+	<teiHeader>
     <fileDesc>
         <titleStmt>
             <title type="main">Leopold I. an Johann Maximilian von Lamberg, 5. September 1657 (Praha)</title>
@@ -10,6 +10,17 @@
                 <forename>Petr</forename>
                 <surname>Maťa</surname>
             </editor>
+            <respStmt>
+                <resp>bearb. v. Petr Maťa (Ersttranskription von Marek Palys und Christian Standhartinger)</resp>
+                <persName n="Marek Palys">
+                    <surname>Palys</surname>
+                    <forename>Marek</forename>
+                </persName>
+                <persName n="Christian Standhartinger">
+                    <surname>Standhartinger</surname>
+                    <forename>Christian</forename>
+                </persName>
+            </respStmt>
         </titleStmt>
         <publicationStmt>
             <publisher key="https://d-nb.info/gnd/1001454-8">Österreichische Akademie der Wissenschaften</publisher>
@@ -56,12 +67,75 @@
         </correspDesc>
     </profileDesc>
     <revisionDesc>
-        <change xml:id="transkription-status">nicht vorhanden</change>
+        <change xml:id="transkription-status">finalisiert</change>
     </revisionDesc>
 </teiHeader>
-<text>
-      <body>
-         <p>Noch keine Transkription erstellt.</p>
-      </body>
-  </text>
+<facsimile xml:id="facs_1">
+		<surface ulx="0" uly="0" lrx="2483" lry="3620">
+			<graphic url="0001_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-19_1.jpg" width="2483px" height="3620px"/>
+			<zone points="54,211 34,1938 2477,1938 2489,227" rendition="TextRegion" xml:id="facs_1_tr_1">
+				<zone points="133,421 370,391 562,494 686,437 864,461 901,446 1076,458 1108,520 1185,454 1292,459 1613,407 2042,433 2342,378 2342,265 1935,257 1776,323 1464,282 980,245 522,265 389,337 271,257 133,271" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
+				<zone points="80,622 828,528 942,589 1234,623 1404,536 1605,581 2004,589 2246,585 2320,377 1938,459 1902,441 1723,422 1567,420 1464,453 1005,453 872,477 839,454 683,435 570,499 536,451 355,392 104,421" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
+				<zone points="101,758 232,762 369,678 380,765 464,716 478,788 523,734 672,758 805,683 1035,781 1211,686 1289,699 1693,687 1719,726 1807,744 2370,718 2375,564 2238,585 2023,589 1549,568 1252,652 1115,594 640,548 447,608 342,565 244,591 106,615" rendition="Line" xml:id="facs_1_tr_1_tl_3"/>
+				<zone points="118,859 649,845 851,923 916,877 986,913 1211,854 1321,917 1508,833 1504,915 1569,870 2076,943 2146,873 2297,847 2293,796 2186,758 2007,790 1905,734 1838,747 1540,683 1372,741 1298,793 1139,727 1042,791 1025,767 858,746 756,773 532,743 370,757 118,761" rendition="Line" xml:id="facs_1_tr_1_tl_4"/>
+				<zone points="729,1029 618,1046 565,1015 291,1035 69,1038 69,943 89,871 542,858 601,922 736,943" rendition="Line" xml:id="facs_1_l_1"/>
+				<zone points="593,898 609,935 768,930 779,888 617,855" rendition="Line" xml:id="facs_1_l_2"/>
+				<zone points="745,882 848,920 896,893 971,904 1212,880 1338,917 1475,890 1524,875 1550,913 1632,870 1709,887 1799,881 1957,920 2041,881 2428,868 2409,1025 2010,1041 1820,983 1523,1047 1300,1012 1210,1103 1148,1076 745,1033" rendition="Line" xml:id="facs_1_l"/>
+				<zone points="52,1136 701,1195 978,1159 1070,1215 1159,1190 1373,1128 1477,1166 1650,1140 1753,1200 1854,1136 2298,1130 2295,1034 1981,1065 1895,1078 1640,1031 1509,1038 1331,1021 1208,1090 1187,1036 1059,1058 989,1068 507,1022 52,1061" rendition="Line" xml:id="facs_1_tr_1_tl_6"/>
+				<zone points="52,1370 285,1292 375,1350 594,1332 730,1337 827,1374 925,1338 941,1385 1145,1324 1148,1214 881,1202 695,1211 314,1151 55,1194" rendition="Line" xml:id="facs_1_tr_1_tl_7"/>
+				<zone points="603,1396 547,1460 403,1494 384,1560 332,1551 190,1465 150,1474 159,1347 300,1306 459,1381 542,1338 611,1341" rendition="Line" xml:id="facs_1_l_4"/>
+				<zone points="1497,1298 1515,1482 1774,1384 1898,1306 2154,1364 2252,1295 2396,1327 2425,1253 2391,1128 2278,1154 2186,1130 1854,1240 1612,1148 1494,1188" rendition="Line" xml:id="facs_1_tr_1_tl_8"/>
+				<zone points="2207,1384 2278,1402 2362,1436 2408,1433 2399,1329 2370,1324 2362,1332 2330,1303 2290,1295 2255,1295 2246,1303 2212,1298" rendition="Line" xml:id="facs_1_tr_1_tl_9"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_2">
+		<surface ulx="0" uly="0" lrx="2481" lry="3619">
+			<graphic url="0002_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-19_2.jpg" width="2481px" height="3619px"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_3">
+		<surface ulx="0" uly="0" lrx="2484" lry="3619">
+			<graphic url="0003_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-19_3.jpg" width="2484px" height="3619px"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_4">
+		<surface ulx="0" uly="0" lrx="3616" lry="2451">
+			<graphic url="0004_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-19a.jpg" width="3616px" height="2451px"/>
+			<zone points="1239,926 1241,1352 2426,1364 2440,924" rendition="TextRegion" xml:id="facs_4_tr_1">
+				<zone points="1269,1066 1622,1095 1880,1028 2025,1085 2244,1078 2266,1098 2408,1056 2411,943 2258,945 1724,943 1517,979 1272,950" rendition="Line" xml:id="facs_4_tr_1_tl_1"/>
+				<zone points="1277,1179 1637,1231 1657,1227 1723,1173 2017,1173 2073,1213 2181,1229 2411,1190 2417,1083 2097,1078 1953,1073 1682,1080 1560,1098 1480,1076 1275,1118" rendition="Line" xml:id="facs_4_tr_1_tl_2"/>
+				<zone points="1278,1287 1414,1306 1494,1314 1818,1333 2136,1300 2183,1230 2163,1180 2074,1175 1926,1167 1809,1213 1691,1163 1641,1235 1470,1185 1278,1235" rendition="Line" xml:id="facs_4_tr_1_tl_3"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<div>
+				<div type="page"><pb facs="#facs_1" n="1"/>
+				<p facs="#facs_1_tr_1">
+					<lb facs="#facs_1_tr_1_tl_1" n="N001"/>Lieber graf von <corr>L</corr>amberg. Ihr wollett dises schreiben
+					<lb facs="#facs_1_tr_1_tl_2" n="N002"/>fleissig vberantwordten. Im vbrigen beziehe ich mich auf
+					<lb facs="#facs_1_tr_1_tl_3" n="N003"/>daß jenige, so eüch <corr>vo</corr>n Portia vnd der canzley auß geschriben
+					<lb facs="#facs_1_tr_1_tl_4" n="N004"/>wirdt. Wöllett eüch dißes werkh aufs hechst angelegen
+					<lb facs="#facs_1_l_1" n="N005"/>sein lassen, <del rend="strikethrough">daß</del>
+					<lb facs="#facs_1_l_2" n="N006"/>dann
+					<lb facs="#facs_1_l" n="N007"/>vnßers hauß ganzes heil darvon dependirdt.
+					<lb facs="#facs_1_tr_1_tl_6" n="N008"/>vnd verbleibe eüch in vbrigen mitt <choice><expan>königlichen</expan><abbr>kön.</abbr></choice> genaden vnd
+					<lb facs="#facs_1_tr_1_tl_7" n="N009"/>hulden jederzeitt wolgewogen
+					<lb facs="#facs_1_l_4" n="N010"/>Leopoldt
+					<lb facs="#facs_1_tr_1_tl_8" n="N011"/>Praag, den 5. <choice><expan>Septembris</expan><abbr>Septemb.</abbr></choice>
+					<lb facs="#facs_1_tr_1_tl_9" n="N012"/>1657
+				</p>
+				</div><div type="page"><pb facs="#facs_2" n="2"/>
+				</div><div type="page"><pb facs="#facs_3" n="3"/>
+				</div><div type="page"><pb facs="#facs_4" n="4"/>
+				<p facs="#facs_4_tr_1">
+					<lb facs="#facs_4_tr_1_tl_1" n="N001"/>An den Johann Maxen graffen
+					<lb facs="#facs_4_tr_1_tl_2" n="N002"/>von Lamberg, meinem pothschaffter
+					<lb facs="#facs_4_tr_1_tl_3" n="N003"/>an <choice><expan>königlichen</expan><abbr>kön.</abbr></choice> spanischen hoff
+				</p>
+			</div></div>
+		</body>
+	</text>
 </TEI>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+	<teiHeader>
     <fileDesc>
         <titleStmt>
             <title type="main">Leopold I. an Johann Maximilian von Lamberg, 12. September 1657 (Praha)</title>
@@ -10,6 +10,17 @@
                 <forename>Petr</forename>
                 <surname>Maťa</surname>
             </editor>
+            <respStmt>
+                <resp>bearb. v. Petr Maťa (Ersttranskription von Tomáš Konečný und Christian Standhartinger)</resp>
+                <persName n="Christian Standhartinger">
+                    <surname>Standhartinger</surname>
+                    <forename>Christian</forename>
+                </persName>
+                <persName n="Tomáš Konečný">
+                    <surname>Konečný</surname>
+                    <forename>Tomáš</forename>
+                </persName>
+            </respStmt>
         </titleStmt>
         <publicationStmt>
             <publisher key="https://d-nb.info/gnd/1001454-8">Österreichische Akademie der Wissenschaften</publisher>
@@ -56,12 +67,65 @@
         </correspDesc>
     </profileDesc>
     <revisionDesc>
-        <change xml:id="transkription-status">nicht vorhanden</change>
+        <change xml:id="transkription-status">finalisiert</change>
     </revisionDesc>
 </teiHeader>
-<text>
-      <body>
-         <p>Noch keine Transkription erstellt.</p>
-      </body>
-  </text>
+<facsimile xml:id="facs_1">
+		<surface ulx="0" uly="0" lrx="2458" lry="3682">
+			<graphic url="0001_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-20_1.jpg" width="2458px" height="3682px"/>
+			<zone points="14,188 2438,188 2438,2203 14,2203" rendition="TextRegion" xml:id="facs_1_r">
+				<zone points="256,545 329,531 433,542 579,547 663,577 814,578 859,559 884,537 1070,563 1296,526 1436,616 1490,591 1583,519 1655,565 1825,532 1997,563 2174,533 2236,450 2177,403 1910,371 1566,404 1261,325 1061,397 948,380 753,407 688,372 329,306 164,474" rendition="Line" xml:id="facs_1_r_tl_1"/>
+				<zone points="113,696 215,739 333,652 638,693 748,658 855,719 1029,658 1169,683 1314,640 1355,654 1342,702 1352,739 1449,657 1633,696 1715,675 1808,718 1922,687 1986,632 2081,650 2226,655 2295,588 2229,525 2009,563 1826,533 1658,566 1563,560 1490,560 1462,570 1417,596 1394,586 1294,527 1177,545 1065,562 882,537 839,573 787,581 660,579 591,551 339,544 296,522 230,524 116,530" rendition="Line" xml:id="facs_1_r_tl_2"/>
+				<zone points="72,890 151,896 270,812 345,881 423,817 1073,816 1155,811 1339,806 1415,878 1519,807 1581,851 1732,811 1815,889 1987,811 2174,797 2217,769 2174,690 2053,707 1976,729 1832,754 1684,685 1644,701 1394,705 1349,737 1352,695 1335,691 1373,659 1409,693 1425,687 1413,664 1390,643 1352,632 1318,644 1283,668 1173,682 854,716 738,685 640,710 461,706 359,678 213,743 148,710 75,719" rendition="Line" xml:id="facs_1_r_tl_3"/>
+				<zone points="40,1005 37,1084 122,1002 123,1041 141,1045 181,996 284,978 319,1050 328,1065 353,1084 395,1058 525,969 504,1037 525,1076 566,1040 626,961 703,967 899,966 985,1041 1043,947 1360,948 1470,954 1674,948 1723,985 1791,941 2089,976 2232,957 2249,911 2232,852 2210,797 2132,867 2064,823 1879,851 1842,841 1802,846 1732,811 1595,857 1507,838 1391,896 1136,800 1064,855 878,841 745,896 475,899 397,841 362,863 329,811 267,811 159,896 63,890" rendition="Line" xml:id="facs_1_r_tl_5"/>
+				<zone points="62,1077 93,1035 180,995 286,980 340,1080 519,971 517,1051 557,1017 535,1075 625,967 896,999 985,1035 1368,957 1717,1013 1790,959 2093,985 2302,951 2342,1084 2299,1119 2063,1094 1849,1121 1800,1146 1319,1135 1005,1157 920,1202 738,1126 506,1192 478,1196 462,1151 196,1135 120,1188" rendition="Line" xml:id="facs_1_l_2"/>
+				<zone points="70,1351 89,1355 137,1294 169,1272 450,1289 483,1334 525,1359 683,1273 728,1270 931,1276 1001,1275 1107,1258 1184,1304 1246,1273 1470,1264 1502,1322 1665,1266 1685,1292 1856,1286 2032,1255 2148,1270 2198,1220 2148,1171 2028,1169 1873,1104 1800,1151 1562,1139 1449,1194 1307,1124 1003,1141 971,1172 906,1202 838,1197 713,1133 578,1147 503,1192 506,1154 475,1153 261,1154 202,1123 74,1219" rendition="Line" xml:id="facs_1_r_tl_7"/>
+				<zone points="104,1487 168,1476 420,1400 574,1444 820,1409 884,1449 986,1409 1025,1412 983,1466 974,1504 985,1529 1024,1518 1094,1463 1164,1457 1246,1429 1381,1451 1436,1436 1538,1444 1701,1412 1997,1428 2180,1415 2184,1481 2188,1501 2284,1421 2322,1417 2322,1354 2209,1339 2125,1267 2058,1315 1930,1287 1697,1299 1662,1266 1503,1321 1469,1267 1394,1271 1155,1324 976,1291 786,1320 673,1305 592,1319 539,1342 483,1366 399,1357 389,1296 232,1281 60,1393" rendition="Line" xml:id="facs_1_r_tl_8"/>
+				<zone points="84,1565 255,1655 391,1565 586,1563 753,1612 815,1615 878,1583 1015,1571 1154,1576 1360,1629 1463,1613 1527,1561 1678,1557 1760,1606 1850,1561 2011,1555 2293,1551 2363,1471 2282,1419 2192,1497 2159,1419 1888,1446 1626,1448 1439,1435 1375,1449 1099,1461 1034,1480 958,1471 877,1455 818,1440 461,1444 220,1455 87,1514" rendition="Line" xml:id="facs_1_r_tl_9"/>
+				<zone points="1517,1732 1493,1725 1351,1821 1136,1803 921,1769 658,1806 551,1722 330,1710 215,1719 86,1829 65,1717 96,1626 255,1656 381,1573 577,1583 744,1611 792,1595 820,1614 986,1630 1218,1614 1473,1639 1517,1631" rendition="Line" xml:id="facs_1_l_1"/>
+				<zone points="571,1892 437,1934 380,2009 148,1928 131,1846 303,1719 383,1736 449,1725 499,1760 577,1736 639,1774" rendition="Line" xml:id="facs_1_l_4"/>
+				<zone points="1660,1623 1735,1593 1758,1607 1804,1591 1925,1615 2047,1568 2184,1596 2426,1574 2433,1720 2331,1692 2277,1696 2155,1750 2024,1786 1861,1794 1706,1783 1679,1778" rendition="Line" xml:id="facs_1_l"/>
+				<zone points="2206,1812 2336,1829 2386,1823 2442,1740 2411,1725 2339,1692 2271,1696 2204,1734" rendition="Line" xml:id="facs_1_r_tl_11"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_2">
+		<surface ulx="0" uly="0" lrx="2476" lry="3679">
+			<graphic url="0002_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-20_2.jpg" width="2476px" height="3679px"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_3">
+		<surface ulx="0" uly="0" lrx="2585" lry="3679">
+			<graphic url="0003_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-20_3.jpg" width="2585px" height="3679px"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_4">
+		<surface ulx="0" uly="0" lrx="2534" lry="3682">
+			<graphic url="0004_OÖLA, HA Steyr, Sch. 1232, Fasz. 21, Nr. 325-20_4.jpg" width="2534px" height="3682px"/>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<div>
+				<div type="page"><pb facs="#facs_1" n="1"/>
+				<p facs="#facs_1_r">
+					<lb facs="#facs_1_r_tl_1" n="N001"/>Lieber graff von Lamberg. Ich hab eür
+					<lb facs="#facs_1_r_tl_2" n="N002"/>schreiben von 26. passato zu recht empfangen vnd
+					<lb facs="#facs_1_r_tl_3" n="N003"/>darauß beeder <choice><expan/><abbr>Majestäten</abbr></choice> vnd <choice><expan/><abbr>Durchleechtikheitten</abbr></choice> guetten
+					<lb facs="#facs_1_r_tl_5" n="N004"/>gesondt gar gern verstanden. <sic rend="error" n="Die">Di</sic> sachen lassen
+					<lb facs="#facs_1_l_2" n="N005"/>sich in bekhandten negotio nuhn zimblich an, <del rend="strikethrough">vnd </del>
+					<lb facs="#facs_1_r_tl_7" n="N006"/>khan aber <choice><expan/><abbr>propter</abbr></choice> certas causas noch nichts specifice
+					<lb facs="#facs_1_r_tl_8" n="N007"/>schreiben. <corr>W</corr>ollett eingeschossnes Ihr <choice><expan>Majestät</expan><abbr>M.</abbr></choice> der <sic rend="error" n="konigin">konig</sic>
+					<lb facs="#facs_1_r_tl_9" n="N008"/>vbergeben. Vnd ich verbleibe eüch allezeitt mitt
+					<lb facs="#facs_1_l_1" n="N009"/>genaden vnd hulden wolgewogen
+					<lb facs="#facs_1_l_4" n="N010"/>Leopoldt 
+					<lb facs="#facs_1_l" n="N011"/>Praag, <choice><expan/><abbr>den</abbr></choice> 12. <choice><expan>Septembris</expan><abbr>7bris</abbr></choice>
+					<lb facs="#facs_1_r_tl_11" n="N012"/>1657
+				</p>
+				</div><div type="page"><pb facs="#facs_2" n="2"/>
+				</div><div type="page"><pb facs="#facs_3" n="3"/>
+				</div><div type="page"><pb facs="#facs_4" n="4"/>
+			</div></div>
+		</body>
+	</text>
 </TEI>
