@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title type="main">Leopold I. an Johann Maximilian von Lamberg, 10. August 1657 (Prag)</title>
+            <title type="main">Leopold I. an Johann Maximilian von Lamberg, 23. Oktober 1679 (Brandeis)</title>
             <title type="sub">Korrespondenz von Kaiser Leopold I</title>
             <author key="#lb-person-1">Leopold I.</author>
             <editor key="https://d-nb.info/gnd/132150654">
@@ -25,12 +25,12 @@
                         <msIdentifier>
                             <repository ref="https://d-nb.info/gnd/2020619-7" n="OÖLA">Oberösterreichisches Landesarchiv</repository>
                             <collection>HA Steyr</collection>
-                            <idno>K. 1232, Fasz. 21, Nr. 325/17</idno>
+                            <idno>K. 1237, Fasz. 26, Nr. 481/145, fol. 252r‒253v</idno>
                         </msIdentifier>
                         <history>   
                             <origin>
                                 <term>Original</term>
-                                <origDate when-iso="1657-08-10"/>
+                                <origDate when-iso="1679-10-23"/>
                             </origin>
                         </history>
                     </msDesc>
@@ -45,13 +45,11 @@
         <correspDesc>
             <correspAction type="sent">
                 <persName ref="#lb-person-1">Leopold I.</persName>
-                <date notBefore-iso="1657-08-10" notAfter-iso="1657-08-10">10. August 1657</date>
-                <placeName ref="#69">Prag</placeName>
+                <date notBefore-iso="1679-10-23" notAfter-iso="1679-10-23">23. Oktober 1679</date>
+                <placeName ref="#156">Brandeis</placeName>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#lb-person-3">Johann Maximilian von Lamberg</persName>
-                <placeName ref="#lb-place-72">Madrid</placeName>
-                <date when="1657-09-15"/>
             </correspAction>
         </correspDesc>
     </profileDesc>

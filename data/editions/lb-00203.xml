@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title type="main">Leopold I. an Johann Maximilian von Lamberg, </title>
+            <title type="main">Leopold I. an Johann Ferdinand von Portia, </title>
             <title type="sub">Korrespondenz von Kaiser Leopold I</title>
             <author key="#lb-person-1">Leopold I.</author>
             <editor key="https://d-nb.info/gnd/132150654">
@@ -48,7 +48,7 @@
                 <date notBefore-iso="None" notAfter-iso="None"/>
             </correspAction>
             <correspAction type="received">
-                <persName ref="#lb-person-3">Johann Maximilian von Lamberg</persName>
+                <persName ref="#lb-person-77">Johann Ferdinand von Portia</persName>
             </correspAction>
         </correspDesc>
     </profileDesc>
