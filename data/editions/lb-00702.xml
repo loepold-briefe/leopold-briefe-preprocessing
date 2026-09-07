@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title type="main"> an , </title>
+            <title type="sub">Korrespondenz von Kaiser Leopold I</title>
+            <editor key="https://d-nb.info/gnd/132150654">
+                <forename>Petr</forename>
+                <surname>Maťa</surname>
+            </editor>
+        </titleStmt>
+        <publicationStmt>
+            <publisher key="https://d-nb.info/gnd/1001454-8">Österreichische Akademie der Wissenschaften</publisher>
+            <date when="2028"/>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">Lizenziert unter CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/deed.de)</licence>
+            </availability>
+        </publicationStmt>
+        <sourceDesc>
+            <listWit>
+                <witness>
+                    <msDesc>
+                        <msIdentifier>
+                            <repository n="SOA Třeboň/ČK">Státní oblastní archiv v Třeboni, pracoviště Český Krumlov</repository>
+                            <collection>RA Schwarzenberků</collection>
+                            <idno>Fasz. 366, fol. 2r‒3v</idno>
+                        </msIdentifier>
+                        <history>   
+                            <origin>
+                                <term>zeitgenössische Abschrift</term>
+                                <origDate when-iso="None"/>
+                            </origin>
+                        </history>
+                    </msDesc>
+                </witness>
+            </listWit>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <langUsage>
+            <language ident=""/>
+        </langUsage>
+        <correspDesc>
+            <correspAction type="sent">
+                <date notBefore-iso="None" notAfter-iso="None"/>
+            </correspAction>
+            <correspAction type="received">
+            </correspAction>
+        </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+        <change xml:id="transkription-status">nicht vorhanden</change>
+    </revisionDesc>
+</teiHeader>
+<text>
+      <body>
+         <p>Noch keine Transkription erstellt.</p>
+      </body>
+  </text>
+</TEI>

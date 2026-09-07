@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title type="main">Leopold I. an Johann Adolf von Schwarzenberg, 5. November 1681</title>
+            <title type="sub">Korrespondenz von Kaiser Leopold I</title>
+            <author key="#lb-person-1">Leopold I.</author>
+            <editor key="https://d-nb.info/gnd/132150654">
+                <forename>Petr</forename>
+                <surname>Maťa</surname>
+            </editor>
+        </titleStmt>
+        <publicationStmt>
+            <publisher key="https://d-nb.info/gnd/1001454-8">Österreichische Akademie der Wissenschaften</publisher>
+            <date when="2028"/>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by/4.0/deed.de">Lizenziert unter CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/deed.de)</licence>
+            </availability>
+        </publicationStmt>
+        <sourceDesc>
+            <listWit>
+                <witness>
+                    <msDesc>
+                        <msIdentifier>
+                            <repository n="SOA Třeboň/ČK">Státní oblastní archiv v Třeboni, pracoviště Český Krumlov</repository>
+                            <collection>RA Schwarzenberků</collection>
+                            <idno>Fasz. 366, fol. 195r‒v</idno>
+                        </msIdentifier>
+                        <history>   
+                            <origin>
+                                <term>spätere Abschrift</term>
+                                <origDate when-iso="1681-11-05"/>
+                            </origin>
+                        </history>
+                    </msDesc>
+                </witness>
+            </listWit>
+            <listRelation>                
+                <relation active="lb-00743.xml" n="spätere Abschrift" passive="lb-00742.xml"/>
+            </listRelation>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <langUsage>
+            <language ident="deu"/>
+        </langUsage>
+        <correspDesc>
+            <correspAction type="sent">
+                <persName ref="#lb-person-1">Leopold I.</persName>
+                <date notBefore-iso="1681-11-05" notAfter-iso="1681-11-05">5. November 1681</date>
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="#lb-person-83">Johann Adolf von Schwarzenberg</persName>
+            </correspAction>
+        </correspDesc>
+    </profileDesc>
+    <revisionDesc>
+        <change xml:id="transkription-status">nicht vorhanden</change>
+    </revisionDesc>
+</teiHeader>
+<text>
+      <body>
+         <p>Noch keine Transkription erstellt.</p>
+      </body>
+  </text>
+</TEI>

@@ -3,7 +3,7 @@
   <teiHeader>
     <fileDesc>
         <titleStmt>
-            <title type="main">Leopold I. an Johann Maximilian von Lamberg, 16. August 1659 (Pressburg)</title>
+            <title type="main">Leopold I. an Johann Maximilian von Lamberg, 26. August 1659 (Pressburg)</title>
             <title type="sub">Korrespondenz von Kaiser Leopold I</title>
             <author key="#lb-person-1">Leopold I.</author>
             <editor key="https://d-nb.info/gnd/132150654">
@@ -30,7 +30,7 @@
                         <history>   
                             <origin>
                                 <term>Original</term>
-                                <origDate when-iso="1659-08-16"/>
+                                <origDate when-iso="1659-08-26"/>
                             </origin>
                         </history>
                     </msDesc>
@@ -45,7 +45,7 @@
         <correspDesc>
             <correspAction type="sent">
                 <persName ref="#lb-person-1">Leopold I.</persName>
-                <date notBefore-iso="1659-08-16" notAfter-iso="1659-08-16">16. August 1659</date>
+                <date notBefore-iso="1659-08-26" notAfter-iso="1659-08-26">26. August 1659</date>
                 <placeName ref="#71">Pressburg</placeName>
             </correspAction>
             <correspAction type="received">

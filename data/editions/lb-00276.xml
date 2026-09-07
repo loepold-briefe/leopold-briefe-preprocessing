@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+	<teiHeader>
     <fileDesc>
         <titleStmt>
             <title type="main">Leopold I. an Johann Maximilian von Lamberg, 30. August 1675</title>
@@ -53,12 +53,77 @@
         </correspDesc>
     </profileDesc>
     <revisionDesc>
-        <change xml:id="transkription-status">nicht vorhanden</change>
+        <change xml:id="transkription-status">finalisiert</change>
     </revisionDesc>
 </teiHeader>
-<text>
-      <body>
-         <p>Noch keine Transkription erstellt.</p>
-      </body>
-  </text>
+<facsimile xml:id="facs_1">
+		<surface ulx="0" uly="0" lrx="2383" lry="3601">
+			<graphic url="0001_OÖLA, HA Steyr, Sch. 1237, Fasz. 26, Nr. 481-080_1, fol. 140r.jpg" width="2383px" height="3601px"/>
+			<zone points="30,315 34,2466 2350,2471 2362,298" rendition="TextRegion" xml:id="facs_1_tr_1">
+				<zone points="225,539 591,504 735,531 972,538 1105,531 1331,507 1441,526 1560,502 1605,545 1789,525 2341,563 2313,410 2197,389 2015,439 1700,367 1520,423 1274,349 1155,352 1052,415 952,354 849,399 650,373 560,407 465,346 225,378" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
+				<zone points="212,719 305,686 801,645 1309,650 1380,690 1633,683 1726,656 1792,698 1835,666 2004,709 2345,698 2350,613 2065,608 1885,553 1803,595 1652,539 1528,579 1321,553 1134,521 923,566 843,531 225,576" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
+				<zone points="206,798 328,764 701,809 876,778 1243,782 1362,796 1964,783 2326,857 2354,797 2326,711 2210,746 2096,693 1721,709 1573,679 1362,709 1243,648 886,703 658,661 381,727 323,682 204,714" rendition="Line" xml:id="facs_1_tr_1_tl_3"/>
+				<zone points="217,949 354,945 457,952 521,907 582,936 743,878 923,949 1010,899 1322,923 1462,878 1816,946 2049,924 2192,946 2263,933 2263,857 2104,801 1983,839 1639,793 1372,846 1298,801 627,827 463,795 288,764 214,793" rendition="Line" xml:id="facs_1_tr_1_tl_4"/>
+				<zone points="227,1034 716,1046 944,1092 1084,1028 1319,1076 1623,1023 1674,1064 2200,1097 2239,1087 2268,1048 2237,976 1972,999 1848,923 1568,936 1470,983 1325,933 1187,976 1079,944 854,973 672,907 492,968 296,917 225,946" rendition="Line" xml:id="facs_1_tr_1_tl_5"/>
+				<zone points="249,1182 608,1158 695,1219 928,1166 1023,1216 1182,1216 1738,1173 2245,1219 2292,1165 2223,1081 1681,1116 1589,1047 1324,1067 1173,1089 976,1068 830,1121 682,1055 392,1066 249,1100" rendition="Line" xml:id="facs_1_tr_1_tl_6"/>
+				<zone points="217,1346 333,1321 693,1335 759,1288 859,1327 1050,1309 1142,1367 1380,1288 1443,1335 1544,1290 1684,1346 2074,1313 2165,1365 2272,1304 2250,1219 2200,1208 1814,1203 1705,1243 1417,1179 954,1250 804,1192 669,1237 582,1166 494,1227 397,1190 217,1213" rendition="Line" xml:id="facs_1_tr_1_tl_7"/>
+				<zone points="243,1470 417,1427 709,1449 1044,1425 1248,1491 1409,1430 1713,1494 1869,1438 2307,1510 2339,1424 2303,1380 2247,1318 2154,1370 2067,1303 1753,1314 1612,1340 1285,1311 1142,1367 1047,1309 820,1311 605,1372 444,1322 243,1362" rendition="Line" xml:id="facs_1_tr_1_tl_8"/>
+				<zone points="262,1568 379,1617 472,1579 543,1619 662,1592 1118,1565 1203,1610 1372,1620 1582,1589 1922,1618 2101,1599 2247,1615 2297,1578 2274,1510 2089,1470 2009,1507 1837,1465 1729,1499 1552,1433 1372,1504 1166,1467 1087,1518 931,1428 800,1463 259,1462" rendition="Line" xml:id="facs_1_tr_1_tl_9"/>
+				<zone points="270,1737 369,1712 395,1753 497,1712 567,1735 822,1689 1112,1751 1170,1734 1293,1745 1377,1697 1515,1734 1896,1700 2007,1745 2083,1711 2178,1771 2263,1732 2287,1675 2263,1613 2208,1597 2020,1621 1835,1581 1673,1591 1356,1570 1206,1610 1153,1578 732,1621 676,1606 536,1610 487,1589 270,1613" rendition="Line" xml:id="facs_1_tr_1_tl_10"/>
+				<zone points="280,1851 376,1831 619,1861 800,1835 960,1861 1108,1811 1169,1859 1354,1811 1716,1848 1824,1814 1964,1874 2185,1878 2329,1880 2345,1848 2326,1748 2184,1767 2136,1732 1636,1732 1477,1764 1263,1732 1128,1735 1062,1757 880,1700 629,1740 516,1700 417,1753 395,1701 280,1766" rendition="Line" xml:id="facs_1_tr_1_tl_11"/>
+				<zone points="275,1956 381,1938 460,1992 861,1962 1332,1964 1707,1947 1927,1988 2271,1993 2297,1894 1980,1888 1845,1829 1705,1874 1544,1819 1407,1843 1171,1856 1131,1836 953,1864 909,1845 689,1860 504,1858 410,1816 275,1864" rendition="Line" xml:id="facs_1_tr_1_tl_12"/>
+				<zone points="222,2114 264,2165 540,2067 569,2107 875,2059 1100,2123 1256,2086 1457,2149 1769,2059 2349,2171 2350,2096 2260,2041 2094,1980 1855,2009 1692,1978 1533,2012 1430,1954 1161,1971 888,1948 830,1991 672,1943 515,2010 408,1955 264,2052" rendition="Line" xml:id="facs_1_tr_1_tl_13"/>
+				<zone points="192,2274 378,2258 507,2325 583,2252 731,2242 772,2222 848,2105 743,2096 584,2176 555,2155 570,2095 553,2055 339,2160 315,2200 243,2184" rendition="Line" xml:id="facs_1_tr_1_tl_15"/>
+				<zone points="1636,2221 1748,2263 1800,2231 1917,2258 1964,2231 2022,2252 2070,2234 2247,2297 2297,2289 2307,2209 2282,2147 2036,2136 1901,2089 1843,2112 1623,2096" rendition="Line" xml:id="facs_1_tr_1_tl_14"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_2">
+		<surface ulx="0" uly="0" lrx="2377" lry="3605">
+			<graphic url="0002_OÖLA, HA Steyr, Sch. 1237, Fasz. 26, Nr. 481-080_2, fol. 140v.jpg" width="2377px" height="3605px"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_3">
+		<surface ulx="0" uly="0" lrx="2391" lry="3605">
+			<graphic url="0003_OÖLA, HA Steyr, Sch. 1237, Fasz. 26, Nr. 481-080_3, fol. 141r.jpg" width="2391px" height="3605px"/>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_4">
+		<surface ulx="0" uly="0" lrx="2373" lry="3601">
+			<graphic url="0004_OÖLA, HA Steyr, Sch. 1237, Fasz. 26, Nr. 481-080_4, fol. 141v.jpg" width="2373px" height="3601px"/>
+			<zone points="753,1825 749,2299 1642,2299 1637,1821" rendition="TextRegion" xml:id="facs_4_tr_1">
+				<zone points="788,2087 1074,2136 1114,2112 1258,2137 1606,2119 1578,1953 1251,1995 1066,1962 898,1930 806,1975 788,2055" rendition="Line" xml:id="facs_4_tr_1_tl_2"/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<div>
+				<div type="page"><pb facs="#facs_1" n="1"/>
+				<p facs="#facs_1_tr_1">
+					<lb facs="#facs_1_tr_1_tl_1" n="N001"/>Lieber <choice><expan>obrist</expan><abbr>ob.</abbr></choice> hoffmeister. Gestern wirdt es geheissen haben: <w type="start">lin</w>
+					<lb facs="#facs_1_tr_1_tl_2" n="N002"/><w type="end">gua</w> praecurrit mentem, das ich aus Savoyen Hispanias gemacht habe,
+					<lb facs="#facs_1_tr_1_tl_3" n="N003"/>vnd war mein intention, auskommen zue lassen, das ich resolvirdt hette,
+					<lb facs="#facs_1_tr_1_tl_4" n="N004"/>ein schikhung in Savoyen zue thun. Meldete so dann sich <w type="start">nie</w>
+					<lb facs="#facs_1_tr_1_tl_5" n="N005"/><w type="end">mandt</w> anderst an, der grosser vantaggio vor den Buquoy hatte,
+					<lb facs="#facs_1_tr_1_tl_6" n="N006"/>so kondte er Buquoy aldahin geschikht werden. Was aber die <w type="start">ex</w>
+					<lb facs="#facs_1_tr_1_tl_7" n="N007"/><w type="end">pedition</w> belangt, so ware wegen des goldmachers von Venedig,
+					<lb facs="#facs_1_tr_1_tl_8" n="N008"/>das mann nemblich die von eüch vnd dem praesidenten <w type="start">einge</w>
+					<lb facs="#facs_1_tr_1_tl_9" n="N009"/><w type="end">rathne</w> expedition <corr>v</corr>nd decret oder an Tassis oder an Federici
+					<lb facs="#facs_1_tr_1_tl_10" n="N010"/>machen lassen soldte. Vbrigens hette ich euch des von Harrach
+					<lb facs="#facs_1_tr_1_tl_11" n="N011"/>schreiben euch alßbald geschikht, es war aber so wenig in ziffer
+					<lb facs="#facs_1_tr_1_tl_12" n="N012"/>vnd ich so curios, das ich es alßbald selbsten decifriret
+					<lb facs="#facs_1_tr_1_tl_13" n="N013"/>habe. Vnd verbleibe euch mitt <choice><expan>kayserlichen</expan><abbr>kay.</abbr></choice> genaden wolgewog<choice><expan/><abbr>en</abbr></choice>
+					<lb facs="#facs_1_tr_1_tl_15" n="N014"/>Leopoldt
+					<lb facs="#facs_1_tr_1_tl_14" n="N015"/>30. Augusti 1675
+				</p>
+				</div><div type="page"><pb facs="#facs_2" n="2"/>
+				</div><div type="page"><pb facs="#facs_3" n="3"/>
+				</div><div type="page"><pb facs="#facs_4" n="4"/>
+				<p facs="#facs_4_tr_1">
+					<lb facs="#facs_4_tr_1_tl_2" n="N001"/>An <choice><expan>obrist</expan><abbr>Ob.</abbr></choice> Hoffmeistern
+				</p>
+			</div></div>
+		</body>
+	</text>
 </TEI>
